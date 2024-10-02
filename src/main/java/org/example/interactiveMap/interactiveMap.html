@@ -131,7 +131,7 @@
     }).addTo(map);
 
     // Load the JSON-LD data
-    d3.json("http://localhost:8000/WBS_Vets/veterinary_ambulances_output.jsonld").then(function (data) {
+    d3.json("http://localhost:8000/veterinary_ambulances_output.jsonld").then(function (data) {
         const clinics = [];
         const citySet = new Set();
         const typeSet = new Set();
