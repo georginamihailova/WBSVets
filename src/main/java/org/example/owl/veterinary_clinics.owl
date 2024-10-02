@@ -1,0 +1,1155 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:owl="http://www.w3.org/2002/07/owl#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+    xmlns:j.0="http://example.org/vet_clinics#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <owl:Class rdf:about="http://example.org/vet_clinics#VeterinaryClinic"/>
+  <owl:DatatypeProperty rdf:about="http://example.org/vet_clinics#longitude"/>
+  <owl:DatatypeProperty rdf:about="http://example.org/vet_clinics#latitude"/>
+  <owl:DatatypeProperty rdf:about="http://example.org/vet_clinics#address"/>
+  <j.0:VeterinaryClinic rdf:about="http://example.org/vet_clinics#07-2563/2">
+    <j.0:longitude>42.03090</j.0:longitude>
+    <j.0:latitude>с.Џепчиште</j.0:latitude>
+    <j.0:address>с.Џепчиште</j.0:address>
+    <rdfs:label>Албавет-Вери</rdfs:label>
+  </j.0:VeterinaryClinic>
+  <j.0:VeterinaryClinic rdf:about="http://example.org/vet_clinics#07-3178/2">
+    <j.0:longitude>41.9965</j.0:longitude>
+    <j.0:latitude>ул. Вељко Влаховиќ број 26</j.0:latitude>
+    <j.0:address>ул. Вељко Влаховиќ број 26</j.0:address>
+    <rdfs:label>МИЛАН ВЕТ</rdfs:label>
+  </j.0:VeterinaryClinic>
+  <j.0:VeterinaryClinic rdf:about="http://example.org/vet_clinics#11-7739/3">
+    <j.0:longitude>41.3460</j.0:longitude>
+    <j.0:latitude>с. Ропотово</j.0:latitude>
+    <j.0:address>с. Ропотово</j.0:address>
+    <rdfs:label>Прима Вет </rdfs:label>
+  </j.0:VeterinaryClinic>
+  <j.0:VeterinaryClinic rdf:about="http://example.org/vet_clinics#11-8034/2">
+    <j.0:longitude>41.1150</j.0:longitude>
+    <j.0:latitude>с. Лескоец</j.0:latitude>
+    <j.0:address>с. Лескоец</j.0:address>
+    <rdfs:label>Меди Вет</rdfs:label>
+  </j.0:VeterinaryClinic>
+  <j.0:VeterinaryClinic rdf:about="http://example.org/vet_clinics#11-2441/3">
+    <j.0:longitude>41.1070</j.0:longitude>
+    <j.0:latitude>с.Требеништа</j.0:latitude>
+    <j.0:address>с.Требеништа</j.0:address>
+    <rdfs:label>Прима-Вет </rdfs:label>
+  </j.0:VeterinaryClinic>
+  <j.0:VeterinaryClinic rdf:about="http://example.org/vet_clinics#10-548">
+    <j.0:longitude>41.7450</j.0:longitude>
+    <j.0:latitude>населено место без уличен систем бр. 1 Трница Ростуша, Маврово</j.0:latitude>
+    <j.0:address>с.Ерџелија Свети Николе</j.0:address>
+    <rdfs:label>ТРНИЦА ДОО</rdfs:label>
+  </j.0:VeterinaryClinic>
+  <j.0:VeterinaryClinic rdf:about="http://example.org/vet_clinics#08-794">
+    <j.0:longitude>41.9850</j.0:longitude>
+    <j.0:latitude>ул. Васко Карангелевски бр.9 Аеродром</j.0:latitude>
+    <j.0:address>ул. Васко Карангелевски бр.9 Аеродром</j.0:address>
+    <rdfs:label>Д-р Марин Величковски</rdfs:label>
+  </j.0:VeterinaryClinic>
+  <j.0:VeterinaryClinic rdf:about="http://example.org/vet_clinics#07-2121/3">
+    <j.0:longitude>41.9480</j.0:longitude>
+    <j.0:latitude>ул.3 бр.2 ,Кондово,Сарај</j.0:latitude>
+    <j.0:address>ул.3 бр.2 ,Кондово,Сарај</j.0:address>
+    <rdfs:label>АМСА-ВЕТ-САМЕТ</rdfs:label>
+  </j.0:VeterinaryClinic>
+  <j.0:VeterinaryClinic rdf:about="http://example.org/vet_clinics#11-2934/2">
+    <j.0:longitude>41.1110</j.0:longitude>
+    <j.0:latitude>ул. Илинденска 42</j.0:latitude>
+    <j.0:address>ул.Дејан Војвода бр.5</j.0:address>
+    <rdfs:label>Вет Медика</rdfs:label>
+  </j.0:VeterinaryClinic>
+  <j.0:VeterinaryClinic rdf:about="http://example.org/vet_clinics#07-1163/2">
+    <j.0:longitude>41.4420</j.0:longitude>
+    <j.0:latitude>ул. Иљо Шопов бр.43/2, Струмица</j.0:latitude>
+    <j.0:address>ул. Дрварска бр.50,</j.0:address>
+    <rdfs:label>Мис Нова</rdfs:label>
+  </j.0:VeterinaryClinic>
+  <j.0:VeterinaryClinic rdf:about="http://example.org/vet_clinics#07-8191/2">
+    <j.0:longitude>41.9945</j.0:longitude>
+    <j.0:latitude>ул. 9 бр. 47 н. Илинден</j.0:latitude>
+    <j.0:address>с. Пекљане Виница</j.0:address>
+    <rdfs:label>Вини- Фарма н.м Илинден Илинден</rdfs:label>
+  </j.0:VeterinaryClinic>
+  <j.0:VeterinaryClinic rdf:about="http://example.org/vet_clinics#11-4347/2">
+    <j.0:longitude>41.9742</j.0:longitude>
+    <j.0:latitude>ул.Врполе 9Б</j.0:latitude>
+    <j.0:address>с. Петровец</j.0:address>
+    <rdfs:label>Ветеринарна Станица Про Инфовет</rdfs:label>
+  </j.0:VeterinaryClinic>
+  <j.0:VeterinaryClinic rdf:about="http://example.org/vet_clinics#11-4995/2">
+    <j.0:longitude>41.7523</j.0:longitude>
+    <j.0:latitude>ул. Маршал Тито бр. 3</j.0:latitude>
+    <j.0:address>ул. Маршал Тито бр. 3</j.0:address>
+    <rdfs:label>Ветеринарна Станица Здравје Делчево</rdfs:label>
+  </j.0:VeterinaryClinic>
+  <j.0:VeterinaryClinic rdf:about="http://example.org/vet_clinics#07-4630/2">
+    <j.0:longitude>41.9965</j.0:longitude>
+    <j.0:latitude>ул. Елисие Поповски - Марко  бр. 55б</j.0:latitude>
+    <j.0:address>ул. Елисие Поповски - Марко  бр. 55б</j.0:address>
+    <rdfs:label>МОГЛИВЕТ</rdfs:label>
+  </j.0:VeterinaryClinic>
+  <j.0:VeterinaryClinic rdf:about="http://example.org/vet_clinics#08-9153/2">
+    <j.0:longitude>41.035089</j.0:longitude>
+    <j.0:latitude>ул. Ѓ бр. 28 с. Могила Могила</j.0:latitude>
+    <j.0:address>ул. Ѓ бр. 28 с. Могила</j.0:address>
+    <rdfs:label>Пелагонија Вет ДООЕЛ</rdfs:label>
+  </j.0:VeterinaryClinic>
+  <j.0:VeterinaryClinic rdf:about="http://example.org/vet_clinics#07-6546/4">
+    <j.0:longitude>41.036331</j.0:longitude>
+    <j.0:latitude>ул. Индустриска бб.</j.0:latitude>
+    <j.0:address>бул.1ви Мај бр.210</j.0:address>
+    <rdfs:label>Др.Игор  Талевски</rdfs:label>
+  </j.0:VeterinaryClinic>
+  <j.0:VeterinaryClinic rdf:about="http://example.org/vet_clinics#11-3720/3">
+    <j.0:longitude>41.9955</j.0:longitude>
+    <j.0:latitude>ул. Лазар Поп Трајков 6-7</j.0:latitude>
+    <j.0:address>с. Мирковци</j.0:address>
+    <rdfs:label>Ветеринарна Станица Мирковци </rdfs:label>
+  </j.0:VeterinaryClinic>
+  <j.0:VeterinaryClinic rdf:about="http://example.org/vet_clinics#11-4897/3">
+    <j.0:longitude>41.1450</j.0:longitude>
+    <j.0:latitude>ул. 7 Ноемврибб</j.0:latitude>
+    <j.0:address>ул. 7 Ноемврибб</j.0:address>
+    <rdfs:label>Проданов Ѓорѓи,доел</rdfs:label>
+  </j.0:VeterinaryClinic>
+  <j.0:VeterinaryClinic rdf:about="http://example.org/vet_clinics#11-3360/4">
+    <j.0:longitude>41.7770</j.0:longitude>
+    <j.0:latitude>ул. Лазар Андонов бр.1</j.0:latitude>
+    <j.0:address>ул.Јоаким Крчовски бб: с. Облешево</j.0:address>
+    <rdfs:label>Ветеринарна Станица Здравје Кочани подружница број 1</rdfs:label>
+  </j.0:VeterinaryClinic>
+  <j.0:VeterinaryClinic rdf:about="http://example.org/vet_clinics#07-8716/2">
+    <j.0:longitude>41.4485</j.0:longitude>
+    <j.0:latitude>ул. Младинска бр.12 Струмица</j.0:latitude>
+    <j.0:address>с. Муртино бр.499 Струмица</j.0:address>
+    <rdfs:label>Ветеринарна Амбуланта Муртино</rdfs:label>
+  </j.0:VeterinaryClinic>
+  <j.0:VeterinaryClinic rdf:about="http://example.org/vet_clinics#11-466/3">
+    <j.0:longitude>41.9965</j.0:longitude>
+    <j.0:latitude>бул.Јане сандански бр.11</j.0:latitude>
+    <j.0:address>ул.Бул. Авној 4/2</j.0:address>
+    <rdfs:label>Др. Верче</rdfs:label>
+  </j.0:VeterinaryClinic>
+  <j.0:VeterinaryClinic rdf:about="http://example.org/vet_clinics#07-3057/2">
+    <j.0:longitude>41.7128</j.0:longitude>
+    <j.0:latitude>с.Ново село</j.0:latitude>
+    <j.0:address>Каратманово ВГ</j.0:address>
+    <rdfs:label>УНИАГРО</rdfs:label>
+  </j.0:VeterinaryClinic>
+  <j.0:VeterinaryClinic rdf:about="http://example.org/vet_clinics#10-1445">
+    <j.0:longitude>41.3510</j.0:longitude>
+    <j.0:latitude>ул. Илинденска бр.1 Чашка</j.0:latitude>
+    <j.0:address>ул. Илинденска бр.1 Чашка</j.0:address>
+    <rdfs:label>ВЕТЕРИНА ДР: ДОМАЗЕТОВСКИ</rdfs:label>
+  </j.0:VeterinaryClinic>
+  <j.0:VeterinaryClinic rdf:about="http://example.org/vet_clinics#08-9100/2">
+    <j.0:longitude>42.0019</j.0:longitude>
+    <j.0:latitude>ул. 101 бр. 50 Шемшево, Јегуновце</j.0:latitude>
+    <j.0:address>с. Шемшево</j.0:address>
+    <rdfs:label>АНИМАЛ ВЕТ ВЛАМА</rdfs:label>
+  </j.0:VeterinaryClinic>
+  <j.0:VeterinaryClinic rdf:about="http://example.org/vet_clinics#07-4102/4">
+    <j.0:longitude>41.1165</j.0:longitude>
+    <j.0:latitude>ул.29 Ноември бр.1</j.0:latitude>
+    <j.0:address>ул.29 Ноември бр.1</j.0:address>
+    <rdfs:label>Др.Новица Величковски</rdfs:label>
+  </j.0:VeterinaryClinic>
+  <j.0:VeterinaryClinic rdf:about="http://example.org/vet_clinics#11-4950/2">
+    <j.0:longitude>42.0069</j.0:longitude>
+    <j.0:latitude>ул. 29 Ноември бб</j.0:latitude>
+    <j.0:address>ул. 29 Ноември бб</j.0:address>
+    <rdfs:label>Ветеринарна Станица Тетово</rdfs:label>
+  </j.0:VeterinaryClinic>
+  <j.0:VeterinaryClinic rdf:about="http://example.org/vet_clinics#11-971/3">
+    <j.0:longitude>41.4435</j.0:longitude>
+    <j.0:latitude>с.Куклиш, бр.258</j.0:latitude>
+    <j.0:address>с.Куклиш, бр.258</j.0:address>
+    <rdfs:label>Едори-Вет</rdfs:label>
+  </j.0:VeterinaryClinic>
+  <j.0:VeterinaryClinic rdf:about="http://example.org/vet_clinics#07-1358/2">
+    <j.0:longitude>41.4425</j.0:longitude>
+    <j.0:latitude>ул Самоилова 2</j.0:latitude>
+    <j.0:address>ул. Самоилова бр. 2</j.0:address>
+    <rdfs:label>Унивет</rdfs:label>
+  </j.0:VeterinaryClinic>
+  <j.0:VeterinaryClinic rdf:about="http://example.org/vet_clinics#08-2383/2">
+    <j.0:longitude>41.7430</j.0:longitude>
+    <j.0:latitude>ул. Митко Соколов бр.8 Штип</j.0:latitude>
+    <j.0:address>ул. Митко Соколов бр.8 Штип</j.0:address>
+    <rdfs:label>Ветеринарна Амбуланта Штип</rdfs:label>
+  </j.0:VeterinaryClinic>
+  <j.0:VeterinaryClinic rdf:about="http://example.org/vet_clinics#07-2471/2">
+    <j.0:longitude>41.4308</j.0:longitude>
+    <j.0:latitude>ул.Јанко цветинов бр.50/1-3</j.0:latitude>
+    <j.0:address>ул.Гоце Делчев бр.61 А</j.0:address>
+    <rdfs:label>СИТИ ВЕТ</rdfs:label>
+  </j.0:VeterinaryClinic>
+  <j.0:VeterinaryClinic rdf:about="http://example.org/vet_clinics#08-696">
+    <j.0:longitude>41.7420</j.0:longitude>
+    <j.0:latitude>населено место без уличен систем бр.30/а Долни Балван</j.0:latitude>
+    <j.0:address>бр.30 с. Долни Балван општина Карбинци</j.0:address>
+    <rdfs:label>Ветеринарна амбуланта ПРИМА ВЕТ КОМПАНИ</rdfs:label>
+  </j.0:VeterinaryClinic>
+  <j.0:VeterinaryClinic rdf:about="http://example.org/vet_clinics#11-2801/3">
+    <j.0:longitude>41.035211</j.0:longitude>
+    <j.0:latitude>ул.1 ви Мај бр.243</j.0:latitude>
+    <j.0:address>ул.1 ви Мај бр.243</j.0:address>
+    <rdfs:label>Бар-Вет</rdfs:label>
+  </j.0:VeterinaryClinic>
+  <j.0:VeterinaryClinic rdf:about="http://example.org/vet_clinics#11-7637/3">
+    <j.0:longitude>41.1760</j.0:longitude>
+    <j.0:latitude>ул. Пабло Неруда 18</j.0:latitude>
+    <j.0:address>ул. Пабло Неруда 18</j.0:address>
+    <rdfs:label>Кавај -вет</rdfs:label>
+  </j.0:VeterinaryClinic>
+  <j.0:VeterinaryClinic rdf:about="http://example.org/vet_clinics#07-8081/3">
+    <j.0:longitude>41.9985</j.0:longitude>
+    <j.0:latitude>ул.Московска бр. 7/004 Карпош</j.0:latitude>
+    <j.0:address>ул.Московска бр. 7/004</j.0:address>
+    <rdfs:label>ВЕТМЕДИК 2014 ДООЕЛ</rdfs:label>
+  </j.0:VeterinaryClinic>
+  <j.0:VeterinaryClinic rdf:about="http://example.org/vet_clinics#08-3822/2">
+    <j.0:longitude>41.7730</j.0:longitude>
+    <j.0:latitude>ул.Теодосија Паунов бр. 55 Кочани</j.0:latitude>
+    <j.0:address>ул.Теодосија Паунов бр. 55 Кочани</j.0:address>
+    <rdfs:label>ВЕТ-МЕД ГЃ</rdfs:label>
+  </j.0:VeterinaryClinic>
+  <j.0:VeterinaryClinic rdf:about="http://example.org/vet_clinics#11-1441/3">
+    <j.0:longitude>42.1250</j.0:longitude>
+    <j.0:latitude>ул. Доне Божинов бб</j.0:latitude>
+    <j.0:address>с. Матејче</j.0:address>
+    <rdfs:label>ВСЦ Тодор Велков  ВС Матејче</rdfs:label>
+  </j.0:VeterinaryClinic>
+  <j.0:VeterinaryClinic rdf:about="http://example.org/vet_clinics#11-4864/3">
+    <j.0:longitude>41.3475</j.0:longitude>
+    <j.0:latitude>ул. Моша Пијаде бб</j.0:latitude>
+    <j.0:address>ул. Моша Пијаде бб</j.0:address>
+    <rdfs:label>Дамески Ветерина</rdfs:label>
+  </j.0:VeterinaryClinic>
+  <j.0:VeterinaryClinic rdf:about="http://example.org/vet_clinics#11-3273/3">
+    <j.0:longitude>41.9930</j.0:longitude>
+    <j.0:latitude>ул.Шумадиска бр.6 лок.2 оп.Центар</j.0:latitude>
+    <j.0:address>ул.Шумадиска бр.6 лок.2 оп.Центар</j.0:address>
+    <rdfs:label>Д-р Глигоровски и Д-р Мeржановска</rdfs:label>
+  </j.0:VeterinaryClinic>
+  <j.0:VeterinaryClinic rdf:about="http://example.org/vet_clinics#10-3625">
+    <j.0:longitude>41.4350</j.0:longitude>
+    <j.0:latitude>ул. Мито Хаџи Василев Јасмин бр.115 Струмица</j.0:latitude>
+    <j.0:address>ул. Мито Хаџи Василев Јасмин бр.115 Струмица</j.0:address>
+    <rdfs:label>ВЕТЕРИНА МЕДИКА</rdfs:label>
+  </j.0:VeterinaryClinic>
+  <j.0:VeterinaryClinic rdf:about="http://example.org/vet_clinics#11-5301/3">
+    <j.0:longitude>42.0035</j.0:longitude>
+    <j.0:latitude>Ул.Волгоградска бр.10/2-6</j.0:latitude>
+    <j.0:address>ул.Ѓорче Петров бр.36,</j.0:address>
+    <rdfs:label>ВЕТАНАЛ Др.Налетоски</rdfs:label>
+  </j.0:VeterinaryClinic>
+  <j.0:VeterinaryClinic rdf:about="http://example.org/vet_clinics#07-6127/3">
+    <j.0:longitude>42.0015</j.0:longitude>
+    <j.0:latitude>ул. Митрополит Теодосије Гологанов  бр. 149-12</j.0:latitude>
+    <j.0:address>ул. Митрополит Теодосије Гологанов  бр. 149-12</j.0:address>
+    <rdfs:label>Доктор Јасминка ван дер Флиер</rdfs:label>
+  </j.0:VeterinaryClinic>
+  <j.0:VeterinaryClinic rdf:about="http://example.org/vet_clinics#11-9497/2">
+    <j.0:longitude>42.1335</j.0:longitude>
+    <j.0:latitude>с. Младо Нагоричане оп.С.Нагоричане</j.0:latitude>
+    <j.0:address>с. Младо Нагоричане</j.0:address>
+    <rdfs:label>Вет. Клиника СТИВ-ВЕТ младо Нагоричане</rdfs:label>
+  </j.0:VeterinaryClinic>
+  <j.0:VeterinaryClinic rdf:about="http://example.org/vet_clinics#10-2427">
+    <j.0:longitude>41.6075</j.0:longitude>
+    <j.0:latitude>Млаки 1 бр.1 Здуње , Гостивар</j.0:latitude>
+    <j.0:address>ул. Млаки 1 бр.1 Здуње  Гостивар</j.0:address>
+    <rdfs:label>Алинас Гроуп Дооел</rdfs:label>
+  </j.0:VeterinaryClinic>
+  <j.0:VeterinaryClinic rdf:about="http://example.org/vet_clinics#08-5014/2">
+    <j.0:longitude>41.9860</j.0:longitude>
+    <j.0:latitude>ул. Козара бр.64/1 Скопје- Центар</j.0:latitude>
+    <j.0:address>ул. Козара бр.64/1 Скопје</j.0:address>
+    <rdfs:label>ВЕТЕРИНАРЕН ЦЕНТАР</rdfs:label>
+  </j.0:VeterinaryClinic>
+  <j.0:VeterinaryClinic rdf:about="http://example.org/vet_clinics#11-7150/3">
+    <j.0:longitude>41.4308</j.0:longitude>
+    <j.0:latitude>с.Дабиље број358</j.0:latitude>
+    <j.0:address>с.Дабиље број358</j.0:address>
+    <rdfs:label>"""Ветерина - Нова"""</rdfs:label>
+  </j.0:VeterinaryClinic>
+  <j.0:VeterinaryClinic rdf:about="http://example.org/vet_clinics#07-3618/3">
+    <j.0:longitude>41.3400</j.0:longitude>
+    <j.0:latitude>ул.Златибор бр.64</j.0:latitude>
+    <j.0:address>ул.Ладо Лапецот бр.102</j.0:address>
+    <rdfs:label>Ветеринарна клиника Прилеп</rdfs:label>
+  </j.0:VeterinaryClinic>
+  <j.0:VeterinaryClinic rdf:about="http://example.org/vet_clinics#11-15712/3">
+    <j.0:longitude>41.035852</j.0:longitude>
+    <j.0:latitude>м.в. Врчва с. Крклино</j.0:latitude>
+    <j.0:address>м.в. Врчва с. Крклино</j.0:address>
+    <rdfs:label>Пела вет Битола</rdfs:label>
+  </j.0:VeterinaryClinic>
+  <j.0:VeterinaryClinic rdf:about="http://example.org/vet_clinics#11-5474/3">
+    <j.0:longitude>41.2475</j.0:longitude>
+    <j.0:latitude>ул.Илинденска бр.109</j.0:latitude>
+    <j.0:address>ул. Тодор Проески 35</j.0:address>
+    <rdfs:label>Д-р. Тасески</rdfs:label>
+  </j.0:VeterinaryClinic>
+  <j.0:VeterinaryClinic rdf:about="http://example.org/vet_clinics#07-1757/2">
+    <j.0:longitude>41.7465</j.0:longitude>
+    <j.0:latitude>с.Врсаково</j.0:latitude>
+    <j.0:address>ул.Сутјеска бр.83/А локал 5</j.0:address>
+    <rdfs:label>НОВА</rdfs:label>
+  </j.0:VeterinaryClinic>
+  <j.0:VeterinaryClinic rdf:about="http://example.org/vet_clinics#11-14899/3">
+    <j.0:longitude>42.00100</j.0:longitude>
+    <j.0:latitude>Маршал ТИТО бр.124/9</j.0:latitude>
+    <j.0:address>с.Брвеница</j.0:address>
+    <rdfs:label>Ветеринар ДК </rdfs:label>
+  </j.0:VeterinaryClinic>
+  <j.0:VeterinaryClinic rdf:about="http://example.org/vet_clinics#08-275/3">
+    <j.0:longitude>41.9700</j.0:longitude>
+    <j.0:latitude>ул. Булевар Видое Смилевски Бато бр. 25/2-9</j.0:latitude>
+    <j.0:address>ул.Булевар Видое Смилевски Бато бр. 11</j.0:address>
+    <rdfs:label>Хепи Пет</rdfs:label>
+  </j.0:VeterinaryClinic>
+  <j.0:VeterinaryClinic rdf:about="http://example.org/vet_clinics#10-2081">
+    <j.0:longitude>41.032399</j.0:longitude>
+    <j.0:latitude>ул. Нико Фундали бр. 13/23 Битола</j.0:latitude>
+    <j.0:address>с. Ивањевци општина Могила</j.0:address>
+    <rdfs:label>ДР. САШО ПАВЛОВСКИ ДООЕЛ Битола</rdfs:label>
+  </j.0:VeterinaryClinic>
+  <j.0:VeterinaryClinic rdf:about="http://example.org/vet_clinics#08-1806/2">
+    <j.0:longitude>41.3130</j.0:longitude>
+    <j.0:latitude>ул.1 бр.1 с. Новаци</j.0:latitude>
+    <j.0:address>с. Новаци ул.1 бр.1</j.0:address>
+    <rdfs:label>Ветеринарна Амбуланта Проветалек </rdfs:label>
+  </j.0:VeterinaryClinic>
+  <j.0:VeterinaryClinic rdf:about="http://example.org/vet_clinics#08-7949/2">
+    <j.0:longitude>42.0011</j.0:longitude>
+    <j.0:latitude>ул.101 бр.10 с. Слатино Теарце</j.0:latitude>
+    <j.0:address>с. Слатино Теарце</j.0:address>
+    <rdfs:label>ВЕТ- ТЕАРЦЕ Ветеринарна Клиника</rdfs:label>
+  </j.0:VeterinaryClinic>
+  <j.0:VeterinaryClinic rdf:about="http://example.org/vet_clinics#11-287/3">
+    <j.0:longitude>41.1720</j.0:longitude>
+    <j.0:latitude>с.Франгово</j.0:latitude>
+    <j.0:address>с.Франгово</j.0:address>
+    <rdfs:label>Ад Лумани</rdfs:label>
+  </j.0:VeterinaryClinic>
+  <j.0:VeterinaryClinic rdf:about="http://example.org/vet_clinics#11-10070/3">
+    <j.0:longitude>41.4500</j.0:longitude>
+    <j.0:latitude>ул.Маршал Тито бб.</j.0:latitude>
+    <j.0:address>ул.Маршал Тито бб. Краварска фарма</j.0:address>
+    <rdfs:label>"ЗТД ""Сточарство"""</rdfs:label>
+  </j.0:VeterinaryClinic>
+  <j.0:VeterinaryClinic rdf:about="http://example.org/vet_clinics#11-4744/2">
+    <j.0:longitude>41.7154</j.0:longitude>
+    <j.0:latitude>ул. Раштански пат бб</j.0:latitude>
+    <j.0:address>ул. Раштански пат бб</j.0:address>
+    <rdfs:label>Ветеринарна Станица ДОО Велес</rdfs:label>
+  </j.0:VeterinaryClinic>
+  <j.0:VeterinaryClinic rdf:about="http://example.org/vet_clinics#11-4231/3">
+    <j.0:longitude>41.1085</j.0:longitude>
+    <j.0:latitude>ул. Илинденска 42</j.0:latitude>
+    <j.0:address>Струга ,с. Враниште</j.0:address>
+    <rdfs:label>Вет Медика </rdfs:label>
+  </j.0:VeterinaryClinic>
+  <j.0:VeterinaryClinic rdf:about="http://example.org/vet_clinics#07-7093/2">
+    <j.0:longitude>41.4378</j.0:longitude>
+    <j.0:latitude>ул.Крушевска Република бр.203</j.0:latitude>
+    <j.0:address>с.Мокриево бр.191</j.0:address>
+    <rdfs:label>ТРИВЕТ-Звонко</rdfs:label>
+  </j.0:VeterinaryClinic>
+  <j.0:VeterinaryClinic rdf:about="http://example.org/vet_clinics#11-3919/3">
+    <j.0:longitude>41.9955</j.0:longitude>
+    <j.0:latitude>ул. Лазар Поп Трајков 6-7</j.0:latitude>
+    <j.0:address>с. Сопиште</j.0:address>
+    <rdfs:label>Ветеринарна Станица Сопиште</rdfs:label>
+  </j.0:VeterinaryClinic>
+  <j.0:VeterinaryClinic rdf:about="http://example.org/vet_clinics#11-6748/2">
+    <j.0:longitude>41.6094</j.0:longitude>
+    <j.0:latitude>ул.ЈНА бр. 254</j.0:latitude>
+    <j.0:address>ул.брака Гиновски бб</j.0:address>
+    <rdfs:label>Ветеринарна Станица Труст Вет</rdfs:label>
+  </j.0:VeterinaryClinic>
+  <j.0:VeterinaryClinic rdf:about="http://example.org/vet_clinics#07-5199/6">
+    <j.0:longitude>41.6285</j.0:longitude>
+    <j.0:latitude>Ул.8 ми Септември бр 64</j.0:latitude>
+    <j.0:address>с.Долно Чичево</j.0:address>
+    <rdfs:label>АГРИА</rdfs:label>
+  </j.0:VeterinaryClinic>
+  <j.0:VeterinaryClinic rdf:about="http://example.org/vet_clinics#11-6496/2">
+    <j.0:longitude>41.1733</j.0:longitude>
+    <j.0:latitude>Индустриска бб</j.0:latitude>
+    <j.0:address>Индустриска  бб</j.0:address>
+    <rdfs:label> Струга-вет</rdfs:label>
+  </j.0:VeterinaryClinic>
+  <j.0:VeterinaryClinic rdf:about="http://example.org/vet_clinics#07-1460/2">
+    <j.0:longitude>42.0070</j.0:longitude>
+    <j.0:latitude>ул. Св.Јоаким Осоговски бр. 61</j.0:latitude>
+    <j.0:address>Ранковце</j.0:address>
+    <rdfs:label>РАНКОВЦЕ</rdfs:label>
+  </j.0:VeterinaryClinic>
+  <j.0:VeterinaryClinic rdf:about="http://example.org/vet_clinics#11-4326/2">
+    <j.0:longitude>42.003911</j.0:longitude>
+    <j.0:latitude>с.Камењане</j.0:latitude>
+    <j.0:address>с.Камењане</j.0:address>
+    <rdfs:label>Еуровет</rdfs:label>
+  </j.0:VeterinaryClinic>
+  <j.0:VeterinaryClinic rdf:about="http://example.org/vet_clinics#11-2909/2">
+    <j.0:longitude>41.032341</j.0:longitude>
+    <j.0:latitude>ул.ЈНА бр.22-14</j.0:latitude>
+    <j.0:address>Булевар 1 мај 177</j.0:address>
+    <rdfs:label>Фармалек</rdfs:label>
+  </j.0:VeterinaryClinic>
+  <j.0:VeterinaryClinic rdf:about="http://example.org/vet_clinics#11-5264/4">
+    <j.0:longitude>41.9980</j.0:longitude>
+    <j.0:latitude>ул.Париска Комуна 14-2/16</j.0:latitude>
+    <j.0:address>ул.526,бр.8, Марино</j.0:address>
+    <rdfs:label>Винивет Плус</rdfs:label>
+  </j.0:VeterinaryClinic>
+  <j.0:VeterinaryClinic rdf:about="http://example.org/vet_clinics#07-724/2">
+    <j.0:longitude>41.3750</j.0:longitude>
+    <j.0:latitude>ул.29 Ноември бр.2</j.0:latitude>
+    <j.0:address>ул.29 Ноември бр.2</j.0:address>
+    <rdfs:label>ВАЛАНДОВО-ВЕТ,ДОО</rdfs:label>
+  </j.0:VeterinaryClinic>
+  <j.0:VeterinaryClinic rdf:about="http://example.org/vet_clinics#11-1361/3">
+    <j.0:longitude>41.5075</j.0:longitude>
+    <j.0:latitude>ул. Јанко Михајловски 7</j.0:latitude>
+    <j.0:address>ул. Јанко Михајловски 7</j.0:address>
+    <rdfs:label>Ветеринарна Станица Центар Кичево</rdfs:label>
+  </j.0:VeterinaryClinic>
+  <j.0:VeterinaryClinic rdf:about="http://example.org/vet_clinics#11-1569/3">
+    <j.0:longitude>41.032345</j.0:longitude>
+    <j.0:latitude>ул. 1 с.Цапари</j.0:latitude>
+    <j.0:address>ул.генерал Васко Карангелески бб,к1л4локал62</j.0:address>
+    <rdfs:label>Анима Вет</rdfs:label>
+  </j.0:VeterinaryClinic>
+  <j.0:VeterinaryClinic rdf:about="http://example.org/vet_clinics#11-5302/2">
+    <j.0:longitude>41.7398</j.0:longitude>
+    <j.0:latitude>ул. Илинденска 96</j.0:latitude>
+    <j.0:address>ул. Илинденска 96</j.0:address>
+    <rdfs:label>Ветеринарна Станица Виница</rdfs:label>
+  </j.0:VeterinaryClinic>
+  <j.0:VeterinaryClinic rdf:about="http://example.org/vet_clinics#11-9975/1">
+    <j.0:longitude>41.9973</j.0:longitude>
+    <j.0:latitude>ул. Ѓорги Абаџиев 12</j.0:latitude>
+    <j.0:address>ул. Ѓорги Абаџиев 12</j.0:address>
+    <rdfs:label>Пет Вет </rdfs:label>
+  </j.0:VeterinaryClinic>
+  <j.0:VeterinaryClinic rdf:about="http://example.org/vet_clinics#07-4447/2">
+    <j.0:longitude>41.9980</j.0:longitude>
+    <j.0:latitude>бул.Јане сандански бр.59,лок 7-Аеродром</j.0:latitude>
+    <j.0:address>бул.Јане сандански бр.59,лок 7</j.0:address>
+    <rdfs:label>ЗОО Бутик Тропски Свет</rdfs:label>
+  </j.0:VeterinaryClinic>
+  <j.0:VeterinaryClinic rdf:about="http://example.org/vet_clinics#10-3137">
+    <j.0:longitude>41.04321</j.0:longitude>
+    <j.0:latitude>ул. Стево Патако бр.28 Битола</j.0:latitude>
+    <j.0:address>ул. Стево Патако бр.28 Битола</j.0:address>
+    <rdfs:label>МАНО ПЕТ ВЕТ</rdfs:label>
+  </j.0:VeterinaryClinic>
+  <j.0:VeterinaryClinic rdf:about="http://example.org/vet_clinics#07-4814/2">
+    <j.0:longitude>41.4855</j.0:longitude>
+    <j.0:latitude>ул.Битолска бр. 7Ж</j.0:latitude>
+    <j.0:address>ул.Битолска бр. 7Ж</j.0:address>
+    <rdfs:label>Зебра ветерина</rdfs:label>
+  </j.0:VeterinaryClinic>
+  <j.0:VeterinaryClinic rdf:about="http://example.org/vet_clinics#10-3331">
+    <j.0:longitude>41.7500</j.0:longitude>
+    <j.0:latitude>у. Благој Стоименов бр.5 Делчево</j.0:latitude>
+    <j.0:address>ул. Благој Стоименов бр.5 Делчево</j.0:address>
+    <rdfs:label>БАБИЧ ДЕЛ</rdfs:label>
+  </j.0:VeterinaryClinic>
+  <j.0:VeterinaryClinic rdf:about="http://example.org/vet_clinics#07-57/2">
+    <j.0:longitude>41.7450</j.0:longitude>
+    <j.0:latitude>с.Таринци</j.0:latitude>
+    <j.0:address>с.Таринци</j.0:address>
+    <rdfs:label>С.Ф.Мак Месо</rdfs:label>
+  </j.0:VeterinaryClinic>
+  <j.0:VeterinaryClinic rdf:about="http://example.org/vet_clinics#07-4545/2">
+    <j.0:longitude>41.4392</j.0:longitude>
+    <j.0:latitude>ул.Климент Охридски бр.29</j.0:latitude>
+    <j.0:address>ул.Климент Охридски бр.29</j.0:address>
+    <rdfs:label>Мега-Вет</rdfs:label>
+  </j.0:VeterinaryClinic>
+  <j.0:VeterinaryClinic rdf:about="http://example.org/vet_clinics#08-2780/2">
+    <j.0:longitude>41.4290</j.0:longitude>
+    <j.0:latitude>Ул. Киро Крстев бр.4 Кавадарци, Кавадарци</j.0:latitude>
+    <j.0:address>Ул. Киро Крстев бр.4 Кавадарци, Кавадарци</j.0:address>
+    <rdfs:label>Каспер 15 ДУО ДОО Кавадарци</rdfs:label>
+  </j.0:VeterinaryClinic>
+  <j.0:VeterinaryClinic rdf:about="http://example.org/vet_clinics#08-2242">
+    <j.0:longitude>41.3430</j.0:longitude>
+    <j.0:latitude>ул.Орде Тодороски-Шемко бр.47 Прилеп</j.0:latitude>
+    <j.0:address>ул. Андон Слабејко бр.20 Прилеп</j.0:address>
+    <rdfs:label>ИЛЕМИК  дооел</rdfs:label>
+  </j.0:VeterinaryClinic>
+  <j.0:VeterinaryClinic rdf:about="http://example.org/vet_clinics#10-2027/2">
+    <j.0:longitude>42.0085</j.0:longitude>
+    <j.0:latitude>ул.населено место без уличен систем Ранковце</j.0:latitude>
+    <j.0:address>ул.населено место без уличен систем Ранковце</j.0:address>
+    <rdfs:label>ПЕТАР ПАВЕЛ ВЕТ</rdfs:label>
+  </j.0:VeterinaryClinic>
+  <j.0:VeterinaryClinic rdf:about="http://example.org/vet_clinics#11-3894/2">
+    <j.0:longitude>41.3480</j.0:longitude>
+    <j.0:latitude>с. Мало Коњари</j.0:latitude>
+    <j.0:address>с. Мало Коњари</j.0:address>
+    <rdfs:label>Медика Вет Прилеп</rdfs:label>
+  </j.0:VeterinaryClinic>
+  <j.0:VeterinaryClinic rdf:about="http://example.org/vet_clinics#08-282/2">
+    <j.0:longitude>41.7480</j.0:longitude>
+    <j.0:latitude>ул. Велко Влаховиќ бр. 160</j.0:latitude>
+    <j.0:address>ул. Велко Влаховиќ бр. 160</j.0:address>
+    <rdfs:label>Прима ДОО</rdfs:label>
+  </j.0:VeterinaryClinic>
+  <j.0:VeterinaryClinic rdf:about="http://example.org/vet_clinics#11-2250/3">
+    <j.0:longitude>41.8160</j.0:longitude>
+    <j.0:latitude>с.Челопек</j.0:latitude>
+    <j.0:address>с.Челопек</j.0:address>
+    <rdfs:label>"ЗЗ ""Единство"" Челопек"</rdfs:label>
+  </j.0:VeterinaryClinic>
+  <j.0:VeterinaryClinic rdf:about="http://example.org/vet_clinics#10-1058">
+    <j.0:longitude>41.9965</j.0:longitude>
+    <j.0:latitude>Бул. Видое Смилевски Бато бр.33/1 - 5А Скопје Аеродром</j.0:latitude>
+    <j.0:address>Бул. Видое Смилевски Батобр. 39 Скопје Аеродром</j.0:address>
+    <rdfs:label>ПРИМА МАРК -С</rdfs:label>
+  </j.0:VeterinaryClinic>
+  <j.0:VeterinaryClinic rdf:about="http://example.org/vet_clinics#07-5149/2">
+    <j.0:longitude>41.6080</j.0:longitude>
+    <j.0:latitude>ул.Панче Попоски бр 2/1-1</j.0:latitude>
+    <j.0:address>ул.Панче Попоски бр 2/1-2</j.0:address>
+    <rdfs:label>АГ-ЕР ВЕТ</rdfs:label>
+  </j.0:VeterinaryClinic>
+  <j.0:VeterinaryClinic rdf:about="http://example.org/vet_clinics#08-1725/2">
+    <j.0:longitude>41.7430</j.0:longitude>
+    <j.0:latitude>ул. Борис Крајгер бб Штип</j.0:latitude>
+    <j.0:address>населба Карбинци</j.0:address>
+    <rdfs:label>Ветеринарна Амбуланта Алфа Вет Карбинци</rdfs:label>
+  </j.0:VeterinaryClinic>
+  <j.0:VeterinaryClinic rdf:about="http://example.org/vet_clinics#11-4127/2">
+    <j.0:longitude>41.3440</j.0:longitude>
+    <j.0:latitude>ул.Ладо Лапецот</j.0:latitude>
+    <j.0:address>с.Тополчани</j.0:address>
+    <rdfs:label>Тополчани </rdfs:label>
+  </j.0:VeterinaryClinic>
+  <j.0:VeterinaryClinic rdf:about="http://example.org/vet_clinics#07-2855/3">
+    <j.0:longitude>41.9925</j.0:longitude>
+    <j.0:latitude>ул.Лазар Поп Трајков бр.5-7</j.0:latitude>
+    <j.0:address>ул.Лазар Поп Трајков бр.5-7</j.0:address>
+    <rdfs:label>Факултет за Ветеринарна Медицина - Скопје</rdfs:label>
+  </j.0:VeterinaryClinic>
+  <j.0:VeterinaryClinic rdf:about="http://example.org/vet_clinics#11-8417/2">
+    <j.0:longitude>42.1380</j.0:longitude>
+    <j.0:latitude>ул. Доне Божинов бб</j.0:latitude>
+    <j.0:address>с. Младо Нагоричане</j.0:address>
+    <rdfs:label>ВСЦ Тодор Велков ВС Младо Нагоричане</rdfs:label>
+  </j.0:VeterinaryClinic>
+  <j.0:VeterinaryClinic rdf:about="http://example.org/vet_clinics#07-1074/2">
+    <j.0:longitude>41.4810</j.0:longitude>
+    <j.0:latitude>ул.Маршал Тито бб.</j.0:latitude>
+    <j.0:address>ул.Маршал Тито бб.</j.0:address>
+    <rdfs:label>ЉУПЧО И ДР.</rdfs:label>
+  </j.0:VeterinaryClinic>
+  <j.0:VeterinaryClinic rdf:about="http://example.org/vet_clinics#07-955/2">
+    <j.0:longitude>41.4465</j.0:longitude>
+    <j.0:latitude>с.Подареш</j.0:latitude>
+    <j.0:address>с.Подареш</j.0:address>
+    <rdfs:label>ВИКИ-МЕДИКА</rdfs:label>
+  </j.0:VeterinaryClinic>
+  <j.0:VeterinaryClinic rdf:about="http://example.org/vet_clinics#07-6264/3">
+    <j.0:longitude>42.1320</j.0:longitude>
+    <j.0:latitude>с.Табановце</j.0:latitude>
+    <j.0:address>с.Табановце</j.0:address>
+    <rdfs:label>ТАУРУС-ВЕТ,ДОЕЛ</rdfs:label>
+  </j.0:VeterinaryClinic>
+  <j.0:VeterinaryClinic rdf:about="http://example.org/vet_clinics#07-1261/2">
+    <j.0:longitude>42.0000</j.0:longitude>
+    <j.0:latitude>ул. Јане Сандански 8</j.0:latitude>
+    <j.0:address>ул. Јане Сандански 8</j.0:address>
+    <rdfs:label>ДОК И КЕТ</rdfs:label>
+  </j.0:VeterinaryClinic>
+  <j.0:VeterinaryClinic rdf:about="http://example.org/vet_clinics#11-4634/3">
+    <j.0:longitude>41.036455</j.0:longitude>
+    <j.0:latitude>ул.А Кукуречани</j.0:latitude>
+    <j.0:address>с. Кукуречани</j.0:address>
+    <rdfs:label>Зоо-Медика</rdfs:label>
+  </j.0:VeterinaryClinic>
+  <j.0:VeterinaryClinic rdf:about="http://example.org/vet_clinics#11-188/2">
+    <j.0:longitude>41.9978</j.0:longitude>
+    <j.0:latitude>ул.Драчевска бр.120</j.0:latitude>
+    <j.0:address>ул.Драчевска бр.120</j.0:address>
+    <rdfs:label>Дини ГМ-Вет</rdfs:label>
+  </j.0:VeterinaryClinic>
+  <j.0:VeterinaryClinic rdf:about="http://example.org/vet_clinics#11-9720/2">
+    <j.0:longitude>41.9866</j.0:longitude>
+    <j.0:latitude>Лука Ѓеров 40/2-3</j.0:latitude>
+    <j.0:address>Рузвелтова бр.41</j.0:address>
+    <rdfs:label>Легони Вет</rdfs:label>
+  </j.0:VeterinaryClinic>
+  <j.0:VeterinaryClinic rdf:about="http://example.org/vet_clinics#11-13657/3">
+    <j.0:longitude>41.4320</j.0:longitude>
+    <j.0:latitude>с. Турново</j.0:latitude>
+    <j.0:address>с. Турново</j.0:address>
+    <rdfs:label>ДИ ВЕТЕРИНА с. Турново</rdfs:label>
+  </j.0:VeterinaryClinic>
+  <j.0:VeterinaryClinic rdf:about="http://example.org/vet_clinics#07-7286/3">
+    <j.0:longitude>41.6260</j.0:longitude>
+    <j.0:latitude>Автопат бр.4, Градско</j.0:latitude>
+    <j.0:address>ул. 4-ти Јули  бр. 57</j.0:address>
+    <rdfs:label>Вардар АД Градско</rdfs:label>
+  </j.0:VeterinaryClinic>
+  <j.0:VeterinaryClinic rdf:about="http://example.org/vet_clinics#11-9071/3">
+    <j.0:longitude>41.4290</j.0:longitude>
+    <j.0:latitude>ул.Јанко Цветинов бр,50/1-3</j.0:latitude>
+    <j.0:address>с. Мокриево</j.0:address>
+    <rdfs:label> Ветерина Центар</rdfs:label>
+  </j.0:VeterinaryClinic>
+  <j.0:VeterinaryClinic rdf:about="http://example.org/vet_clinics#07-5605/2">
+    <j.0:longitude>41.2105</j.0:longitude>
+    <j.0:latitude>ул.Амди Леши бр.21</j.0:latitude>
+    <j.0:address>Ул.братство единство бр.21</j.0:address>
+    <rdfs:label>Макси</rdfs:label>
+  </j.0:VeterinaryClinic>
+  <j.0:VeterinaryClinic rdf:about="http://example.org/vet_clinics#07-106/2">
+    <j.0:longitude>41.4442</j.0:longitude>
+    <j.0:latitude>ул.Ленинова бр.2 Н.Село</j.0:latitude>
+    <j.0:address>с.Ново Село,ул.М.Тито бр.33</j.0:address>
+    <rdfs:label>ВИП ПРОМ 08</rdfs:label>
+  </j.0:VeterinaryClinic>
+  <j.0:VeterinaryClinic rdf:about="http://example.org/vet_clinics#10-3183">
+    <j.0:longitude>41.9942</j.0:longitude>
+    <j.0:latitude>ул. Никола Тримпаре</j.0:latitude>
+    <j.0:address>ул. Никола Тримпаре</j.0:address>
+    <rdfs:label>ВЕТ СВЕТ ДОО</rdfs:label>
+  </j.0:VeterinaryClinic>
+  <j.0:VeterinaryClinic rdf:about="http://example.org/vet_clinics#11-319/3">
+    <j.0:longitude>41.6555</j.0:longitude>
+    <j.0:latitude>с.Смојмирово</j.0:latitude>
+    <j.0:address>с.Смојмирово</j.0:address>
+    <rdfs:label>Далант Вет</rdfs:label>
+  </j.0:VeterinaryClinic>
+  <j.0:VeterinaryClinic rdf:about="http://example.org/vet_clinics#10-4668">
+    <j.0:longitude>41.5030</j.0:longitude>
+    <j.0:latitude>ул. Битолска бр.7 Ж Демир Хисар</j.0:latitude>
+    <j.0:address>ул.11 Септември бр.66 Кичево</j.0:address>
+    <rdfs:label>ЗЕБРА ВЕТЕРИНА</rdfs:label>
+  </j.0:VeterinaryClinic>
+  <j.0:VeterinaryClinic rdf:about="http://example.org/vet_clinics#10-455">
+    <j.0:longitude>41.1140</j.0:longitude>
+    <j.0:latitude>ул. Славеј Планина бр. 12  Охрид</j.0:latitude>
+    <j.0:address>ул. Славеј Планина бр. 12  Охрид</j.0:address>
+    <rdfs:label>ВЕТ СПИРИТ</rdfs:label>
+  </j.0:VeterinaryClinic>
+  <j.0:VeterinaryClinic rdf:about="http://example.org/vet_clinics#11-411/3">
+    <j.0:longitude>41.4475</j.0:longitude>
+    <j.0:latitude>ул. Долна Рудина бб</j.0:latitude>
+    <j.0:address>ул. Долна Рудина бб</j.0:address>
+    <rdfs:label>Ветеринарна Станица Медика Вет</rdfs:label>
+  </j.0:VeterinaryClinic>
+  <j.0:VeterinaryClinic rdf:about="http://example.org/vet_clinics#07-4517/2">
+    <j.0:longitude>42.0085</j.0:longitude>
+    <j.0:latitude>ул.Китка бр.65</j.0:latitude>
+    <j.0:address>ул.Китка бр.65</j.0:address>
+    <rdfs:label>Драчево Вет</rdfs:label>
+  </j.0:VeterinaryClinic>
+  <j.0:VeterinaryClinic rdf:about="http://example.org/vet_clinics#07-1446/2">
+    <j.0:longitude>41.4325</j.0:longitude>
+    <j.0:latitude>ул.Ката Поцкова бр.76</j.0:latitude>
+    <j.0:address>ул.Климент Охридски бр.308</j.0:address>
+    <rdfs:label>ЕКО-ВЕТ</rdfs:label>
+  </j.0:VeterinaryClinic>
+  <j.0:VeterinaryClinic rdf:about="http://example.org/vet_clinics#07-5476/4">
+    <j.0:longitude>42.1400</j.0:longitude>
+    <j.0:latitude>нм Тромеѓа</j.0:latitude>
+    <j.0:address>с.Тромеѓа</j.0:address>
+    <rdfs:label>ветеринарно сточарски центар амбуланта тромеѓа доо</rdfs:label>
+  </j.0:VeterinaryClinic>
+  <j.0:VeterinaryClinic rdf:about="http://example.org/vet_clinics#07-4947/2">
+    <j.0:longitude>42.0010</j.0:longitude>
+    <j.0:latitude>ул.101 до река Пена с.Сараќино</j.0:latitude>
+    <j.0:address>с.Сараќино</j.0:address>
+    <rdfs:label>Здравје Вет</rdfs:label>
+  </j.0:VeterinaryClinic>
+  <j.0:VeterinaryClinic rdf:about="http://example.org/vet_clinics#08-2139/2">
+    <j.0:longitude>41.032369</j.0:longitude>
+    <j.0:latitude>ул. Кавала бр.1 Битола</j.0:latitude>
+    <j.0:address>ул. Кавала бр.1 Битола</j.0:address>
+    <rdfs:label>Ветеринарна Амбуланта ДР. Стојаноски</rdfs:label>
+  </j.0:VeterinaryClinic>
+  <j.0:VeterinaryClinic rdf:about="http://example.org/vet_clinics#07-7938/2">
+    <j.0:longitude>41.7805</j.0:longitude>
+    <j.0:latitude>ул. 1-ви Мај  бр. 4 , Спанчево, Чешиново-Облешево</j.0:latitude>
+    <j.0:address>ул. Страшо Ербапче  бр.25,</j.0:address>
+    <rdfs:label>АВИЦЕНА-ВЕТ</rdfs:label>
+  </j.0:VeterinaryClinic>
+  <j.0:VeterinaryClinic rdf:about="http://example.org/vet_clinics#11-3930/3">
+    <j.0:longitude>41.5050</j.0:longitude>
+    <j.0:latitude>ул. Буковиќ бр. 17</j.0:latitude>
+    <j.0:address>ул.Гоце Делчев Календарница 2 локал 1/4/2</j.0:address>
+    <rdfs:label>ДРЕНУША ВЕТ</rdfs:label>
+  </j.0:VeterinaryClinic>
+  <j.0:VeterinaryClinic rdf:about="http://example.org/vet_clinics#07-4678/2">
+    <j.0:longitude>42.0060</j.0:longitude>
+    <j.0:latitude>бул.Јане Сандански бр.12-1/13</j.0:latitude>
+    <j.0:address>Ул.Драмска бр.5А</j.0:address>
+    <rdfs:label>ПЕТ СВЕТ 2012</rdfs:label>
+  </j.0:VeterinaryClinic>
+  <j.0:VeterinaryClinic rdf:about="http://example.org/vet_clinics#11-10709/3">
+    <j.0:longitude>41.2500</j.0:longitude>
+    <j.0:latitude>ул.Мише Ефтим бр.17</j.0:latitude>
+    <j.0:address>с. Бучин</j.0:address>
+    <rdfs:label>"""Јан Вет"" Крушево"</rdfs:label>
+  </j.0:VeterinaryClinic>
+  <j.0:VeterinaryClinic rdf:about="http://example.org/vet_clinics#11-1009/3">
+    <j.0:longitude>41.7170</j.0:longitude>
+    <j.0:latitude>ул.Енгелсова 2/3-2</j.0:latitude>
+    <j.0:address>ул.Раштански Пат,бб.</j.0:address>
+    <rdfs:label>Меди Горан</rdfs:label>
+  </j.0:VeterinaryClinic>
+  <j.0:VeterinaryClinic rdf:about="http://example.org/vet_clinics#11-2077/3">
+    <j.0:longitude>42.0045</j.0:longitude>
+    <j.0:latitude>бул.Јане сандански бр.61</j.0:latitude>
+    <j.0:address>бул.Јане сандански бр.61</j.0:address>
+    <rdfs:label>Пет Вет Аеро</rdfs:label>
+    <j.0:longitude>41.3420</j.0:longitude>
+    <j.0:latitude>ул.Кеј 9ти Септември бр.1/5в</j.0:latitude>
+    <j.0:address>ул.Кеј 9ти Септември бр.1/5в</j.0:address>
+    <rdfs:label>Новица-Вет</rdfs:label>
+  </j.0:VeterinaryClinic>
+  <j.0:VeterinaryClinic rdf:about="http://example.org/vet_clinics#07-3995/2">
+    <j.0:longitude>41.025942</j.0:longitude>
+    <j.0:latitude>Ул.А бр.30 с.Бистрица</j.0:latitude>
+    <j.0:address>Ул.А бр.30 с.Бистрица</j.0:address>
+    <rdfs:label>Aлекси Вет</rdfs:label>
+  </j.0:VeterinaryClinic>
+  <j.0:VeterinaryClinic rdf:about="http://example.org/vet_clinics#07-5448/2">
+    <j.0:longitude>41.4525</j.0:longitude>
+    <j.0:latitude>с.Стојаково,ул.Владо Пиперов бр.7</j.0:latitude>
+    <j.0:address>с.Стојаково,ул.Владо Пиперов бр.7</j.0:address>
+    <rdfs:label>Анри вет</rdfs:label>
+  </j.0:VeterinaryClinic>
+  <j.0:VeterinaryClinic rdf:about="http://example.org/vet_clinics#11-1640/3">
+    <j.0:longitude>41.7565</j.0:longitude>
+    <j.0:latitude>ул.Моша Пијаде бр.5</j.0:latitude>
+    <j.0:address>ул.Моша Пијаде бр.5</j.0:address>
+    <rdfs:label>Алфа Вет</rdfs:label>
+  </j.0:VeterinaryClinic>
+  <j.0:VeterinaryClinic rdf:about="http://example.org/vet_clinics#11-2014/3">
+    <j.0:longitude>41.7460</j.0:longitude>
+    <j.0:latitude>ул.Борис Крајгер бб.</j.0:latitude>
+    <j.0:address>ул.Борис Крајгер бб.</j.0:address>
+    <rdfs:label>Гоче и Џоле ДОО</rdfs:label>
+  </j.0:VeterinaryClinic>
+  <j.0:VeterinaryClinic rdf:about="http://example.org/vet_clinics#11-6268/3">
+    <j.0:longitude>41.7405</j.0:longitude>
+    <j.0:latitude>с. Драгобраште</j.0:latitude>
+    <j.0:address>с. Драгобраште</j.0:address>
+    <rdfs:label>Вива Вет</rdfs:label>
+  </j.0:VeterinaryClinic>
+  <j.0:VeterinaryClinic rdf:about="http://example.org/vet_clinics#11-1153/3">
+    <j.0:longitude>41.4440</j.0:longitude>
+    <j.0:latitude>ул.Плачковица бр.221</j.0:latitude>
+    <j.0:address>ул.Плачковица бр.221</j.0:address>
+    <rdfs:label>Анимал - Вет</rdfs:label>
+  </j.0:VeterinaryClinic>
+  <j.0:VeterinaryClinic rdf:about="http://example.org/vet_clinics#07-6441/2">
+    <j.0:longitude>41.6050</j.0:longitude>
+    <j.0:latitude>ул. 18 Ноември бр. 27</j.0:latitude>
+    <j.0:address>ул. 18 Ноември бр. 27</j.0:address>
+    <rdfs:label>Нова Вет - Гостивар</rdfs:label>
+  </j.0:VeterinaryClinic>
+  <j.0:VeterinaryClinic rdf:about="http://example.org/vet_clinics#07-2595/2">
+    <j.0:longitude>42.0865</j.0:longitude>
+    <j.0:latitude>ул. Гоце Делчев бр. Бб</j.0:latitude>
+    <j.0:address>ул. Цанка Андреевска бр.14</j.0:address>
+    <rdfs:label>ЕУРО Компани</rdfs:label>
+  </j.0:VeterinaryClinic>
+  <j.0:VeterinaryClinic rdf:about="http://example.org/vet_clinics#07-5253/2">
+    <j.0:longitude>42.0270</j.0:longitude>
+    <j.0:latitude>с.Слупчане</j.0:latitude>
+    <j.0:address>с.Слупчане</j.0:address>
+    <rdfs:label>Асра Вет</rdfs:label>
+  </j.0:VeterinaryClinic>
+  <j.0:VeterinaryClinic rdf:about="http://example.org/vet_clinics#07-8972/2">
+    <j.0:longitude>41.1700</j.0:longitude>
+    <j.0:latitude>27 март б.б Струга</j.0:latitude>
+    <j.0:address>ул.27 март Струга б.б</j.0:address>
+    <rdfs:label>В.А Петар Вет ДООЕЛ</rdfs:label>
+  </j.0:VeterinaryClinic>
+  <j.0:VeterinaryClinic rdf:about="http://example.org/vet_clinics#11-7840/3">
+    <j.0:longitude>41.7550</j.0:longitude>
+    <j.0:latitude>ул. 8 Септември бб</j.0:latitude>
+    <j.0:address>ул. 8 Септември бб</j.0:address>
+    <rdfs:label>Ветеринарна Станица Дел Вет</rdfs:label>
+  </j.0:VeterinaryClinic>
+  <j.0:VeterinaryClinic rdf:about="http://example.org/vet_clinics#11-16256/3">
+    <j.0:longitude>41.6125</j.0:longitude>
+    <j.0:latitude>с.Градец,101бб</j.0:latitude>
+    <j.0:address>с.Градец,101бб</j.0:address>
+    <rdfs:label>ВЕТ Градец</rdfs:label>
+  </j.0:VeterinaryClinic>
+  <j.0:VeterinaryClinic rdf:about="http://example.org/vet_clinics#11-5915/3">
+    <j.0:longitude>42.0090</j.0:longitude>
+    <j.0:latitude>с. Желино</j.0:latitude>
+    <j.0:address>с. Желино</j.0:address>
+    <rdfs:label>Ветеринарна Станица Праксис с. Желино</rdfs:label>
+  </j.0:VeterinaryClinic>
+  <j.0:VeterinaryClinic rdf:about="http://example.org/vet_clinics#11-4751/2">
+    <j.0:longitude>41.4845</j.0:longitude>
+    <j.0:latitude>ул. Маршал Тито бр. 12</j.0:latitude>
+    <j.0:address>ул. Маршал Тито бр. 12</j.0:address>
+    <rdfs:label>Ветеринарна Станица Неготино</rdfs:label>
+  </j.0:VeterinaryClinic>
+  <j.0:VeterinaryClinic rdf:about="http://example.org/vet_clinics#08-195/1">
+    <j.0:longitude>41.036818</j.0:longitude>
+    <j.0:latitude>Бошко Најдовски бр. 44 Битола</j.0:latitude>
+    <j.0:address>Бошко Најдовски бр. 44 Битола</j.0:address>
+    <rdfs:label>ДР. ЧУПОНА</rdfs:label>
+  </j.0:VeterinaryClinic>
+  <j.0:VeterinaryClinic rdf:about="http://example.org/vet_clinics#07-1004/6">
+    <j.0:longitude>41.9935</j.0:longitude>
+    <j.0:latitude>ул.Маршал Тито бр.43 с. Петровец</j.0:latitude>
+    <j.0:address>с.Петровец</j.0:address>
+    <rdfs:label>Вет Дест</rdfs:label>
+  </j.0:VeterinaryClinic>
+  <j.0:VeterinaryClinic rdf:about="http://example.org/vet_clinics#07-4983/2">
+    <j.0:longitude>42.0020</j.0:longitude>
+    <j.0:latitude>ул.10 бб с. Кадино,општ. Илинден</j.0:latitude>
+    <j.0:address>ул.10 бб с. Кадино,општ. Илинден</j.0:address>
+    <rdfs:label> Јо-Ка Вет </rdfs:label>
+  </j.0:VeterinaryClinic>
+  <j.0:VeterinaryClinic rdf:about="http://example.org/vet_clinics#11-3718/3">
+    <j.0:longitude>41.9985</j.0:longitude>
+    <j.0:latitude>ул. Лазар Поп Трајков 6-7</j.0:latitude>
+    <j.0:address>с. Драчево</j.0:address>
+    <rdfs:label>Ветеринарна Станица Драчево</rdfs:label>
+  </j.0:VeterinaryClinic>
+  <j.0:VeterinaryClinic rdf:about="http://example.org/vet_clinics#11-8283/2">
+    <j.0:longitude>41.9968</j.0:longitude>
+    <j.0:latitude>ул. Север-Југ 2/47</j.0:latitude>
+    <j.0:address> с.Цапари</j.0:address>
+    <rdfs:label>Анима Вет, Цапари</rdfs:label>
+  </j.0:VeterinaryClinic>
+  <j.0:VeterinaryClinic rdf:about="http://example.org/vet_clinics#11-5097/2">
+    <j.0:longitude>41.9965</j.0:longitude>
+    <j.0:latitude>ул. Миро Барага бб</j.0:latitude>
+    <j.0:address>ул. Миро Барага бб</j.0:address>
+    <rdfs:label>Ветеринарна Станица Пробиштип</rdfs:label>
+  </j.0:VeterinaryClinic>
+  <j.0:VeterinaryClinic rdf:about="http://example.org/vet_clinics#11-7398/3">
+    <j.0:longitude>41.7440</j.0:longitude>
+    <j.0:latitude>с. Крупиште</j.0:latitude>
+    <j.0:address>с. Крупиште</j.0:address>
+    <rdfs:label>Ветеринарна Станица Карбинци</rdfs:label>
+  </j.0:VeterinaryClinic>
+  <j.0:VeterinaryClinic rdf:about="http://example.org/vet_clinics#11-5613/2">
+    <j.0:longitude>42.1318</j.0:longitude>
+    <j.0:latitude>ул. Доне Божинов бб</j.0:latitude>
+    <j.0:address>ул. Доне Божинов бб</j.0:address>
+    <rdfs:label>ВСЦ Тодор Велков Куманово</rdfs:label>
+  </j.0:VeterinaryClinic>
+  <j.0:VeterinaryClinic rdf:about="http://example.org/vet_clinics#11-4924/2">
+    <j.0:longitude>41.7520</j.0:longitude>
+    <j.0:latitude>ул. Велко Влаховиќ бр. 182</j.0:latitude>
+    <j.0:address>ул. Велко Влаховиќ бр. 182</j.0:address>
+    <rdfs:label>Ветеринарна Станица Свети Николе</rdfs:label>
+  </j.0:VeterinaryClinic>
+  <j.0:VeterinaryClinic rdf:about="http://example.org/vet_clinics#07-8234/2">
+    <j.0:longitude>41.7185</j.0:longitude>
+    <j.0:latitude>ул.Благој Ѓорев бб.</j.0:latitude>
+    <j.0:address>ул. Вардарска бб, м.в. ЛАКА </j.0:address>
+    <rdfs:label>СИРМЕС-ТД</rdfs:label>
+  </j.0:VeterinaryClinic>
+  <j.0:VeterinaryClinic rdf:about="http://example.org/vet_clinics#07-5855/2">
+    <j.0:longitude>42.0029</j.0:longitude>
+    <j.0:latitude>с. Боговиње</j.0:latitude>
+    <j.0:address>с. Боговиње</j.0:address>
+    <rdfs:label>Ветеринарна амбулантаБОГОВИНА</rdfs:label>
+  </j.0:VeterinaryClinic>
+  <j.0:VeterinaryClinic rdf:about="http://example.org/vet_clinics#11-1158/3">
+    <j.0:longitude>41.9900</j.0:longitude>
+    <j.0:latitude>бул.Илинден бр.88</j.0:latitude>
+    <j.0:address>бул.Илинден бр.88</j.0:address>
+    <rdfs:label>Зоолошка Градина</rdfs:label>
+  </j.0:VeterinaryClinic>
+  <j.0:VeterinaryClinic rdf:about="http://example.org/vet_clinics#08-886/2">
+    <j.0:longitude>41.1095</j.0:longitude>
+    <j.0:latitude>с. Требеништа Дебарца</j.0:latitude>
+    <j.0:address>с. Требеништа</j.0:address>
+    <rdfs:label>Ветеринарна Амбуланта Климе ДООЕЛ</rdfs:label>
+  </j.0:VeterinaryClinic>
+  <j.0:VeterinaryClinic rdf:about="http://example.org/vet_clinics#11-7266/2">
+    <j.0:longitude>41.2081</j.0:longitude>
+    <j.0:latitude>ул. Алија Зенговски 2</j.0:latitude>
+    <j.0:address>ул. Алија Зенговски 2</j.0:address>
+    <rdfs:label>Ветеринарна Станица Медика Дебар</rdfs:label>
+  </j.0:VeterinaryClinic>
+  <j.0:VeterinaryClinic rdf:about="http://example.org/vet_clinics#07-6727/3">
+    <j.0:longitude>41.1055</j.0:longitude>
+    <j.0:latitude>Бул. Македонски просветители бб, ТЦ Охриганка 1</j.0:latitude>
+    <j.0:address>Бул. Македонски просветители бб</j.0:address>
+    <rdfs:label>MAJA-ТАМАРА-ВЕТ </rdfs:label>
+  </j.0:VeterinaryClinic>
+  <j.0:VeterinaryClinic rdf:about="http://example.org/vet_clinics#07-8364/2">
+    <j.0:longitude>41.6510</j.0:longitude>
+    <j.0:latitude>ул.Борис Кидрич бр.14/а</j.0:latitude>
+    <j.0:address>ул.Борис Кидрич бр.14/а</j.0:address>
+    <rdfs:label>КИРОВСКИ-ВЕТ ДООЕЛ</rdfs:label>
+  </j.0:VeterinaryClinic>
+  <j.0:VeterinaryClinic rdf:about="http://example.org/vet_clinics#11-11824/3">
+    <j.0:longitude>41.7400</j.0:longitude>
+    <j.0:latitude>ул. Солидарност 96</j.0:latitude>
+    <j.0:address>ул. Солидарност 96</j.0:address>
+    <rdfs:label>Романа Вет</rdfs:label>
+  </j.0:VeterinaryClinic>
+  <j.0:VeterinaryClinic rdf:about="http://example.org/vet_clinics#11-1738/3">
+    <j.0:longitude>42.0054</j.0:longitude>
+    <j.0:latitude>с.Жилче опш Јегуновце</j.0:latitude>
+    <j.0:address>с.Жилче</j.0:address>
+    <rdfs:label>Ветеринарна амбуланта Жилче</rdfs:label>
+  </j.0:VeterinaryClinic>
+  <j.0:VeterinaryClinic rdf:about="http://example.org/vet_clinics#07-5200/2">
+    <j.0:longitude>41.9920</j.0:longitude>
+    <j.0:latitude>с.Подбреѓе , Јегуновце</j.0:latitude>
+    <j.0:address>ул.Бутелска бр.5-2</j.0:address>
+    <rdfs:label>Вет Медика- Скопје</rdfs:label>
+  </j.0:VeterinaryClinic>
+  <j.0:VeterinaryClinic rdf:about="http://example.org/vet_clinics#11-6444/3">
+    <j.0:longitude>42.0075</j.0:longitude>
+    <j.0:latitude>ул.Ван Гог бр.207</j.0:latitude>
+    <j.0:address>ул.29 Ноември бр.71</j.0:address>
+    <rdfs:label>Малинка Вет</rdfs:label>
+  </j.0:VeterinaryClinic>
+  <j.0:VeterinaryClinic rdf:about="http://example.org/vet_clinics#11-4862/2">
+    <j.0:longitude>41.9926</j.0:longitude>
+    <j.0:latitude>ул. Лазар Поп Трајков 6-7</j.0:latitude>
+    <j.0:address>ул. Лазар Поп Трајков 6-7</j.0:address>
+    <rdfs:label>Ветеринарна Болница Скопје</rdfs:label>
+  </j.0:VeterinaryClinic>
+  <j.0:VeterinaryClinic rdf:about="http://example.org/vet_clinics#08-8765/2">
+    <j.0:longitude>41.9905</j.0:longitude>
+    <j.0:latitude>ул.29 Ноември 4г Дебар Маало, Центар</j.0:latitude>
+    <j.0:address>ул.29 Ноември 4г Дебар Маало, Центар</j.0:address>
+    <rdfs:label>ВЕТКОЛЛ</rdfs:label>
+  </j.0:VeterinaryClinic>
+  <j.0:VeterinaryClinic rdf:about="http://example.org/vet_clinics#11-26/3">
+    <j.0:longitude>41.9925</j.0:longitude>
+    <j.0:latitude>с.Подбреѓе , Јегуновце</j.0:latitude>
+    <j.0:address>с.Подбрѓе,ул.101 бб.</j.0:address>
+    <rdfs:label>"""Вет Медика"" ЗиА"</rdfs:label>
+  </j.0:VeterinaryClinic>
+  <j.0:VeterinaryClinic rdf:about="http://example.org/vet_clinics#11-11750/3">
+    <j.0:longitude>41.9965</j.0:longitude>
+    <j.0:latitude>ул.8ми Септември бр.5-4-11</j.0:latitude>
+    <j.0:address>ул.Никола Карев бр.15</j.0:address>
+    <rdfs:label>"ДТВ ""Вет Медика Анимал"""</rdfs:label>
+  </j.0:VeterinaryClinic>
+  <j.0:VeterinaryClinic rdf:about="http://example.org/vet_clinics#08-6676/2">
+    <j.0:longitude>42.0060</j.0:longitude>
+    <j.0:latitude>ул.101 бр.1</j.0:latitude>
+    <j.0:address>с. Нераште</j.0:address>
+    <rdfs:label>Про Вет Нераште</rdfs:label>
+  </j.0:VeterinaryClinic>
+  <j.0:VeterinaryClinic rdf:about="http://example.org/vet_clinics#11-7717/3">
+    <j.0:longitude>41.4315</j.0:longitude>
+    <j.0:latitude>ул. Страшо Пинџур 32</j.0:latitude>
+    <j.0:address>ул. Страшо Пинџур 32</j.0:address>
+    <rdfs:label>Медика Вет Р</rdfs:label>
+  </j.0:VeterinaryClinic>
+  <j.0:VeterinaryClinic rdf:about="http://example.org/vet_clinics#10-2662">
+    <j.0:longitude>41.032357</j.0:longitude>
+    <j.0:latitude>Булевар 1ви мајбр.243 Битола, Битола</j.0:latitude>
+    <j.0:address>с. Крклино Битола</j.0:address>
+    <rdfs:label>БАР ВЕТ КРКЛИНО</rdfs:label>
+  </j.0:VeterinaryClinic>
+  <j.0:VeterinaryClinic rdf:about="http://example.org/vet_clinics#11-5775/3">
+    <j.0:longitude>42.0050</j.0:longitude>
+    <j.0:latitude>ул. Црвена Вода бр.18</j.0:latitude>
+    <j.0:address>ул. Црвена Вода бр.18</j.0:address>
+    <rdfs:label>Зоовет-Центар</rdfs:label>
+  </j.0:VeterinaryClinic>
+  <j.0:VeterinaryClinic rdf:about="http://example.org/vet_clinics#07-2270/2">
+    <j.0:longitude>41.9955</j.0:longitude>
+    <j.0:latitude>ул. 8-ми Септември  бр. 39</j.0:latitude>
+    <j.0:address>ул. 8-ми Септември  бр. 39</j.0:address>
+    <rdfs:label>Вива Вет 2014</rdfs:label>
+  </j.0:VeterinaryClinic>
+  <j.0:VeterinaryClinic rdf:about="http://example.org/vet_clinics#11-5770/2">
+    <j.0:longitude>41.4450</j.0:longitude>
+    <j.0:latitude>ул. Благој Туфанов бр. 31</j.0:latitude>
+    <j.0:address>ул. Благој Туфанов бр. 31</j.0:address>
+    <rdfs:label>Ники Вет</rdfs:label>
+  </j.0:VeterinaryClinic>
+  <j.0:VeterinaryClinic rdf:about="http://example.org/vet_clinics#11-17698/3">
+    <j.0:longitude>41.3785</j.0:longitude>
+    <j.0:latitude>ул.Првомајска бр.29</j.0:latitude>
+    <j.0:address>ул.Првомајска бр.29</j.0:address>
+    <rdfs:label>Агрипро</rdfs:label>
+  </j.0:VeterinaryClinic>
+  <j.0:VeterinaryClinic rdf:about="http://example.org/vet_clinics#11-3462/3">
+    <j.0:longitude>42.1350</j.0:longitude>
+    <j.0:latitude>ул.205, бр.4</j.0:latitude>
+    <j.0:address>ул.205, бр.4</j.0:address>
+    <rdfs:label>Ино-Вет</rdfs:label>
+  </j.0:VeterinaryClinic>
+  <j.0:VeterinaryClinic rdf:about="http://example.org/vet_clinics#07-3869/2">
+    <j.0:longitude>41.1430</j.0:longitude>
+    <j.0:latitude>ул. 7ми Ноември бр.75,</j.0:latitude>
+    <j.0:address>ул.Моински пат бб</j.0:address>
+    <rdfs:label>Ветеринар ДОО</rdfs:label>
+  </j.0:VeterinaryClinic>
+  <j.0:VeterinaryClinic rdf:about="http://example.org/vet_clinics#08-1684/2">
+    <j.0:longitude>41.03051</j.0:longitude>
+    <j.0:latitude>бул.Социјалистичка револуција бб Битола</j.0:latitude>
+    <j.0:address>ул.Гоце Делчев бб с. Кравари</j.0:address>
+    <rdfs:label>Ветеринарна Амбуланта Филипов</rdfs:label>
+  </j.0:VeterinaryClinic>
+  <j.0:VeterinaryClinic rdf:about="http://example.org/vet_clinics#07-5477/4">
+    <j.0:longitude>42.1280</j.0:longitude>
+    <j.0:latitude>с.Табановце</j.0:latitude>
+    <j.0:address>с.Табановце</j.0:address>
+    <rdfs:label>ветеринарно сточарски центар амбуланта табановце доо</rdfs:label>
+  </j.0:VeterinaryClinic>
+  <j.0:VeterinaryClinic rdf:about="http://example.org/vet_clinics#07-5482/2">
+    <j.0:longitude>41.9950</j.0:longitude>
+    <j.0:latitude>с. Теарце</j.0:latitude>
+    <j.0:address>с. Теарце</j.0:address>
+    <rdfs:label>Пајо Вет</rdfs:label>
+  </j.0:VeterinaryClinic>
+  <j.0:VeterinaryClinic rdf:about="http://example.org/vet_clinics#07-2031/2">
+    <j.0:longitude>42.0020</j.0:longitude>
+    <j.0:latitude>ул.101с.Боговиње</j.0:latitude>
+    <j.0:address>ул.101с.Боговиње</j.0:address>
+    <rdfs:label>Албавет-Ветерина</rdfs:label>
+  </j.0:VeterinaryClinic>
+  <j.0:VeterinaryClinic rdf:about="http://example.org/vet_clinics#11-4647/3">
+    <j.0:longitude>41.9960</j.0:longitude>
+    <j.0:latitude>ул.Дамаска 8Б</j.0:latitude>
+    <j.0:address>ул.Дамаска 8Б, Карпош</j.0:address>
+    <rdfs:label>Анимал Медика</rdfs:label>
+  </j.0:VeterinaryClinic>
+  <j.0:VeterinaryClinic rdf:about="http://example.org/vet_clinics#11-6361/2">
+    <j.0:longitude>41.1475</j.0:longitude>
+    <j.0:latitude>ул. 7 Ноември бр. 75</j.0:latitude>
+    <j.0:address>ул. 7 Ноември бр. 75</j.0:address>
+    <rdfs:label>Прима Делвет Гевгелија</rdfs:label>
+  </j.0:VeterinaryClinic>
+  <j.0:VeterinaryClinic rdf:about="http://example.org/vet_clinics#11-4858/2">
+    <j.0:longitude>41.9960</j.0:longitude>
+    <j.0:latitude>ул. Лазар Поп Трајков 6-7</j.0:latitude>
+    <j.0:address>ул. Јован Саздов бб Ѓорче Петров</j.0:address>
+    <rdfs:label>Ветеринарна Болница Ск. Ѓорче Петров</rdfs:label>
+  </j.0:VeterinaryClinic>
+  <j.0:VeterinaryClinic rdf:about="http://example.org/vet_clinics#11-4835/2">
+    <j.0:longitude>42.0798</j.0:longitude>
+    <j.0:latitude>ул.Кривопаланечки пат бб</j.0:latitude>
+    <j.0:address>ул.Кривопаланечки пат бб</j.0:address>
+    <rdfs:label>Ветеринарна Станица Техновет</rdfs:label>
+  </j.0:VeterinaryClinic>
+  <j.0:VeterinaryClinic rdf:about="http://example.org/vet_clinics#10-247">
+    <j.0:longitude>41.032330</j.0:longitude>
+    <j.0:latitude>ул. ПРЕВАЛЕЦ бр.18 Битола</j.0:latitude>
+    <j.0:address>ул. ПРЕВАЛЕЦ бр.18 Битола</j.0:address>
+    <rdfs:label>ВЕТ  СЕРВИС ДООЕЛ БИТОЛА</rdfs:label>
+  </j.0:VeterinaryClinic>
+  <j.0:VeterinaryClinic rdf:about="http://example.org/vet_clinics#08-5256">
+    <j.0:longitude>41.4360</j.0:longitude>
+    <j.0:latitude>ул. Маршал Тито бр.174 Срумица</j.0:latitude>
+    <j.0:address>ул. Маршал Тито бр.174 Срумица</j.0:address>
+    <rdfs:label>Др. ДОЛИТЛ</rdfs:label>
+  </j.0:VeterinaryClinic>
+  <j.0:VeterinaryClinic rdf:about="http://example.org/vet_clinics#07-3379/2">
+    <j.0:longitude>41.7505</j.0:longitude>
+    <j.0:latitude>ул.Ванчо Ангелов бр.39</j.0:latitude>
+    <j.0:address>ул.Ванчо Ангелов бр.39</j.0:address>
+    <rdfs:label>АНИМАЛВЕТ-КИМ</rdfs:label>
+  </j.0:VeterinaryClinic>
+  <j.0:VeterinaryClinic rdf:about="http://example.org/vet_clinics#08-1193">
+    <j.0:longitude>41.9490</j.0:longitude>
+    <j.0:latitude>бул. Кузман Јосифовски Питу бр.26/1 лок.4</j.0:latitude>
+    <j.0:address>бул. Кузман Јосифовски Питу бр.26/1 лок.4</j.0:address>
+    <rdfs:label>ПРИМА ВЕТ МЕДИКА ДОО Скопје</rdfs:label>
+  </j.0:VeterinaryClinic>
+  <j.0:VeterinaryClinic rdf:about="http://example.org/vet_clinics#11-4713/3">
+    <j.0:longitude>41.3770</j.0:longitude>
+    <j.0:latitude>ул.29 Ноември бр.2</j.0:latitude>
+    <j.0:address>ул.29 Ноември бр.2</j.0:address>
+    <rdfs:label>Хемо-Вет </rdfs:label>
+  </j.0:VeterinaryClinic>
+  <j.0:VeterinaryClinic rdf:about="http://example.org/vet_clinics#07-4775/2">
+    <j.0:longitude>41.4280</j.0:longitude>
+    <j.0:latitude>с.Сушица бр.105 општ.Ново Село</j.0:latitude>
+    <j.0:address>с.Сушица бр.105 општ.Ново Село</j.0:address>
+    <rdfs:label>АД З.С.К. Струмица(Сушица)</rdfs:label>
+  </j.0:VeterinaryClinic>
+  <j.0:VeterinaryClinic rdf:about="http://example.org/vet_clinics#11-6509/2">
+    <j.0:longitude>42.0060</j.0:longitude>
+    <j.0:latitude>ул. Св.Јоаким Осоговски бр. 61</j.0:latitude>
+    <j.0:address>ул. Св.Јоаким Осоговски бр. 61</j.0:address>
+    <rdfs:label>Ветеринарна Станица Крива Паланка</rdfs:label>
+  </j.0:VeterinaryClinic>
+  <j.0:VeterinaryClinic rdf:about="http://example.org/vet_clinics#11-5059/2">
+    <j.0:longitude>41.6530</j.0:longitude>
+    <j.0:latitude>ул. Задарска 60</j.0:latitude>
+    <j.0:address>ул. Задарска 60</j.0:address>
+    <rdfs:label>Ветеринарна Станица Бе Вет</rdfs:label>
+  </j.0:VeterinaryClinic>
+  <j.0:VeterinaryClinic rdf:about="http://example.org/vet_clinics#07-4879/2">
+    <j.0:longitude>41.4480</j.0:longitude>
+    <j.0:latitude>ул.Кукушка бр.7</j.0:latitude>
+    <j.0:address>ул.Кукушка бр.7</j.0:address>
+    <rdfs:label>Др.Ичков</rdfs:label>
+  </j.0:VeterinaryClinic>
+  <j.0:VeterinaryClinic rdf:about="http://example.org/vet_clinics#11-3901/3">
+    <j.0:longitude>41.1140</j.0:longitude>
+    <j.0:latitude>ул.6-та бр.72,</j.0:latitude>
+    <j.0:address>ул.6-та бр.72, Ресен</j.0:address>
+    <rdfs:label>Др. Перо Стојчевски</rdfs:label>
+  </j.0:VeterinaryClinic>
+  <j.0:VeterinaryClinic rdf:about="http://example.org/vet_clinics#07-4466/2">
+    <j.0:longitude>42.0030</j.0:longitude>
+    <j.0:latitude>с.Желино</j.0:latitude>
+    <j.0:address>ул. Благоја Тоска бр.63</j.0:address>
+    <rdfs:label>В.А.ПРАКСИС</rdfs:label>
+  </j.0:VeterinaryClinic>
+  <j.0:VeterinaryClinic rdf:about="http://example.org/vet_clinics#11-12677/3">
+    <j.0:longitude>41.4830</j.0:longitude>
+    <j.0:latitude>ул. Јане Сандански бб. Демир К.</j.0:latitude>
+    <j.0:address>ул. Јане Сандански бб. Демир К.</j.0:address>
+    <rdfs:label>СТО-ВЕТ ДООЕЛ</rdfs:label>
+  </j.0:VeterinaryClinic>
+  <j.0:VeterinaryClinic rdf:about="http://example.org/vet_clinics#11-9023/3">
+    <j.0:longitude>41.3445</j.0:longitude>
+    <j.0:latitude>Ул. Стеван Димески Ништакот 11А</j.0:latitude>
+    <j.0:address>Ул. Стеван Димески Ништакот 11А</j.0:address>
+    <rdfs:label>Др. Лашкоски</rdfs:label>
+  </j.0:VeterinaryClinic>
+  <j.0:VeterinaryClinic rdf:about="http://example.org/vet_clinics#11-18630/3">
+    <j.0:longitude>42.0010</j.0:longitude>
+    <j.0:latitude>ул. Пекљане 1/28</j.0:latitude>
+    <j.0:address>ул. Пекљане 1/28 новоселски Пат</j.0:address>
+    <rdfs:label>Вет Медика БиГ</rdfs:label>
+  </j.0:VeterinaryClinic>
+  <j.0:VeterinaryClinic rdf:about="http://example.org/vet_clinics#11-3119/3">
+    <j.0:longitude>42.0100</j.0:longitude>
+    <j.0:latitude>ул.Сава Ковачевиќ бр.29</j.0:latitude>
+    <j.0:address>ул.1, бр.57, Сопиште</j.0:address>
+    <rdfs:label>Ремедиум Вет</rdfs:label>
+  </j.0:VeterinaryClinic>
+  <j.0:VeterinaryClinic rdf:about="http://example.org/vet_clinics#10-2912">
+    <j.0:longitude>41.022390</j.0:longitude>
+    <j.0:latitude>Булевар 1 мај 222 Битола</j.0:latitude>
+    <j.0:address>Булевар 1 мај 222 Битола</j.0:address>
+    <rdfs:label>ЧАВДАР ВЕТ</rdfs:label>
+  </j.0:VeterinaryClinic>
+  <j.0:VeterinaryClinic rdf:about="http://example.org/vet_clinics#11-944/3">
+    <j.0:longitude>41.029940</j.0:longitude>
+    <j.0:latitude>ул. Индустриска бб.</j.0:latitude>
+    <j.0:address>ул. Индустриска бб.</j.0:address>
+    <rdfs:label>Вет-Макс И.Т.</rdfs:label>
+  </j.0:VeterinaryClinic>
+</rdf:RDF>

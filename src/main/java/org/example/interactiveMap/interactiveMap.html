@@ -1,0 +1,209 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Veterinary Clinics Map</title>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css"/>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet"/>
+
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+        }
+
+        #map {
+            height: 600px; /* Set the height of the map */
+        }
+
+        .tooltip {
+            position: absolute;
+            text-align: center;
+            padding: 8px;
+            font: 12px sans-serif;
+            background: lightsteelblue;
+            border: 0px;
+            border-radius: 8px;
+            pointer-events: none;
+        }
+    </style>
+</head>
+<body>
+
+<nav class="navbar navbar-expand-lg navbar-dark bg-dark px-3">
+    <div class="container-fluid">
+        <a class="navbar-brand" href="#">Ветеринарни клиники во Р.С Македонија</a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
+                aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNav">
+            <ul class="navbar-nav ms-auto">
+                <li class="nav-item">
+                    <a class="nav-link active" aria-current="page" href="#">Почетна</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="AddressPage.html">Адресар</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="#">За изработката</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+</nav>
+
+<div class="container">
+    <div class="row">
+        <div class="col-8 py-4">
+            <div id="map"></div> <!-- Map container -->
+            <div class="tooltip" style="opacity: 0;"></div>
+        </div>
+        <div class="col-4 py-4">
+            <!-- Dropdown for selecting city -->
+            <div class="dropdown w-100 mb-4">
+                <label for="city-select"></label>
+                <select id="city-select" class="form-select w-100">
+                    <option value="">Сите општини</option>
+                </select>
+            </div>
+
+            <!-- Card for displaying total number of clinics -->
+            <div class="card">
+                <div class="card-body">
+                    <h5 class="card-title">Вкупен број на клиники</h5>
+                    <p class="card-text" id="clinic-count">0</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
+<script src="https://d3js.org/d3.v7.min.js"></script>
+<script>
+    // Initialize the map
+    const map = L.map('map').setView([41.6082, 21.7453], 8); // Center on North Macedonia
+
+    // Add OpenStreetMap tiles
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+        maxZoom: 19,
+        attribution: '© OpenStreetMap'
+    }).addTo(map);
+
+    // Load the JSON-LD data
+    d3.json("http://localhost:8000/WBS_Vets/veterinary_ambulances_output.jsonld").then(function (data) {
+        const clinics = [];
+        const citySet = new Set();
+
+        // Populate clinics and city set
+        data["@graph"].forEach(item => {
+            const id = item["@id"];
+            const name = item["j.0:hasNameOfPlace"];
+            const location = item["j.0:hasLocation"];
+            const latitude = item["j.0:hasLatitude"] ? parseFloat(item["j.0:hasLatitude"].trim()) : null; // Access latitude
+            const longitude = item["j.0:hasLongitude"] ? parseFloat(item["j.0:hasLongitude"].trim()) : null; // Access longitude
+
+            // Only include clinics with valid coordinates
+            if (latitude && longitude) {
+                clinics.push({id, name, location, latitude, longitude});
+                citySet.add(location);
+            }
+        });
+
+        // Populate city dropdown
+        citySet.forEach(city => {
+            d3.select("#city-select")
+                .append("option")
+                .text(city)
+                .attr("value", city);
+        });
+
+        // Add markers to the map
+        const markers = L.layerGroup().addTo(map);
+
+        // Function to update markers and clinic count based on selected city
+        function updateMarkers(selectedCity) {
+            markers.clearLayers(); // Clear existing markers
+
+            const filteredClinics = selectedCity ? clinics.filter(c => c.location === selectedCity) : clinics;
+
+            // Update the clinic count in the card
+            d3.select("#clinic-count").text(filteredClinics.length);
+
+            markers.clearLayers(); // Clear existing markers
+
+            filteredClinics.forEach(clinic => {
+                // Log the latitude and longitude used for the marker
+                console.log(`Placing marker for clinic: ${clinic.name} at [${clinic.latitude}, ${clinic.longitude}]`);
+
+                // Create marker with a popup including clinic info and distance button
+                const marker = L.marker([clinic.latitude, clinic.longitude]).addTo(markers)
+                    .bindPopup(`
+                        <b>${clinic.name}</b><br>${clinic.location}<br>
+                        <button onclick="getCurrentLocation('${clinic.name}', ${clinic.latitude}, ${clinic.longitude})">Get Distance</button>
+                    `);
+            });
+        }
+
+        // Initial marker and clinic count setup
+        updateMarkers("");
+
+        // Filter clinics and update clinic count based on selected city
+        d3.select("#city-select").on("change", function () {
+            const selectedCity = d3.select(this).property("value");
+            updateMarkers(selectedCity);
+        });
+    }).catch(function (error) {
+        console.error("Error loading JSON-LD: ", error);
+    });
+
+    // Function to get the user's location and calculate distance
+    function getCurrentLocation(clinicName, clinicLatitude, clinicLongitude) {
+        if (navigator.geolocation) {
+            navigator.geolocation.getCurrentPosition(position => {
+                const userLatitude = position.coords.latitude;
+                const userLongitude = position.coords.longitude;
+
+                const distance = haversineDistance(userLatitude, userLongitude, clinicLatitude, clinicLongitude);
+                alert(`Distance to ${clinicName}: ${distance.toFixed(2)} km`);
+            }, showError);
+        } else {
+            alert("Geolocation is not supported by this browser.");
+        }
+    }
+
+    // Function to show geolocation error messages
+    function showError(error) {
+        switch (error.code) {
+            case error.PERMISSION_DENIED:
+                alert("User denied the request for Geolocation.");
+                break;
+            case error.POSITION_UNAVAILABLE:
+                alert("Location information is unavailable.");
+                break;
+            case error.TIMEOUT:
+                alert("The request to get user location timed out.");
+                break;
+            case error.UNKNOWN_ERROR:
+                alert("An unknown error occurred.");
+                break;
+        }
+    }
+
+    // Haversine function to calculate distance
+    function haversineDistance(lat1, lon1, lat2, lon2) {
+        const R = 6371; // Radius of the Earth in km
+        const dLat = (lat2 - lat1) * Math.PI / 180;
+        const dLon = (lon2 - lon1) * Math.PI / 180;
+
+        const a = Math.sin(dLat / 2) * Math.sin(dLat / 2) +
+            Math.cos(lat1 * Math.PI / 180) * Math.cos(lat2 * Math.PI / 180) *
+            Math.sin(dLon / 2) * Math.sin(dLon / 2);
+        const c = 2 * Math.atan2(Math.sqrt(a), Math.sqrt(1 - a));
+
+        return R * c; // Distance in km
+    }
+</script>
+</body>
+</html>
