@@ -1,11 +1,105 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="mk">
 <head>
     <meta charset="UTF-8">
-    <title>Prod Info</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>За изработката</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet"/>
+    <style>
+        html, body {
+            height: 100%;
+            margin: 0;
+        }
+
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f8f9fa;
+            display: flex;
+            flex-direction: column;
+        }
+
+        .content {
+            flex: 1;
+        }
+
+        h1 {
+            color: #343a40;
+        }
+
+        p {
+            font-size: 1.1rem;
+            color: #6c757d;
+        }
+
+        .list-group-item {
+            font-size: 1.1rem;
+            background-color: #ffffff;
+        }
+
+        footer {
+            background-color: #343a40;
+            color: white;
+            text-align: center;
+            padding: 10px 0;
+            width: 100%;
+        }
+
+        footer p {
+            margin: 0;
+            font-size: 0.8rem;
+        }
+        .prod{
+            font-size: 1rem;
+        }
+    </style>
 </head>
 <body>
+<nav class="navbar navbar-expand-lg navbar-dark bg-dark px-3">
+    <div class="container-fluid">
+        <a class="navbar-brand" href="#">Ветеринарни клиники во Р.С Македонија</a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
+                aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNav">
+            <ul class="navbar-nav ms-auto">
+                <li class="nav-item">
+                    <a class="nav-link" href="interactiveMap.html">Почетна</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="AddressPage.html">Адресар</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link active" aria-current="page" href="forProduction.html">За изработката</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+</nav>
+
+<div class="container content mt-5">
+    <div class="row">
+        <div class="col-md-12">
+            <h1 class="mb-4" style="font-size: 1.5rem;">За изработката</h1>
+            <p>Овој проект е развиен со цел да ги олесни информациите за ветеринарните клиники во Република Северна Македонија. </p>
+            <p>Во процесот на изработка, користени се следниве технологии и алатки:</p>
+            <ul class="list-group mb-4">
+                <li class="list-group-item"><strong>HTML & CSS</strong> </li>
+                <li class="list-group-item"><strong>JavaScript & Bootstrap 5</strong></li>
+                <li class="list-group-item"><strong>D3.js</strong> </li>
+                <li class="list-group-item"><strong>Leaflet.js</strong> </li>
+                <li class="list-group-item"><strong>Apache Jena (Java)</strong> </li>
+            </ul>
+            <p>Целта е да се обезбеди едноставен и брз начин за корисниците да најдат информации за ветеринарни клиники, како и нивната локација и контакти.</p>
+        </div>
+    </div>
+</div>
+
+<footer class="navbar navbar-dark bg-dark">
+    <div class="container">
+        <p class="mb-0">Изработено од Георгина Михаилова и Дарко Крстевски</p>
+    </div>
+</footer>
 
 </body>
 </html>
