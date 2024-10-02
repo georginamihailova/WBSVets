@@ -2,6 +2,7 @@
     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
     xmlns:j.0="http://example.org/vet/">
   <rdf:Description rdf:about="http://example.org/vet/129">
+    <j.0:hasType>Амбуланта</j.0:hasType>
     <j.0:hasLatitude>41.4425</j.0:hasLatitude>
     <j.0:hasLongitude>22.2140</j.0:hasLongitude>
     <j.0:hasAddress>ул Самоилова 2</j.0:hasAddress>
@@ -11,6 +12,7 @@
     <j.0:hasLocation>Радовиш</j.0:hasLocation>
   </rdf:Description>
   <rdf:Description rdf:about="http://example.org/vet/40">
+    <j.0:hasType>Амбуланта</j.0:hasType>
     <j.0:hasLatitude>41.3475</j.0:hasLatitude>
     <j.0:hasLongitude>21.5605</j.0:hasLongitude>
     <j.0:hasAddress>ул. Моша Пијаде бб</j.0:hasAddress>
@@ -20,6 +22,7 @@
     <j.0:hasLocation>Прилеп</j.0:hasLocation>
   </rdf:Description>
   <rdf:Description rdf:about="http://example.org/vet/52">
+    <j.0:hasType>Станица</j.0:hasType>
     <j.0:hasLatitude>41.1475</j.0:hasLatitude>
     <j.0:hasLongitude>22.5025</j.0:hasLongitude>
     <j.0:hasAddress>ул. 7 Ноември бр. 75</j.0:hasAddress>
@@ -29,6 +32,7 @@
     <j.0:hasLocation>Гевгелија</j.0:hasLocation>
   </rdf:Description>
   <rdf:Description rdf:about="http://example.org/vet/169">
+    <j.0:hasType>Амбуланта</j.0:hasType>
     <j.0:hasLatitude>41.035089</j.0:hasLatitude>
     <j.0:hasLongitude>21.302066</j.0:hasLongitude>
     <j.0:hasAddress>ул. Ѓ бр. 28 с. Могила Могила</j.0:hasAddress>
@@ -38,6 +42,7 @@
     <j.0:hasLocation>Битола</j.0:hasLocation>
   </rdf:Description>
   <rdf:Description rdf:about="http://example.org/vet/80">
+    <j.0:hasType>Амбуланта</j.0:hasType>
     <j.0:hasLatitude>42.0035</j.0:hasLatitude>
     <j.0:hasLongitude>21.4230</j.0:hasLongitude>
     <j.0:hasAddress>Ул.Волгоградска бр.10/2-6</j.0:hasAddress>
@@ -47,6 +52,7 @@
     <j.0:hasLocation>Скопје</j.0:hasLocation>
   </rdf:Description>
   <rdf:Description rdf:about="http://example.org/vet/117">
+    <j.0:hasType>Амбуланта</j.0:hasType>
     <j.0:hasLatitude>42.0270</j.0:hasLatitude>
     <j.0:hasLongitude>21.6700</j.0:hasLongitude>
     <j.0:hasAddress>с.Слупчане</j.0:hasAddress>
@@ -56,6 +62,7 @@
     <j.0:hasLocation>Липково</j.0:hasLocation>
   </rdf:Description>
   <rdf:Description rdf:about="http://example.org/vet/105">
+    <j.0:hasType>Амбуланта</j.0:hasType>
     <j.0:hasLatitude>41.7505</j.0:hasLatitude>
     <j.0:hasLongitude>22.0005</j.0:hasLongitude>
     <j.0:hasAddress>ул.Ванчо Ангелов бр.39</j.0:hasAddress>
@@ -65,6 +72,7 @@
     <j.0:hasLocation>Свети Николе </j.0:hasLocation>
   </rdf:Description>
   <rdf:Description rdf:about="http://example.org/vet/92">
+    <j.0:hasType>Амбуланта</j.0:hasType>
     <j.0:hasLatitude>41.4440</j.0:hasLatitude>
     <j.0:hasLongitude>22.2150</j.0:hasLongitude>
     <j.0:hasAddress>ул.Плачковица бр.221</j.0:hasAddress>
@@ -74,6 +82,7 @@
     <j.0:hasLocation>Радовиш</j.0:hasLocation>
   </rdf:Description>
   <rdf:Description rdf:about="http://example.org/vet/133">
+    <j.0:hasType>Амбуланта</j.0:hasType>
     <j.0:hasLatitude>42.03090</j.0:hasLatitude>
     <j.0:hasLongitude>20.97569</j.0:hasLongitude>
     <j.0:hasAddress>с.Џепчиште</j.0:hasAddress>
@@ -83,6 +92,7 @@
     <j.0:hasLocation>Тетово</j.0:hasLocation>
   </rdf:Description>
   <rdf:Description rdf:about="http://example.org/vet/24">
+    <j.0:hasType>Амбуланта</j.0:hasType>
     <j.0:hasLatitude>41.3480</j.0:hasLatitude>
     <j.0:hasLongitude>21.5615</j.0:hasLongitude>
     <j.0:hasAddress>с. Мало Коњари</j.0:hasAddress>
@@ -92,6 +102,7 @@
     <j.0:hasLocation>Прилеп</j.0:hasLocation>
   </rdf:Description>
   <rdf:Description rdf:about="http://example.org/vet/36">
+    <j.0:hasType>Амбуланта</j.0:hasType>
     <j.0:hasLatitude>41.1450</j.0:hasLatitude>
     <j.0:hasLongitude>22.5000</j.0:hasLongitude>
     <j.0:hasAddress>ул. 7 Ноемврибб</j.0:hasAddress>
@@ -101,6 +112,7 @@
     <j.0:hasLocation>Гевгелија</j.0:hasLocation>
   </rdf:Description>
   <rdf:Description rdf:about="http://example.org/vet/121">
+    <j.0:hasType>Амбуланта</j.0:hasType>
     <j.0:hasLatitude>41.6080</j.0:hasLatitude>
     <j.0:hasLongitude>20.9205</j.0:hasLongitude>
     <j.0:hasAddress>ул.Панче Попоски бр 2/1-1</j.0:hasAddress>
@@ -110,6 +122,7 @@
     <j.0:hasLocation>Гостивар</j.0:hasLocation>
   </rdf:Description>
   <rdf:Description rdf:about="http://example.org/vet/157">
+    <j.0:hasType>амбуланта</j.0:hasType>
     <j.0:hasLatitude>41.7730</j.0:hasLatitude>
     <j.0:hasLongitude>21.4130</j.0:hasLongitude>
     <j.0:hasAddress>ул.Теодосија Паунов бр. 55 Кочани</j.0:hasAddress>
@@ -119,6 +132,7 @@
     <j.0:hasLocation>Kочани</j.0:hasLocation>
   </rdf:Description>
   <rdf:Description rdf:about="http://example.org/vet/48">
+    <j.0:hasType>Станица</j.0:hasType>
     <j.0:hasLatitude>41.7550</j.0:hasLatitude>
     <j.0:hasLongitude>22.6785</j.0:hasLongitude>
     <j.0:hasAddress>ул. 8 Септември бб</j.0:hasAddress>
@@ -128,6 +142,7 @@
     <j.0:hasLocation>Делчево</j.0:hasLocation>
   </rdf:Description>
   <rdf:Description rdf:about="http://example.org/vet/145">
+    <j.0:hasType>Амбуланта</j.0:hasType>
     <j.0:hasLatitude>41.4480</j.0:hasLatitude>
     <j.0:hasLongitude>22.4180</j.0:hasLongitude>
     <j.0:hasAddress>ул.Кукушка бр.7</j.0:hasAddress>
@@ -137,6 +152,7 @@
     <j.0:hasLocation>Богданци</j.0:hasLocation>
   </rdf:Description>
   <rdf:Description rdf:about="http://example.org/vet/64">
+    <j.0:hasType>Амбуланта за Д.М. </j.0:hasType>
     <j.0:hasLatitude>42.0075</j.0:hasLatitude>
     <j.0:hasLongitude>21.4200</j.0:hasLongitude>
     <j.0:hasAddress>ул.Ван Гог бр.207</j.0:hasAddress>
@@ -146,6 +162,7 @@
     <j.0:hasLocation>Скопје</j.0:hasLocation>
   </rdf:Description>
   <rdf:Description rdf:about="http://example.org/vet/173">
+    <j.0:hasType>Амбуланта</j.0:hasType>
     <j.0:hasLatitude>41.9850</j.0:hasLatitude>
     <j.0:hasLongitude>21.4450</j.0:hasLongitude>
     <j.0:hasAddress>ул. Васко Карангелевски бр.9 Аеродром</j.0:hasAddress>
@@ -155,6 +172,7 @@
     <j.0:hasLocation>Скопје</j.0:hasLocation>
   </rdf:Description>
   <rdf:Description rdf:about="http://example.org/vet/76">
+    <j.0:hasType>Амбуланта</j.0:hasType>
     <j.0:hasLatitude>41.036455</j.0:hasLatitude>
     <j.0:hasLongitude>21.349031</j.0:hasLongitude>
     <j.0:hasAddress>ул.А Кукуречани</j.0:hasAddress>
@@ -164,6 +182,7 @@
     <j.0:hasLocation>Битола</j.0:hasLocation>
   </rdf:Description>
   <rdf:Description rdf:about="http://example.org/vet/161">
+    <j.0:hasType>амб.дом. мил.</j.0:hasType>
     <j.0:hasLatitude>41.9905</j.0:hasLatitude>
     <j.0:hasLongitude>21.4240</j.0:hasLongitude>
     <j.0:hasAddress>ул.29 Ноември 4г Дебар Маало, Центар</j.0:hasAddress>
@@ -173,6 +192,7 @@
     <j.0:hasLocation>Скопје</j.0:hasLocation>
   </rdf:Description>
   <rdf:Description rdf:about="http://example.org/vet/88">
+    <j.0:hasType>Амбуланта</j.0:hasType>
     <j.0:hasLatitude>41.9965</j.0:hasLatitude>
     <j.0:hasLongitude>21.4130</j.0:hasLongitude>
     <j.0:hasAddress>бул.Јане сандански бр.11</j.0:hasAddress>
@@ -182,6 +202,7 @@
     <j.0:hasLocation>Скопје</j.0:hasLocation>
   </rdf:Description>
   <rdf:Description rdf:about="http://example.org/vet/185">
+    <j.0:hasType>амбуланта</j.0:hasType>
     <j.0:hasLatitude>41.022390</j.0:hasLatitude>
     <j.0:hasLongitude>21.326539</j.0:hasLongitude>
     <j.0:hasAddress>Булевар 1 мај 222 Битола</j.0:hasAddress>
@@ -191,6 +212,7 @@
     <j.0:hasLocation>Битола</j.0:hasLocation>
   </rdf:Description>
   <rdf:Description rdf:about="http://example.org/vet/12">
+    <j.0:hasType>Станица</j.0:hasType>
     <j.0:hasLatitude>42.1318</j.0:hasLatitude>
     <j.0:hasLongitude>21.7110</j.0:hasLongitude>
     <j.0:hasAddress>ул. Доне Божинов бб</j.0:hasAddress>
@@ -200,6 +222,7 @@
     <j.0:hasLocation>Куманово</j.0:hasLocation>
   </rdf:Description>
   <rdf:Description rdf:about="http://example.org/vet/160">
+    <j.0:hasType>амбуланта</j.0:hasType>
     <j.0:hasLatitude>42.0011</j.0:hasLatitude>
     <j.0:hasLongitude>20.9738</j.0:hasLongitude>
     <j.0:hasAddress>ул.101 бр.10 с. Слатино Теарце</j.0:hasAddress>
@@ -209,6 +232,7 @@
     <j.0:hasLocation>Тетово</j.0:hasLocation>
   </rdf:Description>
   <rdf:Description rdf:about="http://example.org/vet/9">
+    <j.0:hasType>Станица</j.0:hasType>
     <j.0:hasLatitude>41.6530</j.0:hasLatitude>
     <j.0:hasLongitude>22.8685</j.0:hasLongitude>
     <j.0:hasAddress>ул. Задарска 60</j.0:hasAddress>
@@ -218,6 +242,7 @@
     <j.0:hasLocation>Берово</j.0:hasLocation>
   </rdf:Description>
   <rdf:Description rdf:about="http://example.org/vet/93">
+    <j.0:hasType>Клиника</j.0:hasType>
     <j.0:hasLatitude>41.1070</j.0:hasLatitude>
     <j.0:hasLongitude>20.7965</j.0:hasLongitude>
     <j.0:hasAddress>с.Требеништа</j.0:hasAddress>
@@ -227,6 +252,7 @@
     <j.0:hasLocation>Охрид</j.0:hasLocation>
   </rdf:Description>
   <rdf:Description rdf:about="http://example.org/vet/118">
+    <j.0:hasType>Амбуланта</j.0:hasType>
     <j.0:hasLatitude>42.1400</j.0:hasLatitude>
     <j.0:hasLongitude>21.7125</j.0:hasLongitude>
     <j.0:hasAddress>нм Тромеѓа</j.0:hasAddress>
@@ -236,6 +262,7 @@
     <j.0:hasLocation>Куманово</j.0:hasLocation>
   </rdf:Description>
   <rdf:Description rdf:about="http://example.org/vet/41">
+    <j.0:hasType>Станица</j.0:hasType>
     <j.0:hasLatitude>41.5075</j.0:hasLatitude>
     <j.0:hasLongitude>20.9850</j.0:hasLongitude>
     <j.0:hasAddress>ул. Јанко Михајловски 7</j.0:hasAddress>
@@ -245,6 +272,7 @@
     <j.0:hasLocation>Кичево</j.0:hasLocation>
   </rdf:Description>
   <rdf:Description rdf:about="http://example.org/vet/158">
+    <j.0:hasType>амбуланта</j.0:hasType>
     <j.0:hasLatitude>41.9860</j.0:hasLatitude>
     <j.0:hasLongitude>21.4395</j.0:hasLongitude>
     <j.0:hasAddress>ул. Козара бр.64/1 Скопје- Центар</j.0:hasAddress>
@@ -254,6 +282,7 @@
     <j.0:hasLocation>Скопје</j.0:hasLocation>
   </rdf:Description>
   <rdf:Description rdf:about="http://example.org/vet/106">
+    <j.0:hasType>Клиника</j.0:hasType>
     <j.0:hasLatitude>41.3400</j.0:hasLatitude>
     <j.0:hasLongitude>21.5580</j.0:hasLongitude>
     <j.0:hasAddress>ул.Златибор бр.64</j.0:hasAddress>
@@ -263,6 +292,7 @@
     <j.0:hasLocation>Прилеп</j.0:hasLocation>
   </rdf:Description>
   <rdf:Description rdf:about="http://example.org/vet/81">
+    <j.0:hasType>Амбуланта</j.0:hasType>
     <j.0:hasLatitude>41.1140</j.0:hasLatitude>
     <j.0:hasLongitude>21.0670</j.0:hasLongitude>
     <j.0:hasAddress>ул.6-та бр.72,</j.0:hasAddress>
@@ -272,6 +302,7 @@
     <j.0:hasLocation>Ресен</j.0:hasLocation>
   </rdf:Description>
   <rdf:Description rdf:about="http://example.org/vet/122">
+    <j.0:hasType>Клиника</j.0:hasType>
     <j.0:hasLatitude>41.4525</j.0:hasLatitude>
     <j.0:hasLongitude>22.4225</j.0:hasLongitude>
     <j.0:hasAddress>с.Стојаково,ул.Владо Пиперов бр.7</j.0:hasAddress>
@@ -281,6 +312,7 @@
     <j.0:hasLocation>Богданци</j.0:hasLocation>
   </rdf:Description>
   <rdf:Description rdf:about="http://example.org/vet/13">
+    <j.0:hasType>Станица</j.0:hasType>
     <j.0:hasLatitude>41.7520</j.0:hasLatitude>
     <j.0:hasLongitude>21.9860</j.0:hasLongitude>
     <j.0:hasAddress>ул. Велко Влаховиќ бр. 182</j.0:hasAddress>
@@ -290,6 +322,7 @@
     <j.0:hasLocation>Свети Николе</j.0:hasLocation>
   </rdf:Description>
   <rdf:Description rdf:about="http://example.org/vet/25">
+    <j.0:hasType>Станица</j.0:hasType>
     <j.0:hasLatitude>41.9742</j.0:hasLatitude>
     <j.0:hasLongitude>21.4211</j.0:hasLongitude>
     <j.0:hasAddress>ул.Врполе 9Б</j.0:hasAddress>
@@ -299,6 +332,7 @@
     <j.0:hasLocation>Скопје</j.0:hasLocation>
   </rdf:Description>
   <rdf:Description rdf:about="http://example.org/vet/110">
+    <j.0:hasType>Амбуланта</j.0:hasType>
     <j.0:hasLatitude>41.1165</j.0:hasLatitude>
     <j.0:hasLongitude>21.0705</j.0:hasLongitude>
     <j.0:hasAddress>ул.29 Ноември бр.1</j.0:hasAddress>
@@ -308,6 +342,7 @@
     <j.0:hasLocation>Ресен</j.0:hasLocation>
   </rdf:Description>
   <rdf:Description rdf:about="http://example.org/vet/146">
+    <j.0:hasType>Амбуланта</j.0:hasType>
     <j.0:hasLatitude>41.6285</j.0:hasLatitude>
     <j.0:hasLongitude>21.5285</j.0:hasLongitude>
     <j.0:hasAddress>Ул.8 ми Септември бр 64</j.0:hasAddress>
@@ -317,6 +352,7 @@
     <j.0:hasLocation>Градско</j.0:hasLocation>
   </rdf:Description>
   <rdf:Description rdf:about="http://example.org/vet/37">
+    <j.0:hasType>Амбуланта</j.0:hasType>
     <j.0:hasLatitude>41.2475</j.0:hasLatitude>
     <j.0:hasLongitude>21.1950</j.0:hasLongitude>
     <j.0:hasAddress>ул.Илинденска бр.109</j.0:hasAddress>
@@ -326,6 +362,7 @@
     <j.0:hasLocation>Крушево</j.0:hasLocation>
   </rdf:Description>
   <rdf:Description rdf:about="http://example.org/vet/49">
+    <j.0:hasType>Станица</j.0:hasType>
     <j.0:hasLatitude>41.9985</j.0:hasLatitude>
     <j.0:hasLongitude>21.4265</j.0:hasLongitude>
     <j.0:hasAddress>ул. Лазар Поп Трајков 6-7</j.0:hasAddress>
@@ -335,6 +372,7 @@
     <j.0:hasLocation>Скопје</j.0:hasLocation>
   </rdf:Description>
   <rdf:Description rdf:about="http://example.org/vet/134">
+    <j.0:hasType>Амбуланта</j.0:hasType>
     <j.0:hasLatitude>42.0865</j.0:hasLatitude>
     <j.0:hasLongitude>22.1810</j.0:hasLongitude>
     <j.0:hasAddress>ул. Гоце Делчев бр. Бб</j.0:hasAddress>
@@ -344,6 +382,7 @@
     <j.0:hasLocation>Кратово</j.0:hasLocation>
   </rdf:Description>
   <rdf:Description rdf:about="http://example.org/vet/162">
+    <j.0:hasType>амбуланта</j.0:hasType>
     <j.0:hasLatitude>41.7480</j.0:hasLatitude>
     <j.0:hasLongitude>21.9775</j.0:hasLongitude>
     <j.0:hasAddress>ул. Велко Влаховиќ бр. 160</j.0:hasAddress>
@@ -353,6 +392,7 @@
     <j.0:hasLocation>Свети Николе</j.0:hasLocation>
   </rdf:Description>
   <rdf:Description rdf:about="http://example.org/vet/53">
+    <j.0:hasType>Станица</j.0:hasType>
     <j.0:hasLatitude>42.1250</j.0:hasLatitude>
     <j.0:hasLongitude>21.7050</j.0:hasLongitude>
     <j.0:hasAddress>ул. Доне Божинов бб</j.0:hasAddress>
@@ -362,6 +402,7 @@
     <j.0:hasLocation>Куманово</j.0:hasLocation>
   </rdf:Description>
   <rdf:Description rdf:about="http://example.org/vet/65">
+    <j.0:hasType>Амбуланта</j.0:hasType>
     <j.0:hasLatitude>41.9965</j.0:hasLatitude>
     <j.0:hasLongitude>22.1831</j.0:hasLongitude>
     <j.0:hasAddress>ул.8ми Септември бр.5-4-11</j.0:hasAddress>
@@ -371,6 +412,7 @@
     <j.0:hasLocation>Пробиштип</j.0:hasLocation>
   </rdf:Description>
   <rdf:Description rdf:about="http://example.org/vet/150">
+    <j.0:hasType>Амбуланта</j.0:hasType>
     <j.0:hasLatitude>41.9985</j.0:hasLatitude>
     <j.0:hasLongitude>21.4235</j.0:hasLongitude>
     <j.0:hasAddress>ул.Московска бр. 7/004 Карпош</j.0:hasAddress>
@@ -380,6 +422,7 @@
     <j.0:hasLocation>Скопје</j.0:hasLocation>
   </rdf:Description>
   <rdf:Description rdf:about="http://example.org/vet/186">
+    <j.0:hasType>амбуланта</j.0:hasType>
     <j.0:hasLatitude>41.3510</j.0:hasLatitude>
     <j.0:hasLongitude>21.3500</j.0:hasLongitude>
     <j.0:hasAddress>ул. Илинденска бр.1 Чашка</j.0:hasAddress>
@@ -389,6 +432,7 @@
     <j.0:hasLocation>Чашка </j.0:hasLocation>
   </rdf:Description>
   <rdf:Description rdf:about="http://example.org/vet/77">
+    <j.0:hasType>В.С.О</j.0:hasType>
     <j.0:hasLatitude>41.6555</j.0:hasLatitude>
     <j.0:hasLongitude>22.8700</j.0:hasLongitude>
     <j.0:hasAddress>с.Смојмирово</j.0:hasAddress>
@@ -398,6 +442,7 @@
     <j.0:hasLocation>Берово</j.0:hasLocation>
   </rdf:Description>
   <rdf:Description rdf:about="http://example.org/vet/89">
+    <j.0:hasType>Клиника</j.0:hasType>
     <j.0:hasLatitude>41.029940</j.0:hasLatitude>
     <j.0:hasLongitude>21.326559</j.0:hasLongitude>
     <j.0:hasAddress>ул. Индустриска бб.</j.0:hasAddress>
@@ -407,6 +452,7 @@
     <j.0:hasLocation>Битола</j.0:hasLocation>
   </rdf:Description>
   <rdf:Description rdf:about="http://example.org/vet/174">
+    <j.0:hasType>Амбуланта</j.0:hasType>
     <j.0:hasLatitude>41.9490</j.0:hasLatitude>
     <j.0:hasLongitude>21.4185</j.0:hasLongitude>
     <j.0:hasAddress>бул. Кузман Јосифовски Питу бр.26/1 лок.4</j.0:hasAddress>
@@ -416,6 +462,7 @@
     <j.0:hasLocation>Скопје</j.0:hasLocation>
   </rdf:Description>
   <rdf:Description rdf:about="http://example.org/vet/8">
+    <j.0:hasType>Станица</j.0:hasType>
     <j.0:hasLatitude>41.7398</j.0:hasLatitude>
     <j.0:hasLongitude>22.5080</j.0:hasLongitude>
     <j.0:hasAddress>ул. Илинденска 96</j.0:hasAddress>
@@ -425,6 +472,7 @@
     <j.0:hasLocation>Виница</j.0:hasLocation>
   </rdf:Description>
   <rdf:Description rdf:about="http://example.org/vet/82">
+    <j.0:hasType>Амбуланта</j.0:hasType>
     <j.0:hasLatitude>41.4435</j.0:hasLatitude>
     <j.0:hasLongitude>22.6550</j.0:hasLongitude>
     <j.0:hasAddress>с.Куклиш, бр.258</j.0:hasAddress>
@@ -434,6 +482,7 @@
     <j.0:hasLocation>Струмица</j.0:hasLocation>
   </rdf:Description>
   <rdf:Description rdf:about="http://example.org/vet/94">
+    <j.0:hasType>Болница</j.0:hasType>
     <j.0:hasLatitude>41.9925</j.0:hasLatitude>
     <j.0:hasLongitude>21.4395</j.0:hasLongitude>
     <j.0:hasAddress>ул.Лазар Поп Трајков бр.5-7</j.0:hasAddress>
@@ -443,6 +492,7 @@
     <j.0:hasLocation>Скопје</j.0:hasLocation>
   </rdf:Description>
   <rdf:Description rdf:about="http://example.org/vet/30">
+    <j.0:hasType>Амбуланта за Д.М. </j.0:hasType>
     <j.0:hasLatitude>42.0050</j.0:hasLatitude>
     <j.0:hasLongitude>21.4265</j.0:hasLongitude>
     <j.0:hasAddress>ул. Црвена Вода бр.18</j.0:hasAddress>
@@ -452,6 +502,7 @@
     <j.0:hasLocation>Скопје</j.0:hasLocation>
   </rdf:Description>
   <rdf:Description rdf:about="http://example.org/vet/115">
+    <j.0:hasType>Амбуланта</j.0:hasType>
     <j.0:hasLatitude>42.0010</j.0:hasLatitude>
     <j.0:hasLongitude>20.9738</j.0:hasLongitude>
     <j.0:hasAddress>ул.101 до река Пена с.Сараќино</j.0:hasAddress>
@@ -461,6 +512,7 @@
     <j.0:hasLocation>Тетово</j.0:hasLocation>
   </rdf:Description>
   <rdf:Description rdf:about="http://example.org/vet/103">
+    <j.0:hasType>Амбуланта</j.0:hasType>
     <j.0:hasLatitude>41.7128</j.0:hasLatitude>
     <j.0:hasLongitude>21.7730</j.0:hasLongitude>
     <j.0:hasAddress>с.Ново село</j.0:hasAddress>
@@ -470,6 +522,7 @@
     <j.0:hasLocation>Велес</j.0:hasLocation>
   </rdf:Description>
   <rdf:Description rdf:about="http://example.org/vet/139">
+    <j.0:hasType>В.С.О</j.0:hasType>
     <j.0:hasLatitude>41.7185</j.0:hasLatitude>
     <j.0:hasLongitude>21.7825</j.0:hasLongitude>
     <j.0:hasAddress>ул.Благој Ѓорев бб.</j.0:hasAddress>
@@ -479,6 +532,7 @@
     <j.0:hasLocation>Велес</j.0:hasLocation>
   </rdf:Description>
   <rdf:Description rdf:about="http://example.org/vet/70">
+    <j.0:hasType>Амбуланта</j.0:hasType>
     <j.0:hasLatitude>41.9925</j.0:hasLatitude>
     <j.0:hasLongitude>21.4175</j.0:hasLongitude>
     <j.0:hasAddress>с.Подбреѓе , Јегуновце</j.0:hasAddress>
@@ -488,6 +542,7 @@
     <j.0:hasLocation>Скопје</j.0:hasLocation>
   </rdf:Description>
   <rdf:Description rdf:about="http://example.org/vet/127">
+    <j.0:hasType>Амбуланта</j.0:hasType>
     <j.0:hasLatitude>41.4420</j.0:hasLatitude>
     <j.0:hasLongitude>22.6450</j.0:hasLongitude>
     <j.0:hasAddress>ул. Иљо Шопов бр.43/2, Струмица</j.0:hasAddress>
@@ -497,6 +552,7 @@
     <j.0:hasLocation>Струмица</j.0:hasLocation>
   </rdf:Description>
   <rdf:Description rdf:about="http://example.org/vet/155">
+    <j.0:hasType>амбуланта</j.0:hasType>
     <j.0:hasLatitude>41.9700</j.0:hasLatitude>
     <j.0:hasLongitude>21.4390</j.0:hasLongitude>
     <j.0:hasAddress>ул. Булевар Видое Смилевски Бато бр. 25/2-9</j.0:hasAddress>
@@ -506,6 +562,7 @@
     <j.0:hasLocation>Скопје</j.0:hasLocation>
   </rdf:Description>
   <rdf:Description rdf:about="http://example.org/vet/14">
+    <j.0:hasType>Станица</j.0:hasType>
     <j.0:hasLatitude>41.6094</j.0:hasLatitude>
     <j.0:hasLongitude>20.9100</j.0:hasLongitude>
     <j.0:hasAddress>ул.ЈНА бр. 254</j.0:hasAddress>
@@ -515,6 +572,7 @@
     <j.0:hasLocation>Гостивар</j.0:hasLocation>
   </rdf:Description>
   <rdf:Description rdf:about="http://example.org/vet/143">
+    <j.0:hasType>Амбуланта</j.0:hasType>
     <j.0:hasLatitude>41.9980</j.0:hasLatitude>
     <j.0:hasLongitude>21.4440</j.0:hasLongitude>
     <j.0:hasAddress>бул.Јане сандански бр.59,лок 7-Аеродром</j.0:hasAddress>
@@ -524,6 +582,7 @@
     <j.0:hasLocation>Скопје</j.0:hasLocation>
   </rdf:Description>
   <rdf:Description rdf:about="http://example.org/vet/26">
+    <j.0:hasType>Амбуланта</j.0:hasType>
     <j.0:hasLatitude>41.4450</j.0:hasLatitude>
     <j.0:hasLongitude>22.2180</j.0:hasLongitude>
     <j.0:hasAddress>ул. Благој Туфанов бр. 31</j.0:hasAddress>
@@ -533,6 +592,7 @@
     <j.0:hasLocation>Радовиш</j.0:hasLocation>
   </rdf:Description>
   <rdf:Description rdf:about="http://example.org/vet/179">
+    <j.0:hasType>Амбуланта</j.0:hasType>
     <j.0:hasLatitude>41.4360</j.0:hasLatitude>
     <j.0:hasLongitude>22.6523</j.0:hasLongitude>
     <j.0:hasAddress>ул. Маршал Тито бр.174 Срумица</j.0:hasAddress>
@@ -542,6 +602,7 @@
     <j.0:hasLocation>Струмица</j.0:hasLocation>
   </rdf:Description>
   <rdf:Description rdf:about="http://example.org/vet/38">
+    <j.0:hasType>Амбуланта за Д.М. </j.0:hasType>
     <j.0:hasLatitude>41.1760</j.0:hasLatitude>
     <j.0:hasLongitude>20.6790</j.0:hasLongitude>
     <j.0:hasAddress>ул. Пабло Неруда 18</j.0:hasAddress>
@@ -551,6 +612,7 @@
     <j.0:hasLocation>Струга</j.0:hasLocation>
   </rdf:Description>
   <rdf:Description rdf:about="http://example.org/vet/167">
+    <j.0:hasType>амбуланта</j.0:hasType>
     <j.0:hasLatitude>41.7430</j.0:hasLatitude>
     <j.0:hasLongitude>41.7430</j.0:hasLongitude>
     <j.0:hasAddress>ул. Борис Крајгер бб Штип</j.0:hasAddress>
@@ -560,6 +622,7 @@
     <j.0:hasLocation>Штип</j.0:hasLocation>
   </rdf:Description>
   <rdf:Description rdf:about="http://example.org/vet/42">
+    <j.0:hasType>Станица</j.0:hasType>
     <j.0:hasLatitude>42.0090</j.0:hasLatitude>
     <j.0:hasLongitude>20.9799</j.0:hasLongitude>
     <j.0:hasAddress>с. Желино</j.0:hasAddress>
@@ -569,6 +632,7 @@
     <j.0:hasLocation>Тетово</j.0:hasLocation>
   </rdf:Description>
   <rdf:Description rdf:about="http://example.org/vet/54">
+    <j.0:hasType>Амбуланта за Д.М. </j.0:hasType>
     <j.0:hasLatitude>41.3445</j.0:hasLatitude>
     <j.0:hasLongitude>21.5660</j.0:hasLongitude>
     <j.0:hasAddress>Ул. Стеван Димески Ништакот 11А</j.0:hasAddress>
@@ -578,6 +642,7 @@
     <j.0:hasLocation>Прилеп</j.0:hasLocation>
   </rdf:Description>
   <rdf:Description rdf:about="http://example.org/vet/183">
+    <j.0:hasType>амбуланта</j.0:hasType>
     <j.0:hasLatitude>41.04321</j.0:hasLatitude>
     <j.0:hasLongitude>21.329666</j.0:hasLongitude>
     <j.0:hasAddress>ул. Стево Патако бр.28 Битола</j.0:hasAddress>
@@ -587,6 +652,7 @@
     <j.0:hasLocation>Битола</j.0:hasLocation>
   </rdf:Description>
   <rdf:Description rdf:about="http://example.org/vet/131">
+    <j.0:hasType>Амбуланта</j.0:hasType>
     <j.0:hasLatitude>42.0070</j.0:hasLatitude>
     <j.0:hasLongitude>22.3480</j.0:hasLongitude>
     <j.0:hasAddress>ул. Св.Јоаким Осоговски бр. 61</j.0:hasAddress>
@@ -596,6 +662,7 @@
     <j.0:hasLocation>Крива Паланка</j.0:hasLocation>
   </rdf:Description>
   <rdf:Description rdf:about="http://example.org/vet/66">
+    <j.0:hasType>В.С.О</j.0:hasType>
     <j.0:hasLatitude>41.8160</j.0:hasLatitude>
     <j.0:hasLongitude>21.7400</j.0:hasLongitude>
     <j.0:hasAddress>с.Челопек</j.0:hasAddress>
@@ -605,6 +672,7 @@
     <j.0:hasLocation>Брвеница</j.0:hasLocation>
   </rdf:Description>
   <rdf:Description rdf:about="http://example.org/vet/78">
+    <j.0:hasType>Амбуланта</j.0:hasType>
     <j.0:hasLatitude>41.3420</j.0:hasLatitude>
     <j.0:hasLongitude>21.5525</j.0:hasLongitude>
     <j.0:hasAddress>ул.Кеј 9ти Септември бр.1/5в</j.0:hasAddress>
@@ -614,6 +682,7 @@
     <j.0:hasLocation>Прилеп</j.0:hasLocation>
   </rdf:Description>
   <rdf:Description rdf:about="http://example.org/vet/182">
+    <j.0:hasType>Амбуланта</j.0:hasType>
     <j.0:hasLatitude>41.7500</j.0:hasLatitude>
     <j.0:hasLongitude>22.6700</j.0:hasLongitude>
     <j.0:hasAddress>у. Благој Стоименов бр.5 Делчево</j.0:hasAddress>
@@ -623,6 +692,7 @@
     <j.0:hasLocation>Делчево</j.0:hasLocation>
   </rdf:Description>
   <rdf:Description rdf:about="http://example.org/vet/170">
+    <j.0:hasType>Амбуланта</j.0:hasType>
     <j.0:hasLatitude>41.036818</j.0:hasLatitude>
     <j.0:hasLongitude>21.400032</j.0:hasLongitude>
     <j.0:hasAddress>Бошко Најдовски бр. 44 Битола</j.0:hasAddress>
@@ -632,6 +702,7 @@
     <j.0:hasLocation>Битола</j.0:hasLocation>
   </rdf:Description>
   <rdf:Description rdf:about="http://example.org/vet/3">
+    <j.0:hasType>Станица</j.0:hasType>
     <j.0:hasLatitude>41.9960</j.0:hasLatitude>
     <j.0:hasLongitude>21.4320</j.0:hasLongitude>
     <j.0:hasAddress>ул. Лазар Поп Трајков 6-7</j.0:hasAddress>
@@ -641,6 +712,7 @@
     <j.0:hasLocation>Скопје</j.0:hasLocation>
   </rdf:Description>
   <rdf:Description rdf:about="http://example.org/vet/71">
+    <j.0:hasType>Амбуланта</j.0:hasType>
     <j.0:hasLatitude>42.00100</j.0:hasLatitude>
     <j.0:hasLongitude>20.9799</j.0:hasLongitude>
     <j.0:hasAddress>Маршал ТИТО бр.124/9</j.0:hasAddress>
@@ -650,6 +722,7 @@
     <j.0:hasLocation>Тетово</j.0:hasLocation>
   </rdf:Description>
   <rdf:Description rdf:about="http://example.org/vet/83">
+    <j.0:hasType>Амбуланта</j.0:hasType>
     <j.0:hasLatitude>41.3770</j.0:hasLatitude>
     <j.0:hasLongitude>22.4480</j.0:hasLongitude>
     <j.0:hasAddress>ул.29 Ноември бр.2</j.0:hasAddress>
@@ -659,6 +732,7 @@
     <j.0:hasLocation>Валандово</j.0:hasLocation>
   </rdf:Description>
   <rdf:Description rdf:about="http://example.org/vet/95">
+    <j.0:hasType>Амбуланта</j.0:hasType>
     <j.0:hasLatitude>42.0020</j.0:hasLatitude>
     <j.0:hasLongitude>20.9800</j.0:hasLongitude>
     <j.0:hasAddress>ул.101с.Боговиње</j.0:hasAddress>
@@ -668,6 +742,7 @@
     <j.0:hasLocation>Тетово</j.0:hasLocation>
   </rdf:Description>
   <rdf:Description rdf:about="http://example.org/vet/104">
+    <j.0:hasType>Амбуланта</j.0:hasType>
     <j.0:hasLatitude>41.9965</j.0:hasLatitude>
     <j.0:hasLongitude>22.1831</j.0:hasLongitude>
     <j.0:hasAddress>ул. Вељко Влаховиќ број 26</j.0:hasAddress>
@@ -677,6 +752,7 @@
     <j.0:hasLocation>Пробиштип</j.0:hasLocation>
   </rdf:Description>
   <rdf:Description rdf:about="http://example.org/vet/128">
+    <j.0:hasType>Амбуланта</j.0:hasType>
     <j.0:hasLatitude>42.0000</j.0:hasLatitude>
     <j.0:hasLongitude>20.9718</j.0:hasLongitude>
     <j.0:hasAddress>ул. Јане Сандански 8</j.0:hasAddress>
@@ -686,6 +762,7 @@
     <j.0:hasLocation>Тетово</j.0:hasLocation>
   </rdf:Description>
   <rdf:Description rdf:about="http://example.org/vet/116">
+    <j.0:hasType>Амбуланта</j.0:hasType>
     <j.0:hasLatitude>41.9920</j.0:hasLatitude>
     <j.0:hasLongitude>21.4510</j.0:hasLongitude>
     <j.0:hasAddress>с.Подбреѓе , Јегуновце</j.0:hasAddress>
@@ -695,6 +772,7 @@
     <j.0:hasLocation>Скопје</j.0:hasLocation>
   </rdf:Description>
   <rdf:Description rdf:about="http://example.org/vet/144">
+    <j.0:hasType>Амбуланта</j.0:hasType>
     <j.0:hasLatitude>41.9965</j.0:hasLatitude>
     <j.0:hasLongitude>21.4740</j.0:hasLongitude>
     <j.0:hasAddress>ул. Елисие Поповски - Марко  бр. 55б</j.0:hasAddress>
@@ -704,6 +782,7 @@
     <j.0:hasLocation>Скопје</j.0:hasLocation>
   </rdf:Description>
   <rdf:Description rdf:about="http://example.org/vet/79">
+    <j.0:hasType>В.С.О</j.0:hasType>
     <j.0:hasLatitude>41.7170</j.0:hasLatitude>
     <j.0:hasLongitude>21.7800</j.0:hasLongitude>
     <j.0:hasAddress>ул.Енгелсова 2/3-2</j.0:hasAddress>
@@ -713,6 +792,7 @@
     <j.0:hasLocation>Велес</j.0:hasLocation>
   </rdf:Description>
   <rdf:Description rdf:about="http://example.org/vet/132">
+    <j.0:hasType>Амбуланта</j.0:hasType>
     <j.0:hasLatitude>41.9480</j.0:hasLatitude>
     <j.0:hasLongitude>21.4270</j.0:hasLongitude>
     <j.0:hasAddress>ул.3 бр.2 ,Кондово,Сарај</j.0:hasAddress>
@@ -722,6 +802,7 @@
     <j.0:hasLocation>Скопје</j.0:hasLocation>
   </rdf:Description>
   <rdf:Description rdf:about="http://example.org/vet/15">
+    <j.0:hasType>Станица</j.0:hasType>
     <j.0:hasLatitude>41.1733</j.0:hasLatitude>
     <j.0:hasLongitude>20.6755</j.0:hasLongitude>
     <j.0:hasAddress>Индустриска бб</j.0:hasAddress>
@@ -731,6 +812,7 @@
     <j.0:hasLocation>Струга</j.0:hasLocation>
   </rdf:Description>
   <rdf:Description rdf:about="http://example.org/vet/168">
+    <j.0:hasType>амбуланта</j.0:hasType>
     <j.0:hasLatitude>41.032369</j.0:hasLatitude>
     <j.0:hasLongitude>21.396884</j.0:hasLongitude>
     <j.0:hasAddress>ул. Кавала бр.1 Битола</j.0:hasAddress>
@@ -740,6 +822,7 @@
     <j.0:hasLocation>Битола</j.0:hasLocation>
   </rdf:Description>
   <rdf:Description rdf:about="http://example.org/vet/156">
+    <j.0:hasType>амбуланта</j.0:hasType>
     <j.0:hasLatitude>41.4290</j.0:hasLatitude>
     <j.0:hasLongitude>22.0045</j.0:hasLongitude>
     <j.0:hasAddress>Ул. Киро Крстев бр.4 Кавадарци, Кавадарци</j.0:hasAddress>
@@ -749,6 +832,7 @@
     <j.0:hasLocation>Кавадарци</j.0:hasLocation>
   </rdf:Description>
   <rdf:Description rdf:about="http://example.org/vet/27">
+    <j.0:hasType>Амбуланта</j.0:hasType>
     <j.0:hasLatitude>41.1150</j.0:hasLatitude>
     <j.0:hasLongitude>20.8055</j.0:hasLongitude>
     <j.0:hasAddress>с. Лескоец</j.0:hasAddress>
@@ -758,6 +842,7 @@
     <j.0:hasLocation>Охрид</j.0:hasLocation>
   </rdf:Description>
   <rdf:Description rdf:about="http://example.org/vet/31">
+    <j.0:hasType>Амбуланта</j.0:hasType>
     <j.0:hasLatitude>41.4315</j.0:hasLatitude>
     <j.0:hasLongitude>22.0080</j.0:hasLongitude>
     <j.0:hasAddress>ул. Страшо Пинџур 32</j.0:hasAddress>
@@ -767,6 +852,7 @@
     <j.0:hasLocation>Кавадарци</j.0:hasLocation>
   </rdf:Description>
   <rdf:Description rdf:about="http://example.org/vet/184">
+    <j.0:hasType>амбуланта</j.0:hasType>
     <j.0:hasLatitude>41.032357</j.0:hasLatitude>
     <j.0:hasLongitude>21.329572</j.0:hasLongitude>
     <j.0:hasAddress>Булевар 1ви мајбр.243 Битола, Битола</j.0:hasAddress>
@@ -776,6 +862,7 @@
     <j.0:hasLocation>Битола</j.0:hasLocation>
   </rdf:Description>
   <rdf:Description rdf:about="http://example.org/vet/43">
+    <j.0:hasType>Станица</j.0:hasType>
     <j.0:hasLatitude>42.1335</j.0:hasLatitude>
     <j.0:hasLongitude>21.7210</j.0:hasLongitude>
     <j.0:hasAddress>с. Младо Нагоричане оп.С.Нагоричане</j.0:hasAddress>
@@ -785,6 +872,7 @@
     <j.0:hasLocation>Куманово</j.0:hasLocation>
   </rdf:Description>
   <rdf:Description rdf:about="http://example.org/vet/172">
+    <j.0:hasType>Амбуланта</j.0:hasType>
     <j.0:hasLatitude>41.7420</j.0:hasLatitude>
     <j.0:hasLongitude>22.2005</j.0:hasLongitude>
     <j.0:hasAddress>населено место без уличен систем бр.30/а Долни Балван</j.0:hasAddress>
@@ -794,6 +882,7 @@
     <j.0:hasLocation>Штип</j.0:hasLocation>
   </rdf:Description>
   <rdf:Description rdf:about="http://example.org/vet/120">
+    <j.0:hasType>Клиника</j.0:hasType>
     <j.0:hasLatitude>41.9950</j.0:hasLatitude>
     <j.0:hasLongitude>20.9150</j.0:hasLongitude>
     <j.0:hasAddress>с. Теарце</j.0:hasAddress>
@@ -803,6 +892,7 @@
     <j.0:hasLocation>Теарце</j.0:hasLocation>
   </rdf:Description>
   <rdf:Description rdf:about="http://example.org/vet/55">
+    <j.0:hasType>Станица</j.0:hasType>
     <j.0:hasLatitude>41.4320</j.0:hasLatitude>
     <j.0:hasLongitude>22.6273</j.0:hasLongitude>
     <j.0:hasAddress>с. Турново</j.0:hasAddress>
@@ -812,6 +902,7 @@
     <j.0:hasLocation>Струмица</j.0:hasLocation>
   </rdf:Description>
   <rdf:Description rdf:about="http://example.org/vet/67">
+    <j.0:hasType>В.С.О</j.0:hasType>
     <j.0:hasLatitude>41.4500</j.0:hasLatitude>
     <j.0:hasLongitude>22.4200</j.0:hasLongitude>
     <j.0:hasAddress>ул.Маршал Тито бб.</j.0:hasAddress>
@@ -821,6 +912,7 @@
     <j.0:hasLocation>Богданци</j.0:hasLocation>
   </rdf:Description>
   <rdf:Description rdf:about="http://example.org/vet/171">
+    <j.0:hasType>Амбуланта</j.0:hasType>
     <j.0:hasLatitude>41.7430</j.0:hasLatitude>
     <j.0:hasLongitude>22.2080</j.0:hasLongitude>
     <j.0:hasAddress>ул. Митко Соколов бр.8 Штип</j.0:hasAddress>
@@ -830,6 +922,7 @@
     <j.0:hasLocation>Штип</j.0:hasLocation>
   </rdf:Description>
   <rdf:Description rdf:about="http://example.org/vet/39">
+    <j.0:hasType>Станица</j.0:hasType>
     <j.0:hasLatitude>41.7400</j.0:hasLatitude>
     <j.0:hasLongitude>22.2025</j.0:hasLongitude>
     <j.0:hasAddress>ул. Солидарност 96</j.0:hasAddress>
@@ -839,6 +932,7 @@
     <j.0:hasLocation>Штип</j.0:hasLocation>
   </rdf:Description>
   <rdf:Description rdf:about="http://example.org/vet/2">
+    <j.0:hasType>Станица</j.0:hasType>
     <j.0:hasLatitude>41.9926</j.0:hasLatitude>
     <j.0:hasLongitude>21.4333</j.0:hasLongitude>
     <j.0:hasAddress>ул. Лазар Поп Трајков 6-7</j.0:hasAddress>
@@ -848,6 +942,7 @@
     <j.0:hasLocation>Скопје</j.0:hasLocation>
   </rdf:Description>
   <rdf:Description rdf:about="http://example.org/vet/60">
+    <j.0:hasType>Амбуланта</j.0:hasType>
     <j.0:hasLatitude>41.032345</j.0:hasLatitude>
     <j.0:hasLongitude>21.329508</j.0:hasLongitude>
     <j.0:hasAddress>ул. 1 с.Цапари</j.0:hasAddress>
@@ -857,6 +952,7 @@
     <j.0:hasLocation>Битола</j.0:hasLocation>
   </rdf:Description>
   <rdf:Description rdf:about="http://example.org/vet/72">
+    <j.0:hasType>Амбуланта</j.0:hasType>
     <j.0:hasLatitude>41.7460</j.0:hasLatitude>
     <j.0:hasLongitude>22.2100</j.0:hasLongitude>
     <j.0:hasAddress>ул.Борис Крајгер бб.</j.0:hasAddress>
@@ -866,6 +962,7 @@
     <j.0:hasLocation>Штип</j.0:hasLocation>
   </rdf:Description>
   <rdf:Description rdf:about="http://example.org/vet/84">
+    <j.0:hasType>Клиника</j.0:hasType>
     <j.0:hasLatitude>42.1350</j.0:hasLatitude>
     <j.0:hasLongitude>21.7155</j.0:hasLongitude>
     <j.0:hasAddress>ул.205, бр.4</j.0:hasAddress>
@@ -875,6 +972,7 @@
     <j.0:hasLocation>Куманово</j.0:hasLocation>
   </rdf:Description>
   <rdf:Description rdf:about="http://example.org/vet/109">
+    <j.0:hasType>Амбуланта</j.0:hasType>
     <j.0:hasLatitude>41.4392</j.0:hasLatitude>
     <j.0:hasLongitude>22.6605</j.0:hasLongitude>
     <j.0:hasAddress>ул.Климент Охридски бр.29</j.0:hasAddress>
@@ -884,6 +982,7 @@
     <j.0:hasLocation>Струмица</j.0:hasLocation>
   </rdf:Description>
   <rdf:Description rdf:about="http://example.org/vet/96">
+    <j.0:hasType>Амбуланта</j.0:hasType>
     <j.0:hasLatitude>41.2105</j.0:hasLatitude>
     <j.0:hasLongitude>20.5935</j.0:hasLongitude>
     <j.0:hasAddress>ул.Амди Леши бр.21</j.0:hasAddress>
@@ -893,6 +992,7 @@
     <j.0:hasLocation>Дебар</j.0:hasLocation>
   </rdf:Description>
   <rdf:Description rdf:about="http://example.org/vet/137">
+    <j.0:hasType>Амбуланта ДМ</j.0:hasType>
     <j.0:hasLatitude>42.0015</j.0:hasLatitude>
     <j.0:hasLongitude>21.4500</j.0:hasLongitude>
     <j.0:hasAddress>ул. Митрополит Теодосије Гологанов  бр. 149-12</j.0:hasAddress>
@@ -902,6 +1002,7 @@
     <j.0:hasLocation>Скопје</j.0:hasLocation>
   </rdf:Description>
   <rdf:Description rdf:about="http://example.org/vet/125">
+    <j.0:hasType>Амбуланта</j.0:hasType>
     <j.0:hasLatitude>41.4810</j.0:hasLatitude>
     <j.0:hasLongitude>22.2575</j.0:hasLongitude>
     <j.0:hasAddress>ул.Маршал Тито бб.</j.0:hasAddress>
@@ -911,6 +1012,7 @@
     <j.0:hasLocation>Демир Хисар</j.0:hasLocation>
   </rdf:Description>
   <rdf:Description rdf:about="http://example.org/vet/149">
+    <j.0:hasType>Амбуланта</j.0:hasType>
     <j.0:hasLatitude>41.1055</j.0:hasLatitude>
     <j.0:hasLongitude>20.8035</j.0:hasLongitude>
     <j.0:hasAddress>Бул. Македонски просветители бб, ТЦ Охриганка 1</j.0:hasAddress>
@@ -920,6 +1022,7 @@
     <j.0:hasLocation>Охрид</j.0:hasLocation>
   </rdf:Description>
   <rdf:Description rdf:about="http://example.org/vet/177">
+    <j.0:hasType>В.С.О</j.0:hasType>
     <j.0:hasLatitude>41.7450</j.0:hasLatitude>
     <j.0:hasLongitude>21.9840</j.0:hasLongitude>
     <j.0:hasAddress>населено место без уличен систем бр. 1 Трница Ростуша, Маврово</j.0:hasAddress>
@@ -929,6 +1032,7 @@
     <j.0:hasLocation>Свети Николе</j.0:hasLocation>
   </rdf:Description>
   <rdf:Description rdf:about="http://example.org/vet/68">
+    <j.0:hasType>Клиника</j.0:hasType>
     <j.0:hasLatitude>41.6125</j.0:hasLatitude>
     <j.0:hasLongitude>20.9155</j.0:hasLongitude>
     <j.0:hasAddress>с.Градец,101бб</j.0:hasAddress>
@@ -938,6 +1042,7 @@
     <j.0:hasLocation>Гостивар</j.0:hasLocation>
   </rdf:Description>
   <rdf:Description rdf:about="http://example.org/vet/165">
+    <j.0:hasType>амбуланта</j.0:hasType>
     <j.0:hasLatitude>41.3130</j.0:hasLatitude>
     <j.0:hasLongitude>21.0935</j.0:hasLongitude>
     <j.0:hasAddress>ул.1 бр.1 с. Новаци</j.0:hasAddress>
@@ -947,6 +1052,7 @@
     <j.0:hasLocation>Новаци</j.0:hasLocation>
   </rdf:Description>
   <rdf:Description rdf:about="http://example.org/vet/113">
+    <j.0:hasType>Клиника</j.0:hasType>
     <j.0:hasLatitude>42.0020</j.0:hasLatitude>
     <j.0:hasLongitude>21.4260</j.0:hasLongitude>
     <j.0:hasAddress>ул.10 бб с. Кадино,општ. Илинден</j.0:hasAddress>
@@ -956,6 +1062,7 @@
     <j.0:hasLocation>Скопје</j.0:hasLocation>
   </rdf:Description>
   <rdf:Description rdf:about="http://example.org/vet/101">
+    <j.0:hasType>Амбуланта</j.0:hasType>
     <j.0:hasLatitude>41.7465</j.0:hasLatitude>
     <j.0:hasLongitude>22.2065</j.0:hasLongitude>
     <j.0:hasAddress>с.Врсаково</j.0:hasAddress>
@@ -965,6 +1072,7 @@
     <j.0:hasLocation>Штип</j.0:hasLocation>
   </rdf:Description>
   <rdf:Description rdf:about="http://example.org/vet/189">
+    <j.0:hasType>амбуланта</j.0:hasType>
     <j.0:hasLatitude>41.6075</j.0:hasLatitude>
     <j.0:hasLongitude>20.8950</j.0:hasLongitude>
     <j.0:hasAddress>Млаки 1 бр.1 Здуње , Гостивар</j.0:hasAddress>
@@ -974,6 +1082,7 @@
     <j.0:hasLocation>Гостивар</j.0:hasLocation>
   </rdf:Description>
   <rdf:Description rdf:about="http://example.org/vet/16">
+    <j.0:hasType>Станица</j.0:hasType>
     <j.0:hasLatitude>42.0060</j.0:hasLatitude>
     <j.0:hasLongitude>22.3545</j.0:hasLongitude>
     <j.0:hasAddress>ул. Св.Јоаким Осоговски бр. 61</j.0:hasAddress>
@@ -983,6 +1092,7 @@
     <j.0:hasLocation>Крива Паланка</j.0:hasLocation>
   </rdf:Description>
   <rdf:Description rdf:about="http://example.org/vet/20">
+    <j.0:hasType>Амбуланта за Д.М. </j.0:hasType>
     <j.0:hasLatitude>41.032341</j.0:hasLatitude>
     <j.0:hasLongitude>21.329502</j.0:hasLongitude>
     <j.0:hasAddress>ул.ЈНА бр.22-14</j.0:hasAddress>
@@ -992,6 +1102,7 @@
     <j.0:hasLocation>Битола</j.0:hasLocation>
   </rdf:Description>
   <rdf:Description rdf:about="http://example.org/vet/32">
+    <j.0:hasType>Станица</j.0:hasType>
     <j.0:hasLatitude>41.4290</j.0:hasLatitude>
     <j.0:hasLongitude>22.6455</j.0:hasLongitude>
     <j.0:hasAddress>ул.Јанко Цветинов бр,50/1-3</j.0:hasAddress>
@@ -1001,6 +1112,7 @@
     <j.0:hasLocation>Струмица</j.0:hasLocation>
   </rdf:Description>
   <rdf:Description rdf:about="http://example.org/vet/44">
+    <j.0:hasType>Амбуланта</j.0:hasType>
     <j.0:hasLatitude>41.1085</j.0:hasLatitude>
     <j.0:hasLongitude>20.8100</j.0:hasLongitude>
     <j.0:hasAddress>ул. Илинденска 42</j.0:hasAddress>
@@ -1010,6 +1122,7 @@
     <j.0:hasLocation>Охрид</j.0:hasLocation>
   </rdf:Description>
   <rdf:Description rdf:about="http://example.org/vet/153">
+    <j.0:hasType>амбуланта</j.0:hasType>
     <j.0:hasLatitude>41.1700</j.0:hasLatitude>
     <j.0:hasLongitude>20.6685</j.0:hasLongitude>
     <j.0:hasAddress>27 март б.б Струга</j.0:hasAddress>
@@ -1019,6 +1132,7 @@
     <j.0:hasLocation>Струга</j.0:hasLocation>
   </rdf:Description>
   <rdf:Description rdf:about="http://example.org/vet/56">
+    <j.0:hasType>Станица</j.0:hasType>
     <j.0:hasLatitude>41.7770</j.0:hasLatitude>
     <j.0:hasLongitude>22.4100</j.0:hasLongitude>
     <j.0:hasAddress>ул. Лазар Андонов бр.1</j.0:hasAddress>
@@ -1028,6 +1142,7 @@
     <j.0:hasLocation>Кочани</j.0:hasLocation>
   </rdf:Description>
   <rdf:Description rdf:about="http://example.org/vet/141">
+    <j.0:hasType>Амбуланта</j.0:hasType>
     <j.0:hasLatitude>41.9955</j.0:hasLatitude>
     <j.0:hasLongitude>22.1756</j.0:hasLongitude>
     <j.0:hasAddress>ул. 8-ми Септември  бр. 39</j.0:hasAddress>
@@ -1037,6 +1152,7 @@
     <j.0:hasLocation>Пробиштип</j.0:hasLocation>
   </rdf:Description>
   <rdf:Description rdf:about="http://example.org/vet/180">
+    <j.0:hasType>Амбуланта</j.0:hasType>
     <j.0:hasLatitude>42.0085</j.0:hasLatitude>
     <j.0:hasLongitude>22.3505</j.0:hasLongitude>
     <j.0:hasAddress>ул.населено место без уличен систем Ранковце</j.0:hasAddress>
@@ -1046,6 +1162,7 @@
     <j.0:hasLocation>Крива Паланка</j.0:hasLocation>
   </rdf:Description>
   <rdf:Description rdf:about="http://example.org/vet/28">
+    <j.0:hasType>Амбуланта</j.0:hasType>
     <j.0:hasLatitude>41.9866</j.0:hasLatitude>
     <j.0:hasLongitude>21.4211</j.0:hasLongitude>
     <j.0:hasAddress>Лука Ѓеров 40/2-3</j.0:hasAddress>
@@ -1055,6 +1172,7 @@
     <j.0:hasLocation>Скопје</j.0:hasLocation>
   </rdf:Description>
   <rdf:Description rdf:about="http://example.org/vet/5">
+    <j.0:hasType>Станица</j.0:hasType>
     <j.0:hasLatitude>41.4845</j.0:hasLatitude>
     <j.0:hasLongitude>22.0891</j.0:hasLongitude>
     <j.0:hasAddress>ул. Маршал Тито бр. 12</j.0:hasAddress>
@@ -1064,6 +1182,7 @@
     <j.0:hasLocation>Неготино</j.0:hasLocation>
   </rdf:Description>
   <rdf:Description rdf:about="http://example.org/vet/61">
+    <j.0:hasType>Амбуланта</j.0:hasType>
     <j.0:hasLatitude>41.035852</j.0:hasLatitude>
     <j.0:hasLongitude>21.343123</j.0:hasLongitude>
     <j.0:hasAddress>м.в. Врчва с. Крклино</j.0:hasAddress>
@@ -1073,6 +1192,7 @@
     <j.0:hasLocation>Битола</j.0:hasLocation>
   </rdf:Description>
   <rdf:Description rdf:about="http://example.org/vet/73">
+    <j.0:hasType>Амбуланта</j.0:hasType>
     <j.0:hasLatitude>41.035211</j.0:hasLatitude>
     <j.0:hasLongitude>21.345052</j.0:hasLongitude>
     <j.0:hasAddress>ул.1 ви Мај бр.243</j.0:hasAddress>
@@ -1082,6 +1202,7 @@
     <j.0:hasLocation>Битола</j.0:hasLocation>
   </rdf:Description>
   <rdf:Description rdf:about="http://example.org/vet/85">
+    <j.0:hasType>Амбуланта</j.0:hasType>
     <j.0:hasLatitude>41.9980</j.0:hasLatitude>
     <j.0:hasLongitude>21.4195</j.0:hasLongitude>
     <j.0:hasAddress>ул.Париска Комуна 14-2/16</j.0:hasAddress>
@@ -1091,6 +1212,7 @@
     <j.0:hasLocation>Скопје</j.0:hasLocation>
   </rdf:Description>
   <rdf:Description rdf:about="http://example.org/vet/126">
+    <j.0:hasType>Амбуланта</j.0:hasType>
     <j.0:hasLatitude>41.9935</j.0:hasLatitude>
     <j.0:hasLongitude>21.5780</j.0:hasLongitude>
     <j.0:hasAddress>ул.Маршал Тито бр.43 с. Петровец</j.0:hasAddress>
@@ -1100,6 +1222,7 @@
     <j.0:hasLocation>Скопје</j.0:hasLocation>
   </rdf:Description>
   <rdf:Description rdf:about="http://example.org/vet/114">
+    <j.0:hasType>В.С.О</j.0:hasType>
     <j.0:hasLatitude>41.4280</j.0:hasLatitude>
     <j.0:hasLongitude>41.4280</j.0:hasLongitude>
     <j.0:hasAddress>с.Сушица бр.105 општ.Ново Село</j.0:hasAddress>
@@ -1109,6 +1232,7 @@
     <j.0:hasLocation>Струмица</j.0:hasLocation>
   </rdf:Description>
   <rdf:Description rdf:about="http://example.org/vet/138">
+    <j.0:hasType>В.С.О</j.0:hasType>
     <j.0:hasLatitude>41.6260</j.0:hasLatitude>
     <j.0:hasLongitude>21.5250</j.0:hasLongitude>
     <j.0:hasAddress>Автопат бр.4, Градско</j.0:hasAddress>
@@ -1118,6 +1242,7 @@
     <j.0:hasLocation>Градско</j.0:hasLocation>
   </rdf:Description>
   <rdf:Description rdf:about="http://example.org/vet/57">
+    <j.0:hasType>Амбуланта</j.0:hasType>
     <j.0:hasLatitude>41.9930</j.0:hasLatitude>
     <j.0:hasLongitude>21.4220</j.0:hasLongitude>
     <j.0:hasAddress>ул.Шумадиска бр.6 лок.2 оп.Центар</j.0:hasAddress>
@@ -1127,6 +1252,7 @@
     <j.0:hasLocation>Скопје</j.0:hasLocation>
   </rdf:Description>
   <rdf:Description rdf:about="http://example.org/vet/166">
+    <j.0:hasType>амбуланта</j.0:hasType>
     <j.0:hasLatitude>41.03051</j.0:hasLatitude>
     <j.0:hasLongitude>21.32995</j.0:hasLongitude>
     <j.0:hasAddress>бул.Социјалистичка револуција бб Битола</j.0:hasAddress>
@@ -1136,6 +1262,7 @@
     <j.0:hasLocation>Битола</j.0:hasLocation>
   </rdf:Description>
   <rdf:Description rdf:about="http://example.org/vet/154">
+    <j.0:hasType>Амбуланта</j.0:hasType>
     <j.0:hasLatitude>41.4485</j.0:hasLatitude>
     <j.0:hasLongitude>22.6410</j.0:hasLongitude>
     <j.0:hasAddress>ул. Младинска бр.12 Струмица</j.0:hasAddress>
@@ -1145,6 +1272,7 @@
     <j.0:hasLocation>Струмица</j.0:hasLocation>
   </rdf:Description>
   <rdf:Description rdf:about="http://example.org/vet/69">
+    <j.0:hasType>Клиника</j.0:hasType>
     <j.0:hasLatitude>41.4308</j.0:hasLatitude>
     <j.0:hasLongitude>22.6201</j.0:hasLongitude>
     <j.0:hasAddress>с.Дабиље број358</j.0:hasAddress>
@@ -1154,6 +1282,7 @@
     <j.0:hasLocation>Струмица</j.0:hasLocation>
   </rdf:Description>
   <rdf:Description rdf:about="http://example.org/vet/102">
+    <j.0:hasType>Клиника</j.0:hasType>
     <j.0:hasLatitude>41.4308</j.0:hasLatitude>
     <j.0:hasLongitude>22.6201</j.0:hasLongitude>
     <j.0:hasAddress>ул.Јанко цветинов бр.50/1-3</j.0:hasAddress>
@@ -1163,6 +1292,7 @@
     <j.0:hasLocation>Струмица</j.0:hasLocation>
   </rdf:Description>
   <rdf:Description rdf:about="http://example.org/vet/178">
+    <j.0:hasType>Амбуланта</j.0:hasType>
     <j.0:hasLatitude>41.1140</j.0:hasLatitude>
     <j.0:hasLongitude>20.7890</j.0:hasLongitude>
     <j.0:hasAddress>ул. Славеј Планина бр. 12  Охрид</j.0:hasAddress>
@@ -1172,6 +1302,7 @@
     <j.0:hasLocation>Охрид</j.0:hasLocation>
   </rdf:Description>
   <rdf:Description rdf:about="http://example.org/vet/97">
+    <j.0:hasType>Амбуланта</j.0:hasType>
     <j.0:hasLatitude>42.1320</j.0:hasLatitude>
     <j.0:hasLongitude>21.7250</j.0:hasLongitude>
     <j.0:hasAddress>с.Табановце</j.0:hasAddress>
@@ -1181,6 +1312,7 @@
     <j.0:hasLocation>Куманово</j.0:hasLocation>
   </rdf:Description>
   <rdf:Description rdf:about="http://example.org/vet/21">
+    <j.0:hasType>Амбуланта</j.0:hasType>
     <j.0:hasLatitude>41.1110</j.0:hasLatitude>
     <j.0:hasLongitude>20.8020</j.0:hasLongitude>
     <j.0:hasAddress>ул. Илинденска 42</j.0:hasAddress>
@@ -1190,6 +1322,7 @@
     <j.0:hasLocation>Охрид</j.0:hasLocation>
   </rdf:Description>
   <rdf:Description rdf:about="http://example.org/vet/33">
+    <j.0:hasType>Амбуланта</j.0:hasType>
     <j.0:hasLatitude>41.5050</j.0:hasLatitude>
     <j.0:hasLongitude>20.9835</j.0:hasLongitude>
     <j.0:hasAddress>ул. Буковиќ бр. 17</j.0:hasAddress>
@@ -1199,6 +1332,7 @@
     <j.0:hasLocation>Кичево</j.0:hasLocation>
   </rdf:Description>
   <rdf:Description rdf:about="http://example.org/vet/142">
+    <j.0:hasType>Амбуланта</j.0:hasType>
     <j.0:hasLatitude>42.0030</j.0:hasLatitude>
     <j.0:hasLongitude>20.9700</j.0:hasLongitude>
     <j.0:hasAddress>с.Желино</j.0:hasAddress>
@@ -1208,6 +1342,7 @@
     <j.0:hasLocation>Тетово</j.0:hasLocation>
   </rdf:Description>
   <rdf:Description rdf:about="http://example.org/vet/130">
+    <j.0:hasType>Амбуланта</j.0:hasType>
     <j.0:hasLatitude>41.4325</j.0:hasLatitude>
     <j.0:hasLongitude>22.6555</j.0:hasLongitude>
     <j.0:hasAddress>ул.Ката Поцкова бр.76</j.0:hasAddress>
@@ -1217,6 +1352,7 @@
     <j.0:hasLocation>Струмица</j.0:hasLocation>
   </rdf:Description>
   <rdf:Description rdf:about="http://example.org/vet/45">
+    <j.0:hasType>Станица</j.0:hasType>
     <j.0:hasLatitude>41.7440</j.0:hasLatitude>
     <j.0:hasLongitude>22.2035</j.0:hasLongitude>
     <j.0:hasAddress>с. Крупиште</j.0:hasAddress>
@@ -1226,6 +1362,7 @@
     <j.0:hasLocation>Штип</j.0:hasLocation>
   </rdf:Description>
   <rdf:Description rdf:about="http://example.org/vet/181">
+    <j.0:hasType>Амбуланта</j.0:hasType>
     <j.0:hasLatitude>41.9942</j.0:hasLatitude>
     <j.0:hasLongitude>21.4273</j.0:hasLongitude>
     <j.0:hasAddress>ул. Никола Тримпаре</j.0:hasAddress>
@@ -1235,6 +1372,7 @@
     <j.0:hasLocation>Скопје</j.0:hasLocation>
   </rdf:Description>
   <rdf:Description rdf:about="http://example.org/vet/17">
+    <j.0:hasType>Станица</j.0:hasType>
     <j.0:hasLatitude>41.2081</j.0:hasLatitude>
     <j.0:hasLongitude>20.5910</j.0:hasLongitude>
     <j.0:hasAddress>ул. Алија Зенговски 2</j.0:hasAddress>
@@ -1244,6 +1382,7 @@
     <j.0:hasLocation>Дебар</j.0:hasLocation>
   </rdf:Description>
   <rdf:Description rdf:about="http://example.org/vet/29">
+    <j.0:hasType>Амбуланта</j.0:hasType>
     <j.0:hasLatitude>41.3460</j.0:hasLatitude>
     <j.0:hasLongitude>21.5590</j.0:hasLongitude>
     <j.0:hasAddress>с. Ропотово</j.0:hasAddress>
@@ -1253,6 +1392,7 @@
     <j.0:hasLocation>Прилеп</j.0:hasLocation>
   </rdf:Description>
   <rdf:Description rdf:about="http://example.org/vet/4">
+    <j.0:hasType>Станица</j.0:hasType>
     <j.0:hasLatitude>41.7154</j.0:hasLatitude>
     <j.0:hasLongitude>21.7750</j.0:hasLongitude>
     <j.0:hasAddress>ул. Раштански пат бб</j.0:hasAddress>
@@ -1262,6 +1402,7 @@
     <j.0:hasLocation>Велес</j.0:hasLocation>
   </rdf:Description>
   <rdf:Description rdf:about="http://example.org/vet/119">
+    <j.0:hasType>Амбуланта</j.0:hasType>
     <j.0:hasLatitude>42.1280</j.0:hasLatitude>
     <j.0:hasLongitude>21.7005</j.0:hasLongitude>
     <j.0:hasAddress>с.Табановце</j.0:hasAddress>
@@ -1271,6 +1412,7 @@
     <j.0:hasLocation>Куманово</j.0:hasLocation>
   </rdf:Description>
   <rdf:Description rdf:about="http://example.org/vet/107">
+    <j.0:hasType>Амбуланта</j.0:hasType>
     <j.0:hasLatitude>41.025942</j.0:hasLatitude>
     <j.0:hasLongitude>21.323559</j.0:hasLongitude>
     <j.0:hasAddress>Ул.А бр.30 с.Бистрица</j.0:hasAddress>
@@ -1280,6 +1422,7 @@
     <j.0:hasLocation>Битола</j.0:hasLocation>
   </rdf:Description>
   <rdf:Description rdf:about="http://example.org/vet/50">
+    <j.0:hasType>Станица</j.0:hasType>
     <j.0:hasLatitude>41.9955</j.0:hasLatitude>
     <j.0:hasLongitude>21.4380</j.0:hasLongitude>
     <j.0:hasAddress>ул. Лазар Поп Трајков 6-7</j.0:hasAddress>
@@ -1289,6 +1432,7 @@
     <j.0:hasLocation>Скопје</j.0:hasLocation>
   </rdf:Description>
   <rdf:Description rdf:about="http://example.org/vet/62">
+    <j.0:hasType>Амбуланта за Д.М. </j.0:hasType>
     <j.0:hasLatitude>41.9960</j.0:hasLatitude>
     <j.0:hasLongitude>21.4340</j.0:hasLongitude>
     <j.0:hasAddress>ул.Дамаска 8Б</j.0:hasAddress>
@@ -1298,6 +1442,7 @@
     <j.0:hasLocation>Скопје</j.0:hasLocation>
   </rdf:Description>
   <rdf:Description rdf:about="http://example.org/vet/74">
+    <j.0:hasType>Амбуланта</j.0:hasType>
     <j.0:hasLatitude>42.0100</j.0:hasLatitude>
     <j.0:hasLongitude>21.4295</j.0:hasLongitude>
     <j.0:hasAddress>ул.Сава Ковачевиќ бр.29</j.0:hasAddress>
@@ -1307,6 +1452,7 @@
     <j.0:hasLocation>Скопје</j.0:hasLocation>
   </rdf:Description>
   <rdf:Description rdf:about="http://example.org/vet/159">
+    <j.0:hasType>амбуланта</j.0:hasType>
     <j.0:hasLatitude>42.0060</j.0:hasLatitude>
     <j.0:hasLongitude>20.9788</j.0:hasLongitude>
     <j.0:hasAddress>ул.101 бр.1</j.0:hasAddress>
@@ -1316,6 +1462,7 @@
     <j.0:hasLocation>Тетово</j.0:hasLocation>
   </rdf:Description>
   <rdf:Description rdf:about="http://example.org/vet/147">
+    <j.0:hasType>Амбуланта</j.0:hasType>
     <j.0:hasLatitude>41.036331</j.0:hasLatitude>
     <j.0:hasLongitude>21.329565</j.0:hasLongitude>
     <j.0:hasAddress>ул. Индустриска бб.</j.0:hasAddress>
@@ -1325,6 +1472,7 @@
     <j.0:hasLocation>Битола</j.0:hasLocation>
   </rdf:Description>
   <rdf:Description rdf:about="http://example.org/vet/90">
+    <j.0:hasType>Амбуланта</j.0:hasType>
     <j.0:hasLatitude>41.7565</j.0:hasLatitude>
     <j.0:hasLongitude>21.9885</j.0:hasLongitude>
     <j.0:hasAddress>ул.Моша Пијаде бр.5</j.0:hasAddress>
@@ -1334,6 +1482,7 @@
     <j.0:hasLocation>Свети Николе</j.0:hasLocation>
   </rdf:Description>
   <rdf:Description rdf:about="http://example.org/vet/46">
+    <j.0:hasType>Амбуланта</j.0:hasType>
     <j.0:hasLatitude>41.1720</j.0:hasLatitude>
     <j.0:hasLongitude>20.6835</j.0:hasLongitude>
     <j.0:hasAddress>с.Франгово</j.0:hasAddress>
@@ -1343,6 +1492,7 @@
     <j.0:hasLocation>Струга</j.0:hasLocation>
   </rdf:Description>
   <rdf:Description rdf:about="http://example.org/vet/111">
+    <j.0:hasType>Амбуланта</j.0:hasType>
     <j.0:hasLatitude>42.0060</j.0:hasLatitude>
     <j.0:hasLongitude>21.4185</j.0:hasLongitude>
     <j.0:hasAddress>бул.Јане Сандански бр.12-1/13</j.0:hasAddress>
@@ -1352,6 +1502,7 @@
     <j.0:hasLocation>Скопје</j.0:hasLocation>
   </rdf:Description>
   <rdf:Description rdf:about="http://example.org/vet/58">
+    <j.0:hasType>Амбуланта</j.0:hasType>
     <j.0:hasLatitude>42.0010</j.0:hasLatitude>
     <j.0:hasLongitude>21.4300</j.0:hasLongitude>
     <j.0:hasAddress>ул. Пекљане 1/28</j.0:hasAddress>
@@ -1361,6 +1512,7 @@
     <j.0:hasLocation>Скопје</j.0:hasLocation>
   </rdf:Description>
   <rdf:Description rdf:about="http://example.org/vet/187">
+    <j.0:hasType>амбуланта</j.0:hasType>
     <j.0:hasLatitude>41.032399</j.0:hasLatitude>
     <j.0:hasLongitude>21.329502</j.0:hasLongitude>
     <j.0:hasAddress>ул. Нико Фундали бр. 13/23 Битола</j.0:hasAddress>
@@ -1370,6 +1522,7 @@
     <j.0:hasLocation>Битола</j.0:hasLocation>
   </rdf:Description>
   <rdf:Description rdf:about="http://example.org/vet/135">
+    <j.0:hasType>В.С.О</j.0:hasType>
     <j.0:hasLatitude>41.1430</j.0:hasLatitude>
     <j.0:hasLongitude>22.4975</j.0:hasLongitude>
     <j.0:hasAddress>ул. 7ми Ноември бр.75,</j.0:hasAddress>
@@ -1379,6 +1532,7 @@
     <j.0:hasLocation>Гевгелија</j.0:hasLocation>
   </rdf:Description>
   <rdf:Description rdf:about="http://example.org/vet/123">
+    <j.0:hasType>Амбуланта</j.0:hasType>
     <j.0:hasLatitude>41.4442</j.0:hasLatitude>
     <j.0:hasLongitude>22.6323</j.0:hasLongitude>
     <j.0:hasAddress>ул.Ленинова бр.2 Н.Село</j.0:hasAddress>
@@ -1388,6 +1542,7 @@
     <j.0:hasLocation>Струмица</j.0:hasLocation>
   </rdf:Description>
   <rdf:Description rdf:about="http://example.org/vet/151">
+    <j.0:hasType>Амбуланта</j.0:hasType>
     <j.0:hasLatitude>41.6510</j.0:hasLatitude>
     <j.0:hasLongitude>22.8650</j.0:hasLongitude>
     <j.0:hasAddress>ул.Борис Кидрич бр.14/а</j.0:hasAddress>
@@ -1397,6 +1552,7 @@
     <j.0:hasLocation>Берово</j.0:hasLocation>
   </rdf:Description>
   <rdf:Description rdf:about="http://example.org/vet/86">
+    <j.0:hasType>В.С.О</j.0:hasType>
     <j.0:hasLatitude>41.3785</j.0:hasLatitude>
     <j.0:hasLongitude>22.4505</j.0:hasLongitude>
     <j.0:hasAddress>ул.Првомајска бр.29</j.0:hasAddress>
@@ -1406,6 +1562,7 @@
     <j.0:hasLocation>Валандово</j.0:hasLocation>
   </rdf:Description>
   <rdf:Description rdf:about="http://example.org/vet/10">
+    <j.0:hasType>Станица</j.0:hasType>
     <j.0:hasLatitude>41.7523</j.0:hasLatitude>
     <j.0:hasLongitude>22.6760</j.0:hasLongitude>
     <j.0:hasAddress>ул. Маршал Тито бр. 3</j.0:hasAddress>
@@ -1415,6 +1572,7 @@
     <j.0:hasLocation>Делчево</j.0:hasLocation>
   </rdf:Description>
   <rdf:Description rdf:about="http://example.org/vet/98">
+    <j.0:hasType>Амбуланта</j.0:hasType>
     <j.0:hasLatitude>41.3750</j.0:hasLatitude>
     <j.0:hasLongitude>22.4465</j.0:hasLongitude>
     <j.0:hasAddress>ул.29 Ноември бр.2</j.0:hasAddress>
@@ -1424,6 +1582,7 @@
     <j.0:hasLocation>Валандово</j.0:hasLocation>
   </rdf:Description>
   <rdf:Description rdf:about="http://example.org/vet/22">
+    <j.0:hasType>Станица</j.0:hasType>
     <j.0:hasLatitude>42.1380</j.0:hasLatitude>
     <j.0:hasLongitude>21.7135</j.0:hasLongitude>
     <j.0:hasAddress>ул. Доне Божинов бб</j.0:hasAddress>
@@ -1433,6 +1592,7 @@
     <j.0:hasLocation>Куманово</j.0:hasLocation>
   </rdf:Description>
   <rdf:Description rdf:about="http://example.org/vet/175">
+    <j.0:hasType>Амбуланта</j.0:hasType>
     <j.0:hasLatitude>41.3430</j.0:hasLatitude>
     <j.0:hasLongitude>21.5645</j.0:hasLongitude>
     <j.0:hasAddress>ул.Орде Тодороски-Шемко бр.47 Прилеп</j.0:hasAddress>
@@ -1442,6 +1602,7 @@
     <j.0:hasLocation>Прилеп</j.0:hasLocation>
   </rdf:Description>
   <rdf:Description rdf:about="http://example.org/vet/34">
+    <j.0:hasType>Амбуланта </j.0:hasType>
     <j.0:hasLatitude>41.7405</j.0:hasLatitude>
     <j.0:hasLongitude>22.5165</j.0:hasLongitude>
     <j.0:hasAddress>с. Драгобраште</j.0:hasAddress>
@@ -1451,6 +1612,7 @@
     <j.0:hasLocation>Виница</j.0:hasLocation>
   </rdf:Description>
   <rdf:Description rdf:about="http://example.org/vet/163">
+    <j.0:hasType>амбуланта</j.0:hasType>
     <j.0:hasLatitude>42.0019</j.0:hasLatitude>
     <j.0:hasLongitude>20.9718</j.0:hasLongitude>
     <j.0:hasAddress>ул. 101 бр. 50 Шемшево, Јегуновце</j.0:hasAddress>
@@ -1460,6 +1622,7 @@
     <j.0:hasLocation>Тетово</j.0:hasLocation>
   </rdf:Description>
   <rdf:Description rdf:about="http://example.org/vet/190">
+    <j.0:hasType>амбуланта </j.0:hasType>
     <j.0:hasLatitude>41.4350</j.0:hasLatitude>
     <j.0:hasLongitude>22.6305</j.0:hasLongitude>
     <j.0:hasAddress>ул. Мито Хаџи Василев Јасмин бр.115 Струмица</j.0:hasAddress>
@@ -1469,6 +1632,7 @@
     <j.0:hasLocation>Струмица</j.0:hasLocation>
   </rdf:Description>
   <rdf:Description rdf:about="http://example.org/vet/7">
+    <j.0:hasType>Станица</j.0:hasType>
     <j.0:hasLatitude>42.0798</j.0:hasLatitude>
     <j.0:hasLongitude>22.1781</j.0:hasLongitude>
     <j.0:hasAddress>ул.Кривопаланечки пат бб</j.0:hasAddress>
@@ -1478,6 +1642,7 @@
     <j.0:hasLocation>Кратово</j.0:hasLocation>
   </rdf:Description>
   <rdf:Description rdf:about="http://example.org/vet/18">
+    <j.0:hasType>Амбуланта</j.0:hasType>
     <j.0:hasLatitude>41.9968</j.0:hasLatitude>
     <j.0:hasLongitude>21.4333</j.0:hasLongitude>
     <j.0:hasAddress>ул. Север-Југ 2/47</j.0:hasAddress>
@@ -1487,6 +1652,7 @@
     <j.0:hasLocation>Битола</j.0:hasLocation>
   </rdf:Description>
   <rdf:Description rdf:about="http://example.org/vet/108">
+    <j.0:hasType>Амбуланта</j.0:hasType>
     <j.0:hasLatitude>42.0085</j.0:hasLatitude>
     <j.0:hasLongitude>21.4345</j.0:hasLongitude>
     <j.0:hasAddress>ул.Китка бр.65</j.0:hasAddress>
@@ -1496,6 +1662,7 @@
     <j.0:hasLocation>Скопје</j.0:hasLocation>
   </rdf:Description>
   <rdf:Description rdf:about="http://example.org/vet/51">
+    <j.0:hasType>Станица</j.0:hasType>
     <j.0:hasLatitude>41.9955</j.0:hasLatitude>
     <j.0:hasLongitude>21.4145</j.0:hasLongitude>
     <j.0:hasAddress>ул. Лазар Поп Трајков 6-7</j.0:hasAddress>
@@ -1505,6 +1672,7 @@
     <j.0:hasLocation>Скопје</j.0:hasLocation>
   </rdf:Description>
   <rdf:Description rdf:about="http://example.org/vet/63">
+    <j.0:hasType>Амбуланта</j.0:hasType>
     <j.0:hasLatitude>41.4830</j.0:hasLatitude>
     <j.0:hasLongitude>22.2590</j.0:hasLongitude>
     <j.0:hasAddress>ул. Јане Сандански бб. Демир К.</j.0:hasAddress>
@@ -1514,6 +1682,7 @@
     <j.0:hasLocation>Демир Капија</j.0:hasLocation>
   </rdf:Description>
   <rdf:Description rdf:about="http://example.org/vet/148">
+    <j.0:hasType>Амбуланта</j.0:hasType>
     <j.0:hasLatitude>41.4378</j.0:hasLatitude>
     <j.0:hasLongitude>22.6426</j.0:hasLongitude>
     <j.0:hasAddress>ул.Крушевска Република бр.203</j.0:hasAddress>
@@ -1523,6 +1692,7 @@
     <j.0:hasLocation>Струмица</j.0:hasLocation>
   </rdf:Description>
   <rdf:Description rdf:about="http://example.org/vet/136">
+    <j.0:hasType>Амбуланта</j.0:hasType>
     <j.0:hasLatitude>41.6050</j.0:hasLatitude>
     <j.0:hasLongitude>20.9030</j.0:hasLongitude>
     <j.0:hasAddress>ул. 18 Ноември бр. 27</j.0:hasAddress>
@@ -1532,6 +1702,7 @@
     <j.0:hasLocation>Гостивар</j.0:hasLocation>
   </rdf:Description>
   <rdf:Description rdf:about="http://example.org/vet/91">
+    <j.0:hasType>Амбуланта</j.0:hasType>
     <j.0:hasLatitude>42.0045</j.0:hasLatitude>
     <j.0:hasLongitude>21.4315</j.0:hasLongitude>
     <j.0:hasAddress>бул.Јане сандански бр.61</j.0:hasAddress>
@@ -1541,6 +1712,7 @@
     <j.0:hasLocation>Скопје</j.0:hasLocation>
   </rdf:Description>
   <rdf:Description rdf:about="http://example.org/vet/35">
+    <j.0:hasType>Станица</j.0:hasType>
     <j.0:hasLatitude>41.4475</j.0:hasLatitude>
     <j.0:hasLongitude>22.2205</j.0:hasLongitude>
     <j.0:hasAddress>ул. Долна Рудина бб</j.0:hasAddress>
@@ -1550,6 +1722,7 @@
     <j.0:hasLocation>Радовиш</j.0:hasLocation>
   </rdf:Description>
   <rdf:Description rdf:about="http://example.org/vet/188">
+    <j.0:hasType>амбуланта</j.0:hasType>
     <j.0:hasLatitude>41.9965</j.0:hasLatitude>
     <j.0:hasLongitude>21.4320</j.0:hasLongitude>
     <j.0:hasAddress>Бул. Видое Смилевски Бато бр.33/1 - 5А Скопје Аеродром</j.0:hasAddress>
@@ -1559,6 +1732,7 @@
     <j.0:hasLocation>Скопје</j.0:hasLocation>
   </rdf:Description>
   <rdf:Description rdf:about="http://example.org/vet/100">
+    <j.0:hasType>Амбуланта</j.0:hasType>
     <j.0:hasLatitude>41.4465</j.0:hasLatitude>
     <j.0:hasLongitude>22.2215</j.0:hasLongitude>
     <j.0:hasAddress>с.Подареш</j.0:hasAddress>
@@ -1568,6 +1742,7 @@
     <j.0:hasLocation>Радовиш</j.0:hasLocation>
   </rdf:Description>
   <rdf:Description rdf:about="http://example.org/vet/47">
+    <j.0:hasType>Станица</j.0:hasType>
     <j.0:hasLatitude>41.2500</j.0:hasLatitude>
     <j.0:hasLongitude>21.1985</j.0:hasLongitude>
     <j.0:hasAddress>ул.Мише Ефтим бр.17</j.0:hasAddress>
@@ -1577,6 +1752,7 @@
     <j.0:hasLocation>Крушево</j.0:hasLocation>
   </rdf:Description>
   <rdf:Description rdf:about="http://example.org/vet/176">
+    <j.0:hasType>Амбуланта</j.0:hasType>
     <j.0:hasLatitude>41.032330</j.0:hasLatitude>
     <j.0:hasLongitude>21.329590</j.0:hasLongitude>
     <j.0:hasAddress>ул. ПРЕВАЛЕЦ бр.18 Битола</j.0:hasAddress>
@@ -1586,6 +1762,7 @@
     <j.0:hasLocation>Битола</j.0:hasLocation>
   </rdf:Description>
   <rdf:Description rdf:about="http://example.org/vet/59">
+    <j.0:hasType>Амбуланта</j.0:hasType>
     <j.0:hasLatitude>42.0054</j.0:hasLatitude>
     <j.0:hasLongitude>20.9731</j.0:hasLongitude>
     <j.0:hasAddress>с.Жилче опш Јегуновце</j.0:hasAddress>
@@ -1595,6 +1772,7 @@
     <j.0:hasLocation>Тетово</j.0:hasLocation>
   </rdf:Description>
   <rdf:Description rdf:about="http://example.org/vet/124">
+    <j.0:hasType>Амбуланта</j.0:hasType>
     <j.0:hasLatitude>42.0029</j.0:hasLatitude>
     <j.0:hasLongitude>20.9758</j.0:hasLongitude>
     <j.0:hasAddress>с. Боговиње</j.0:hasAddress>
@@ -1604,6 +1782,7 @@
     <j.0:hasLocation>Тетово</j.0:hasLocation>
   </rdf:Description>
   <rdf:Description rdf:about="http://example.org/vet/112">
+    <j.0:hasType>Амбуланта</j.0:hasType>
     <j.0:hasLatitude>41.4855</j.0:hasLatitude>
     <j.0:hasLongitude>22.2615</j.0:hasLongitude>
     <j.0:hasAddress>ул.Битолска бр. 7Ж</j.0:hasAddress>
@@ -1613,6 +1792,7 @@
     <j.0:hasLocation>Демир Хисар</j.0:hasLocation>
   </rdf:Description>
   <rdf:Description rdf:about="http://example.org/vet/75">
+    <j.0:hasType>В.С.О</j.0:hasType>
     <j.0:hasLatitude>41.9900</j.0:hasLatitude>
     <j.0:hasLongitude>21.4240</j.0:hasLongitude>
     <j.0:hasAddress>бул.Илинден бр.88</j.0:hasAddress>
@@ -1622,6 +1802,7 @@
     <j.0:hasLocation>Скопје</j.0:hasLocation>
   </rdf:Description>
   <rdf:Description rdf:about="http://example.org/vet/140">
+    <j.0:hasType>Амбуланта</j.0:hasType>
     <j.0:hasLatitude>41.7805</j.0:hasLatitude>
     <j.0:hasLongitude>22.4125</j.0:hasLongitude>
     <j.0:hasAddress>ул. 1-ви Мај  бр. 4 , Спанчево, Чешиново-Облешево</j.0:hasAddress>
@@ -1631,6 +1812,7 @@
     <j.0:hasLocation>Кочани</j.0:hasLocation>
   </rdf:Description>
   <rdf:Description rdf:about="http://example.org/vet/87">
+    <j.0:hasType>Амбуланта</j.0:hasType>
     <j.0:hasLatitude>41.9978</j.0:hasLatitude>
     <j.0:hasLongitude>41.9978</j.0:hasLongitude>
     <j.0:hasAddress>ул.Драчевска бр.120</j.0:hasAddress>
@@ -1640,6 +1822,7 @@
     <j.0:hasLocation>Скопје</j.0:hasLocation>
   </rdf:Description>
   <rdf:Description rdf:about="http://example.org/vet/164">
+    <j.0:hasType>амбуланта</j.0:hasType>
     <j.0:hasLatitude>41.1095</j.0:hasLatitude>
     <j.0:hasLongitude>20.8140</j.0:hasLongitude>
     <j.0:hasAddress>с. Требеништа Дебарца</j.0:hasAddress>
@@ -1649,6 +1832,7 @@
     <j.0:hasLocation>Охрид/Дебарца</j.0:hasLocation>
   </rdf:Description>
   <rdf:Description rdf:about="http://example.org/vet/99">
+    <j.0:hasType>В.С.О</j.0:hasType>
     <j.0:hasLatitude>41.7450</j.0:hasLatitude>
     <j.0:hasLongitude>22.2040</j.0:hasLongitude>
     <j.0:hasAddress>с.Таринци</j.0:hasAddress>
@@ -1658,6 +1842,7 @@
     <j.0:hasLocation>Штип</j.0:hasLocation>
   </rdf:Description>
   <rdf:Description rdf:about="http://example.org/vet/11">
+    <j.0:hasType>Станица</j.0:hasType>
     <j.0:hasLatitude>42.0069</j.0:hasLatitude>
     <j.0:hasLongitude>20.9728</j.0:hasLongitude>
     <j.0:hasAddress>ул. 29 Ноември бб</j.0:hasAddress>
@@ -1667,6 +1852,7 @@
     <j.0:hasLocation>Тетово</j.0:hasLocation>
   </rdf:Description>
   <rdf:Description rdf:about="http://example.org/vet/23">
+    <j.0:hasType>Амбуланта</j.0:hasType>
     <j.0:hasLatitude>41.3440</j.0:hasLatitude>
     <j.0:hasLongitude>21.5500</j.0:hasLongitude>
     <j.0:hasAddress>ул.Ладо Лапецот</j.0:hasAddress>
@@ -1676,6 +1862,7 @@
     <j.0:hasLocation>Прилеп</j.0:hasLocation>
   </rdf:Description>
   <rdf:Description rdf:about="http://example.org/vet/152">
+    <j.0:hasType>В.С.О</j.0:hasType>
     <j.0:hasLatitude>41.9945</j.0:hasLatitude>
     <j.0:hasLongitude>21.4755</j.0:hasLongitude>
     <j.0:hasAddress>ул. 9 бр. 47 н. Илинден</j.0:hasAddress>
@@ -1685,6 +1872,7 @@
     <j.0:hasLocation>Скопје</j.0:hasLocation>
   </rdf:Description>
   <rdf:Description rdf:about="http://example.org/vet/191">
+    <j.0:hasType>амб.дом. мил.</j.0:hasType>
     <j.0:hasLatitude>41.5030</j.0:hasLatitude>
     <j.0:hasLongitude>20.9810</j.0:hasLongitude>
     <j.0:hasAddress>ул. Битолска бр.7 Ж Демир Хисар</j.0:hasAddress>
@@ -1694,6 +1882,7 @@
     <j.0:hasLocation>Кичево</j.0:hasLocation>
   </rdf:Description>
   <rdf:Description rdf:about="http://example.org/vet/6">
+    <j.0:hasType>Станица</j.0:hasType>
     <j.0:hasLatitude>41.9965</j.0:hasLatitude>
     <j.0:hasLongitude>22.1839</j.0:hasLongitude>
     <j.0:hasAddress>ул. Миро Барага бб</j.0:hasAddress>
@@ -1703,6 +1892,7 @@
     <j.0:hasLocation>Пробиштип</j.0:hasLocation>
   </rdf:Description>
   <rdf:Description rdf:about="http://example.org/vet/19">
+    <j.0:hasType>Амбуланта</j.0:hasType>
     <j.0:hasLatitude>41.9973</j.0:hasLatitude>
     <j.0:hasLongitude>21.4280</j.0:hasLongitude>
     <j.0:hasAddress>ул. Ѓорги Абаџиев 12</j.0:hasAddress>

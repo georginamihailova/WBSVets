@@ -6,12 +6,11 @@ import java.util.List;
 public class Main {
     public static void main(String[] args) {
 //         Path to your CSV file and RDF output file
-        String csvFilePath = "C:\\Users\\ninam\\Downloads\\wbs_project\\wbs_project\\WBS_Vets\\veterinary_ambulances.csv";
-        String outputFilePath = "C:\\Users\\ninam\\OneDrive\\Desktop\\WBS_Schools\\veterinary_ambulances_output.rdf";
+//        String csvFilePath = "C:\\Users\\ninam\\Downloads\\wbs_project\\wbs_project\\WBS_Vets\\veterinary_ambulances.csv";
+//        String outputFilePath = "C:\\Users\\ninam\\OneDrive\\Desktop\\WBS_Schools\\veterinary_ambulances_output.rdf";
 
-
-//            String csvFilePath = "/Users/darko/Developer/Finki/WBS/wbs_project/WBS_Vets/veterinary_ambulances.csv";
-//            String outputFilePath = "/Users/darko/Developer/Finki/WBS/wbs_project/WBS_Vets/veterinary_ambulances_output.rdf";
+        String csvFilePath = "/Users/darko/Developer/Finki/WBS/nov/WBSVets/veterinary_ambulances.csv";
+        String outputFilePath = "/Users/darko/Developer/Finki/WBS/nov/WBSVets/veterinary_ambulances_output.rdf";
         try {
             // Use CSVLoader to load the CSV file
             List<String[]> csvLines = CSVLoader.loadCSV(csvFilePath);  // Now using List<String[]>

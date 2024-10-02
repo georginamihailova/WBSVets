@@ -21,11 +21,13 @@ public class RDFTriplesCreator {
             String id = line[0];
             String location = line[5];
             String date = line[3];
+            String type = line[4];
             String nameOfPlace = line[6];
             String legalEntity = line[8];
             String address = line[9];
             String longitude = line[11];
             String latitude = line[10];
+
 
             // Create RDF resources and properties
             Resource vetResource = model.createResource(VetVocabulary.NS + id);
@@ -35,12 +37,15 @@ public class RDFTriplesCreator {
                     .addProperty(VetVocabulary.HAS_LEGAL_ENTITY, legalEntity)
                     .addProperty(VetVocabulary.HAS_ADDRESS, address)
                     .addProperty(VetVocabulary.HAS_LONGITUDE, longitude)
-                    .addProperty(VetVocabulary.HAS_LATITUDE, latitude);
+                    .addProperty(VetVocabulary.HAS_LATITUDE, latitude)
+                    .addProperty(VetVocabulary.HAS_TYPE, type);
+
         }
 
         // Write RDF model to the specified output file
         try (FileOutputStream outputStream = new FileOutputStream(outputFilePath)) {
             model.write(outputStream, "RDF/XML");
+
         }
 
         System.out.println("RDF data written to " + outputFilePath);

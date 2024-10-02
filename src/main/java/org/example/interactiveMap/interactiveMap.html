@@ -67,6 +67,12 @@
                     <option value="">Сите општини</option>
                 </select>
             </div>
+            <div class="dropdown w-100 mb-4">
+                <label for="type-select"></label>
+                <select id="type-select" class="form-select w-100">
+                    <option value="">Сите типови</option>
+                </select>
+            </div>
 
             <!-- Card for displaying total number of clinics -->
             <div class="card">
@@ -95,19 +101,23 @@
     d3.json("http://localhost:8000/WBS_Vets/veterinary_ambulances_output.jsonld").then(function (data) {
         const clinics = [];
         const citySet = new Set();
+        const typeSet = new Set();
 
-        // Populate clinics and city set
+        // Populate clinics, citySet, and typeSet
         data["@graph"].forEach(item => {
             const id = item["@id"];
             const name = item["j.0:hasNameOfPlace"];
             const location = item["j.0:hasLocation"];
+            const type = item["j.0:hasType"];
             const latitude = item["j.0:hasLatitude"] ? parseFloat(item["j.0:hasLatitude"].trim()) : null; // Access latitude
             const longitude = item["j.0:hasLongitude"] ? parseFloat(item["j.0:hasLongitude"].trim()) : null; // Access longitude
+            const address = item["j.0:hasAddress"];
 
             // Only include clinics with valid coordinates
             if (latitude && longitude) {
-                clinics.push({id, name, location, latitude, longitude});
+                clinics.push({ id, name, location, type, latitude, longitude, address });
                 citySet.add(location);
+                typeSet.add(type); // Add type to the typeSet
             }
         });
 
@@ -119,41 +129,65 @@
                 .attr("value", city);
         });
 
+        // Populate type dropdown
+        typeSet.forEach(type => {
+
+            d3.select("#type-select")
+                .append("option")
+                .text(type)
+                .attr("value", type);
+        });
+
         // Add markers to the map
         const markers = L.layerGroup().addTo(map);
 
-        // Function to update markers and clinic count based on selected city
-        function updateMarkers(selectedCity) {
+        // Function to update markers and clinic count based on selected city and type
+        function updateMarkers(selectedCity, selectedType) {
             markers.clearLayers(); // Clear existing markers
 
-            const filteredClinics = selectedCity ? clinics.filter(c => c.location === selectedCity) : clinics;
+            let filteredClinics = clinics;
+
+            // Filter by selected city if it's present
+            if (selectedCity) {
+                filteredClinics = filteredClinics.filter(c => c.location === selectedCity);
+            }
+
+            // Filter by selected type if it's present
+            if (selectedType) {
+                filteredClinics = filteredClinics.filter(c => c.type === selectedType);
+            }
 
             // Update the clinic count in the card
             d3.select("#clinic-count").text(filteredClinics.length);
 
-            markers.clearLayers(); // Clear existing markers
-
+            // Add markers for the filtered clinics
             filteredClinics.forEach(clinic => {
-                // Log the latitude and longitude used for the marker
-                console.log(`Placing marker for clinic: ${clinic.name} at [${clinic.latitude}, ${clinic.longitude}]`);
-
-                // Create marker with a popup including clinic info and distance button
                 const marker = L.marker([clinic.latitude, clinic.longitude]).addTo(markers)
                     .bindPopup(`
-                        <b>${clinic.name}</b><br>${clinic.location}<br>
-                        <button onclick="getCurrentLocation('${clinic.name}', ${clinic.latitude}, ${clinic.longitude})">Get Distance</button>
-                    `);
+                    <b>${clinic.name}</b><br>
+                    ${clinic.address}<br>
+                    ${clinic.location}<br>
+                    <button onclick="getCurrentLocation('${clinic.name}', ${clinic.latitude}, ${clinic.longitude})">Get Distance</button>
+                `);
             });
         }
 
         // Initial marker and clinic count setup
-        updateMarkers("");
+        updateMarkers("", "");
 
-        // Filter clinics and update clinic count based on selected city
+        // Update markers when city or type is changed
         d3.select("#city-select").on("change", function () {
             const selectedCity = d3.select(this).property("value");
-            updateMarkers(selectedCity);
+            const selectedType = d3.select("#type-select").property("value");
+            updateMarkers(selectedCity, selectedType);
         });
+
+        d3.select("#type-select").on("change", function () {
+            const selectedCity = d3.select("#city-select").property("value");
+            const selectedType = d3.select(this).property("value");
+            updateMarkers(selectedCity, selectedType);
+        });
+
     }).catch(function (error) {
         console.error("Error loading JSON-LD: ", error);
     });
@@ -166,7 +200,13 @@
                 const userLongitude = position.coords.longitude;
 
                 const distance = haversineDistance(userLatitude, userLongitude, clinicLatitude, clinicLongitude);
-                alert(`Distance to ${clinicName}: ${distance.toFixed(2)} km`);
+
+                // If the distance is less than 1 km, display it as meters
+                if (distance < 1) {
+                    alert(`Distance to ${clinicName}: ${(distance * 1000).toFixed(2)} meters`);
+                } else {
+                    alert(`Distance to ${clinicName}: ${distance.toFixed(2)} km`);
+                }
             }, showError);
         } else {
             alert("Geolocation is not supported by this browser.");
@@ -204,6 +244,7 @@
 
         return R * c; // Distance in km
     }
+
 </script>
 </body>
 </html>

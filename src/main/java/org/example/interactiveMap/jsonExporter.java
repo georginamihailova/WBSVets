@@ -11,13 +11,13 @@ public class jsonExporter {
 
         // Load your RDF data into the model
         // Assuming you have a method to load RDF data
-//        loadRDFData(model, "/Users/darko/Developer/Finki/WBS/wbs_project/WBS_Vets/veterinary_ambulances_output.rdf");
-                loadRDFData(model, "C:\\Users\\ninam\\Downloads\\wbs_project\\wbs_project\\WBS_Vets\\veterinary_ambulances_output.rdf");
+        loadRDFData(model, "/Users/darko/Developer/Finki/WBS/nov/WBSVets/veterinary_ambulances_output.rdf");
+//                loadRDFData(model, "C:\\Users\\ninam\\Downloads\\wbs_project\\wbs_project\\WBS_Vets\\veterinary_ambulances_output.rdf");
 
 
         // Export the RDF data to JSON-LD
-//        RDFExporter.exportToJsonLD(model, "/Users/darko/Developer/Finki/WBS/wbs_project/WBS_Vets/veterinary_ambulances_output.jsonld");
-                RDFExporter.exportToJsonLD(model, "C:\\Users\\ninam\\Downloads\\wbs_project\\wbs_project\\WBS_Vets\\veterinary_ambulances_output.jsonld");
+        RDFExporter.exportToJsonLD(model, "/Users/darko/Developer/Finki/WBS/nov/WBSVets/veterinary_ambulances_output.jsonld");
+//                RDFExporter.exportToJsonLD(model, "C:\\Users\\ninam\\Downloads\\wbs_project\\wbs_project\\WBS_Vets\\veterinary_ambulances_output.jsonld");
 
 
     }

@@ -12,4 +12,5 @@ public class VetVocabulary {
     public static final Property HAS_ADDRESS = ModelFactory.createDefaultModel().createProperty(NS, "hasAddress");
     public static final Property HAS_LONGITUDE = ModelFactory.createDefaultModel().createProperty(NS, "hasLongitude");
     public static final Property HAS_LATITUDE = ModelFactory.createDefaultModel().createProperty(NS, "hasLatitude");
+    public static final Property HAS_TYPE = ModelFactory.createDefaultModel().createProperty(NS, "hasType");
 }
