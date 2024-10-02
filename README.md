@@ -27,4 +27,6 @@ This project is developed to facilitate access to information about veterinary c
 - **Address Page:** Use the search bar to find clinics by name, city, or address.
 - **View Details:** Click on clinic names to view more detailed information.
 
+
+
 Made by Georgina Mihailova & Darko Krstevski
