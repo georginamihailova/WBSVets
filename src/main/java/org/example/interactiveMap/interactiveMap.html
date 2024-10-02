@@ -145,7 +145,6 @@
             const latitude = item["j.0:hasLatitude"] ? parseFloat(item["j.0:hasLatitude"].trim()) : null; // Access latitude
             const longitude = item["j.0:hasLongitude"] ? parseFloat(item["j.0:hasLongitude"].trim()) : null; // Access longitude
             const address = item["j.0:hasAddress"];
-            console.log(location)
 
             // Only include clinics with valid coordinates
             if (latitude && longitude) {
@@ -163,8 +162,11 @@
                 .attr("value", city);
         });
 
-        // Populate type dropdown
-        typeSet.forEach(type => {
+        // Set allowed types
+        const allowedTypes = ["Амбуланта", "Болница", "Клиника"];
+
+        // Populate type dropdown with allowed types only
+        allowedTypes.forEach(type => {
             d3.select("#type-select")
                 .append("option")
                 .text(type)
@@ -187,7 +189,13 @@
 
             // Filter by selected type if it's present
             if (selectedType) {
-                filteredClinics = filteredClinics.filter(c => c.type === selectedType);
+                if (selectedType === "Амбуланта") {
+                    // Include all types that contain "Ambulanta"
+                    filteredClinics = filteredClinics.filter(c => c.type.includes("Амбуланта"));
+                } else {
+                    // Filter by exact type
+                    filteredClinics = filteredClinics.filter(c => c.type === selectedType);
+                }
             }
 
             // Add markers to the map
