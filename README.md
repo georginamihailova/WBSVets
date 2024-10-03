@@ -25,7 +25,7 @@ This project is developed to facilitate access to information about veterinary c
 ## Usage
 - **Homepage:** Access the homepage to view an interactive map of veterinary clinics.
 - **Address Page:** Use the search bar to find clinics by name, city, or address.
-- **View Details:** Click on clinic names to view more detailed information.
+- **Production information:** Displayed information about the project.
 
 
 
