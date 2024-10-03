@@ -15,12 +15,12 @@ This project is developed to facilitate access to information about veterinary c
 - **Detailed Clinic Information:** View detailed information about each clinic, including name, address, and location.
 
 ## Technologies Used
-- **HTML & CSS:** For structuring and styling the web application.
-- **JavaScript:** For client-side scripting and dynamic functionality.
-- **Bootstrap 5:** For responsive design and styling components.
-- **D3.js:** For data visualization and interactive elements.
-- **Leaflet.js:** For displaying the interactive map.
-- **Apache Jena (Java):** For handling the backend data in JSON-LD format.
+- **HTML & CSS:** 
+- **JavaScript:** 
+- **Bootstrap 5:** 
+- **D3.js:**
+- **Leaflet.js:** 
+- **Apache Jena (Java):** 
 
 ## Usage
 - **Homepage:** Access the homepage to view an interactive map of veterinary clinics.
