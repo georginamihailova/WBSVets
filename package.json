@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.21.2",
+    "http-server": "^14.1.1",
+    "neo4j-driver": "^5.27.0"
+  },
+  "name": "wbsvets",
+  "description": "This project is developed to facilitate access to information about veterinary clinics in the Republic of North Macedonia. It provides a user-friendly interface where users can search for clinics, view their locations, and access contact information.",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

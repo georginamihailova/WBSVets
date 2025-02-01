@@ -132,20 +132,21 @@
     }).addTo(map);
 
     // Load the JSON-LD data
-    d3.json("http://localhost:8000/veterinary_ambulances_output.jsonld").then(function (data) {
+    d3.json("http://localhost:3000/getVeterinaries").then(function(data) {
         const clinics = [];
         const citySet = new Set();
         const typeSet = new Set();
 
         // Populate clinics, citySet, and typeSet
-        data["@graph"].forEach(item => {
-            const id = item["@id"];
-            const name = item["j.0:hasNameOfPlace"];
-            const location = item["j.0:hasLocation"];
-            const type = item["j.0:hasType"];
-            const latitude = item["j.0:hasLatitude"] ? parseFloat(item["j.0:hasLatitude"].trim()) : null; // Access latitude
-            const longitude = item["j.0:hasLongitude"] ? parseFloat(item["j.0:hasLongitude"].trim()) : null; // Access longitude
-            const address = item["j.0:hasAddress"];
+        data.forEach(item => {
+            const veterinary = item.veterinary;
+            const id = veterinary.name;
+            const name = veterinary.name;
+            const location = veterinary.location; // City
+            const type = item.buildingType; // Building type (e.g., "Станица")
+            const latitude = veterinary.latitude ? parseFloat(veterinary.latitude.trim()) : null; // Access latitude
+            const longitude = veterinary.longitude ? parseFloat(veterinary.longitude.trim()) : null; // Access longitude
+            const address = veterinary.address;
 
             // Only include clinics with valid coordinates
             if (latitude && longitude) {
