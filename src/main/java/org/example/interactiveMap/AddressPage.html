@@ -122,11 +122,11 @@
   let currentPage = 1;
 
   // Load the JSON-LD data
-  d3.json("http://localhost:8000/WBS_Vets/veterinary_ambulances_output.jsonld").then(function (data) {
-    data["@graph"].forEach(item => {
-      const name = item["j.0:hasNameOfPlace"];
-      const location = item["j.0:hasLocation"];
-      const address = item["j.0:hasAddress"]; // Assume this is the address field
+  d3.json("http://localhost:3000/getVeterinaries").then(function (data) {
+    data.forEach(item => {
+      const name = item.veterinary.name
+      const location = item.veterinary.location;
+      const address = item.veterinary.address;
 
       clinics.push({ name, location, address });
     });

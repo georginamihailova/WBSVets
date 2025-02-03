@@ -157,7 +157,7 @@
         });
 
         // Populate city dropdown
-        citySet.forEach(city => {
+        Array.from(citySet).sort().forEach(city => {
             d3.select("#city-select")
                 .append("option")
                 .text(city)

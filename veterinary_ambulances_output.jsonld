@@ -7,8 +7,8 @@
             "j.0:hasNameOfPlace": "Ветеринарна Станица Здравје Кочани подружница број 1",
             "j.0:hasLegalEntity": "Ветеринарна Станица Здравје ДОО Кочани",
             "j.0:hasAddress": "ул. Лазар Андонов бр.1",
-            "j.0:hasLongitude": "22.4100",
-            "j.0:hasLatitude": "41.7770",
+            "j.0:hasLongitude": "22.409723526603905",
+            "j.0:hasLatitude": "41.912853624489415",
             "j.0:hasType": "Станица"
         },
         {
@@ -18,8 +18,8 @@
             "j.0:hasNameOfPlace": "Ветеринарна Станица Медика Вет",
             "j.0:hasLegalEntity": "Ветеринарна Станица Медика Вет ДОО",
             "j.0:hasAddress": "ул. Долна Рудина бб",
-            "j.0:hasLongitude": "22.2205",
-            "j.0:hasLatitude": "41.4475",
+            "j.0:hasLongitude": "22.47201297808084",
+            "j.0:hasLatitude": "41.636212360002546",
             "j.0:hasType": "Станица"
         },
         {
@@ -29,8 +29,8 @@
             "j.0:hasNameOfPlace": "Ветеринарна Станица Труст Вет",
             "j.0:hasLegalEntity": "ТПУПТруст ВетДООЕЛ",
             "j.0:hasAddress": "ул.ЈНА бр. 254",
-            "j.0:hasLongitude": "20.9100",
-            "j.0:hasLatitude": "41.6094",
+            "j.0:hasLongitude": "20.89813296946151",
+            "j.0:hasLatitude": "41.79509005704294",
             "j.0:hasType": "Станица"
         },
         {
@@ -40,8 +40,8 @@
             "j.0:hasNameOfPlace": "ТРНИЦА ДОО",
             "j.0:hasLegalEntity": "Друштво за производство, трговија и услуги ТРНИЦА ДОО с. Трница Маврово и Ростуша",
             "j.0:hasAddress": "населено место без уличен систем бр. 1 Трница Ростуша, Маврово",
-            "j.0:hasLongitude": "21.9840",
-            "j.0:hasLatitude": "41.7450",
+            "j.0:hasLongitude": "21.938109706990375",
+            "j.0:hasLatitude": "41.86765775216552",
             "j.0:hasType": "Станица"
         },
         {
@@ -84,8 +84,8 @@
             "j.0:hasNameOfPlace": "АД З.С.К. Струмица(Сушица)",
             "j.0:hasLegalEntity": "АД З.С.К. Струмица сСушица Н.Село",
             "j.0:hasAddress": "с.Сушица бр.105 општ.Ново Село",
-            "j.0:hasLongitude": "22.50154",
-            "j.0:hasLatitude": "41.26205",
+            "j.0:hasLongitude": "22.834883079862173",
+            "j.0:hasLatitude": "41.44001479760248",
             "j.0:hasType": "Станица"
         },
         {
@@ -172,8 +172,8 @@
             "j.0:hasNameOfPlace": "Анри вет",
             "j.0:hasLegalEntity": "ДТУ Анри вет",
             "j.0:hasAddress": "с.Стојаково,ул.Владо Пиперов бр.7",
-            "j.0:hasLongitude": "22.4225",
-            "j.0:hasLatitude": "41.4525",
+            "j.0:hasLongitude": "22.57255384915672",
+            "j.0:hasLatitude": "41.20499676228208",
             "j.0:hasType": "Клиника"
         },
         {
@@ -249,8 +249,8 @@
             "j.0:hasNameOfPlace": "КИРОВСКИ-ВЕТ ДООЕЛ",
             "j.0:hasLegalEntity": "ДПТУ КИРОВСКИ-ВЕТ ДООЕЛ увоз-извоз  ",
             "j.0:hasAddress": "ул.Борис Кидрич бр.14/а",
-            "j.0:hasLongitude": "22.8650",
-            "j.0:hasLatitude": "41.6510",
+            "j.0:hasLongitude": "22.854738215915578",
+            "j.0:hasLatitude": "41.71370632148624",
             "j.0:hasType": "Амбуланта"
         },
         {
@@ -315,8 +315,8 @@
             "j.0:hasNameOfPlace": "Ветеринарна Станица Медика Дебар",
             "j.0:hasLegalEntity": "Ветеринарна Станица МедикаДООЕЛ Дебар",
             "j.0:hasAddress": "ул. Алија Зенговски 2",
-            "j.0:hasLongitude": "20.5910",
-            "j.0:hasLatitude": "41.2081",
+            "j.0:hasLongitude": "20.518938559126912",
+            "j.0:hasLatitude": "41.52309675652917",
             "j.0:hasType": "Станица"
         },
         {
@@ -326,8 +326,8 @@
             "j.0:hasNameOfPlace": "ПЕТАР ПАВЕЛ ВЕТ",
             "j.0:hasLegalEntity": "ДПТУ ПЕТАР ПАВЕЛ ВЕТ ДООЕЛ увоз - извоз с. Ранковце, Ранковце",
             "j.0:hasAddress": "ул.населено место без уличен систем Ранковце",
-            "j.0:hasLongitude": "22.3505",
-            "j.0:hasLatitude": "42.0085",
+            "j.0:hasLongitude": "22.331101286871732",
+            "j.0:hasLatitude": "42.20495326881851",
             "j.0:hasType": "Амбуланта"
         },
         {
@@ -348,8 +348,8 @@
             "j.0:hasNameOfPlace": "Вардар АД Градско",
             "j.0:hasLegalEntity": "ДППЗСП ВАРДАР АД Градско",
             "j.0:hasAddress": "Автопат бр.4, Градско",
-            "j.0:hasLongitude": "21.5250",
-            "j.0:hasLatitude": "41.6260",
+            "j.0:hasLongitude": "21.94335433356384",
+            "j.0:hasLatitude": "41.57846988710267",
             "j.0:hasType": "Станица"
         },
         {
@@ -359,8 +359,8 @@
             "j.0:hasNameOfPlace": "Ветеринарна Станица Бе Вет",
             "j.0:hasLegalEntity": "ДОО Ветеринарна Станица Бе -Вет",
             "j.0:hasAddress": "ул. Задарска 60",
-            "j.0:hasLongitude": "22.8685",
-            "j.0:hasLatitude": "41.6530",
+            "j.0:hasLongitude": "22.856626490856875",
+            "j.0:hasLatitude": "41.70057046402432",
             "j.0:hasType": "Станица"
         },
         {
@@ -370,8 +370,8 @@
             "j.0:hasNameOfPlace": "Асра Вет",
             "j.0:hasLegalEntity": "Асра Вет ДООЕЛ",
             "j.0:hasAddress": "с.Слупчане",
-            "j.0:hasLongitude": "21.6700",
-            "j.0:hasLatitude": "42.0270",
+            "j.0:hasLongitude": "21.629955045413926",
+            "j.0:hasLatitude": "42.09287732918319",
             "j.0:hasType": "Амбуланта"
         },
         {
@@ -392,8 +392,8 @@
             "j.0:hasNameOfPlace": "ЗТД \"Сточарство\"",
             "j.0:hasLegalEntity": "ЗТД Сточарство ДОО",
             "j.0:hasAddress": "ул.Маршал Тито бб.",
-            "j.0:hasLongitude": "22.4200",
-            "j.0:hasLatitude": "41.4500",
+            "j.0:hasLongitude": "22.58335097362421",
+            "j.0:hasLatitude": "41.2054547507677",
             "j.0:hasType": "Станица"
         },
         {
@@ -436,8 +436,8 @@
             "j.0:hasNameOfPlace": "Ветеринарна Амбуланта Алфа Вет Карбинци",
             "j.0:hasLegalEntity": "ТД Гоче и Џоле ДОО",
             "j.0:hasAddress": "ул. Борис Крајгер бб Штип",
-            "j.0:hasLongitude": "22.12041",
-            "j.0:hasLatitude": "41.44582",
+            "j.0:hasLongitude": "22.197926982954883",
+            "j.0:hasLatitude": "41.751264350660946",
             "j.0:hasType": "Амбуланта"
         },
         {
@@ -447,8 +447,8 @@
             "j.0:hasNameOfPlace": "АГРИА",
             "j.0:hasLegalEntity": "Агриа Агроиндустриска групација ДОО",
             "j.0:hasAddress": "Ул.8 ми Септември бр 64",
-            "j.0:hasLongitude": "21.5285",
-            "j.0:hasLatitude": "41.6285",
+            "j.0:hasLongitude": "21.94683047606941",
+            "j.0:hasLatitude": "41.57583741071717",
             "j.0:hasType": "Амбуланта"
         },
         {
@@ -458,8 +458,8 @@
             "j.0:hasNameOfPlace": "ЉУПЧО И ДР.",
             "j.0:hasLegalEntity": "ДВВДТУ ветеринарна станица Љупчо и др. ДОО ",
             "j.0:hasAddress": "ул.Маршал Тито бб.",
-            "j.0:hasLongitude": "22.2575",
-            "j.0:hasLatitude": "41.4810",
+            "j.0:hasLongitude": "21.202179090936827",
+            "j.0:hasLatitude": "41.219944378024074",
             "j.0:hasType": "Амбуланта"
         },
         {
@@ -480,8 +480,8 @@
             "j.0:hasNameOfPlace": "Макси",
             "j.0:hasLegalEntity": "Макси ДООЕЛ",
             "j.0:hasAddress": "ул.Амди Леши бр.21",
-            "j.0:hasLongitude": "20.5935",
-            "j.0:hasLatitude": "41.2105",
+            "j.0:hasLongitude": "20.52407561644584",
+            "j.0:hasLatitude": "41.5209832272284",
             "j.0:hasType": "Амбуланта"
         },
         {
@@ -579,8 +579,8 @@
             "j.0:hasNameOfPlace": "Зебра ветерина",
             "j.0:hasLegalEntity": "Зебра ветерина",
             "j.0:hasAddress": "ул.Битолска бр. 7Ж",
-            "j.0:hasLongitude": "22.2615",
-            "j.0:hasLatitude": "41.4855",
+            "j.0:hasLongitude": "21.203131732292555",
+            "j.0:hasLatitude": "41.224265662261615",
             "j.0:hasType": "Амбуланта"
         },
         {
@@ -590,8 +590,8 @@
             "j.0:hasNameOfPlace": "Хемо-Вет ",
             "j.0:hasLegalEntity": "Хемо-Вет ДООЕЛ",
             "j.0:hasAddress": "ул.29 Ноември бр.2",
-            "j.0:hasLongitude": "22.4480",
-            "j.0:hasLatitude": "41.3770",
+            "j.0:hasLongitude": "22.56113294793395",
+            "j.0:hasLatitude": "41.31643232439593",
             "j.0:hasType": "Амбуланта"
         },
         {
@@ -623,8 +623,8 @@
             "j.0:hasNameOfPlace": "Фармалек",
             "j.0:hasLegalEntity": "Фармалек Трајкова,ДООЕЛ",
             "j.0:hasAddress": "ул.ЈНА бр.22-14",
-            "j.0:hasLongitude": "21.329502",
-            "j.0:hasLatitude": "41.032341",
+            "j.0:hasLongitude": "21.34250052240462",
+            "j.0:hasLatitude": "41.03466741665974",
             "j.0:hasType": "Амбуланта"
         },
         {
@@ -645,8 +645,8 @@
             "j.0:hasNameOfPlace": "Прима ДОО",
             "j.0:hasLegalEntity": "Ветеринрна АмбулантаПРИМА ДОО Свети Николе",
             "j.0:hasAddress": "ул. Велко Влаховиќ бр. 160",
-            "j.0:hasLongitude": "21.9775",
-            "j.0:hasLatitude": "41.7480",
+            "j.0:hasLongitude": "21.93211228828476",
+            "j.0:hasLatitude": "41.867026567516845",
             "j.0:hasType": "Амбуланта"
         },
         {
@@ -667,8 +667,8 @@
             "j.0:hasNameOfPlace": "Пајо Вет",
             "j.0:hasLegalEntity": "Пајо Вет ДООЕЛ ",
             "j.0:hasAddress": "с. Теарце",
-            "j.0:hasLongitude": "20.9150",
-            "j.0:hasLatitude": "41.9950",
+            "j.0:hasLongitude": " 21.04694506387806",
+            "j.0:hasLatitude": "42.07219541511246",
             "j.0:hasType": "Клиника"
         },
         {
@@ -838,13 +838,13 @@
         },
         {
             "@id": "j.0:157",
-            "j.0:hasLocation": "Kочани",
+            "j.0:hasLocation": "Кочани",
             "j.0:hasDate": "01.07.2015",
             "j.0:hasNameOfPlace": "ВЕТ-МЕД ГЃ",
             "j.0:hasLegalEntity": "ДПТУ  ВЕТ МЕД ГЃ ДООЕЛ увоз-извоз Оризари Кочани",
             "j.0:hasAddress": "ул.Теодосија Паунов бр. 55 Кочани",
-            "j.0:hasLongitude": "21.4130",
-            "j.0:hasLatitude": "41.7730",
+            "j.0:hasLongitude": "22.416756503117718",
+            "j.0:hasLatitude": "41.91317716398783",
             "j.0:hasType": "Амбуланта"
         },
         {
@@ -854,8 +854,8 @@
             "j.0:hasNameOfPlace": "Нова Вет - Гостивар",
             "j.0:hasLegalEntity": "Нова Вет ДООЕЛ Гостивар",
             "j.0:hasAddress": "ул. 18 Ноември бр. 27",
-            "j.0:hasLongitude": "20.9030",
-            "j.0:hasLatitude": "41.6050",
+            "j.0:hasLongitude": "20.911287401210554",
+            "j.0:hasLatitude": "41.79768870133708",
             "j.0:hasType": "Амбуланта"
         },
         {
@@ -887,8 +887,8 @@
             "j.0:hasNameOfPlace": "Агрипро",
             "j.0:hasLegalEntity": "ДПТУ фарма АГРИПО ДОО",
             "j.0:hasAddress": "ул.Првомајска бр.29",
-            "j.0:hasLongitude": "22.4505",
-            "j.0:hasLatitude": "41.3785",
+            "j.0:hasLongitude": "22.554588358648765",
+            "j.0:hasLatitude": "41.31875303270163",
             "j.0:hasType": "Станица"
         },
         {
@@ -931,8 +931,8 @@
             "j.0:hasNameOfPlace": "ВЕТЕРИНА ДР: ДОМАЗЕТОВСКИ",
             "j.0:hasLegalEntity": "Ветеринарна Амбуланта ВЕТЕРИНА Др. ДОМАЗЕТОВСКИ ДООЕЛ Чашка, Чашка",
             "j.0:hasAddress": "ул. Илинденска бр.1 Чашка",
-            "j.0:hasLongitude": "21.3500",
-            "j.0:hasLatitude": "41.3510",
+            "j.0:hasLongitude": "21.69160831046307",
+            "j.0:hasLatitude": "41.646549497404024",
             "j.0:hasType": "Амбуланта"
         },
         {
@@ -942,8 +942,8 @@
             "j.0:hasNameOfPlace": "Ветеринарна Амбуланта Проветалек ",
             "j.0:hasLegalEntity": "ДПТУ ПРОВЕТАЛЕК ДООЕЛ увоз-извоз  Новаци",
             "j.0:hasAddress": "ул.1 бр.1 с. Новаци",
-            "j.0:hasLongitude": "21.0935",
-            "j.0:hasLatitude": "41.3130",
+            "j.0:hasLongitude": "21.45649071931246",
+            "j.0:hasLatitude": "41.04099732473241",
             "j.0:hasType": "Амбуланта"
         },
         {
@@ -1030,8 +1030,8 @@
             "j.0:hasNameOfPlace": "Ветеринарна Станица Здравје Делчево",
             "j.0:hasLegalEntity": "ДООВетеринарна Станица ЗДРАВЈЕ Делчево",
             "j.0:hasAddress": "ул. Маршал Тито бр. 3",
-            "j.0:hasLongitude": "22.6760",
-            "j.0:hasLatitude": "41.7523",
+            "j.0:hasLongitude": "22.77787666980878",
+            "j.0:hasLatitude": "41.970223404507244",
             "j.0:hasType": "Станица"
         },
         {
@@ -1063,8 +1063,8 @@
             "j.0:hasNameOfPlace": "РАНКОВЦЕ",
             "j.0:hasLegalEntity": "Ветеринарна СтаницаДОО Крива Паланка",
             "j.0:hasAddress": "ул. Св.Јоаким Осоговски бр. 61",
-            "j.0:hasLongitude": "22.3480",
-            "j.0:hasLatitude": "42.0070",
+            "j.0:hasLongitude": "22.329407850222072",
+            "j.0:hasLatitude": "42.20190677734581",
             "j.0:hasType": "Амбуланта"
         },
         {
@@ -1085,8 +1085,8 @@
             "j.0:hasNameOfPlace": "Др.Новица Величковски",
             "j.0:hasLegalEntity": "Др.Новица ВеличковскиДООЕЛ",
             "j.0:hasAddress": "ул.29 Ноември бр.1",
-            "j.0:hasLongitude": "21.0705",
-            "j.0:hasLatitude": "41.1165",
+            "j.0:hasLongitude": "21.007071711083572",
+            "j.0:hasLatitude": "41.08728314837653",
             "j.0:hasType": "Амбуланта"
         },
         {
@@ -1096,8 +1096,8 @@
             "j.0:hasNameOfPlace": "Др. Перо Стојчевски",
             "j.0:hasLegalEntity": "Др. Перо Стојчевски ДООЕЛ",
             "j.0:hasAddress": "ул.6-та бр.72,",
-            "j.0:hasLongitude": "21.0670",
-            "j.0:hasLatitude": "41.1140",
+            "j.0:hasLongitude": "21.015740609677717",
+            "j.0:hasLatitude": "41.09242591221904",
             "j.0:hasType": "Амбуланта"
         },
         {
@@ -1107,8 +1107,8 @@
             "j.0:hasNameOfPlace": "Анима Вет",
             "j.0:hasLegalEntity": "Анима Вет ДООЕЛ Цапари",
             "j.0:hasAddress": "ул. 1 с.Цапари",
-            "j.0:hasLongitude": "21.329508",
-            "j.0:hasLatitude": "41.032345",
+            "j.0:hasLongitude": "21.179673164400455",
+            "j.0:hasLatitude": "41.05693170892861",
             "j.0:hasType": "Амбуланта"
         },
         {
@@ -1121,17 +1121,6 @@
             "j.0:hasLongitude": "22.2025",
             "j.0:hasLatitude": "41.7400",
             "j.0:hasType": "Станица"
-        },
-        {
-            "@id": "j.0:18",
-            "j.0:hasLocation": "Битола",
-            "j.0:hasDate": "26.10.1999",
-            "j.0:hasNameOfPlace": "Анима Вет, Цапари",
-            "j.0:hasLegalEntity": "Димовски Анима Вет, Цапари ДООЕЛ",
-            "j.0:hasAddress": "ул. Север-Југ 2/47",
-            "j.0:hasLongitude": "21.4333",
-            "j.0:hasLatitude": "41.9968",
-            "j.0:hasType": "Амбуланта"
         },
         {
             "@id": "j.0:181",
@@ -1195,8 +1184,8 @@
             "j.0:hasNameOfPlace": "ВЕТ Градец",
             "j.0:hasLegalEntity": "ВЕТ Градец ДОО експорт-импорт градец",
             "j.0:hasAddress": "с.Градец,101бб",
-            "j.0:hasLongitude": "20.9155",
-            "j.0:hasLatitude": "41.6125",
+            "j.0:hasLongitude": "20.903779062825073",
+            "j.0:hasLatitude": "41.896249535139",
             "j.0:hasType": "Клиника"
         },
         {
@@ -1206,8 +1195,8 @@
             "j.0:hasNameOfPlace": "\"Јан Вет\" Крушево",
             "j.0:hasLegalEntity": "\"Јан Вет\" ДООЕЛКрушево",
             "j.0:hasAddress": "ул.Мише Ефтим бр.17",
-            "j.0:hasLongitude": "21.1985",
-            "j.0:hasLatitude": "41.2500",
+            "j.0:hasLongitude": "21.250085249299758",
+            "j.0:hasLatitude": "41.36628630612049",
             "j.0:hasType": "Станица"
         },
         {
@@ -1217,8 +1206,8 @@
             "j.0:hasNameOfPlace": "Ники Вет",
             "j.0:hasLegalEntity": "Ники Вет ДООЕЛ",
             "j.0:hasAddress": "ул. Благој Туфанов бр. 31",
-            "j.0:hasLongitude": "22.2180",
-            "j.0:hasLatitude": "41.4450",
+            "j.0:hasLongitude": "22.46175964315639",
+            "j.0:hasLatitude": "41.63293920609233",
             "j.0:hasType": "Амбуланта"
         },
         {
@@ -1228,8 +1217,8 @@
             "j.0:hasNameOfPlace": "Алинас Гроуп Дооел",
             "j.0:hasLegalEntity": "ДТПТГТУУ АЛИНАС ГРОУП ДООЕЛ експорт импорт Здуње, Гостивар",
             "j.0:hasAddress": "Млаки 1 бр.1 Здуње , Гостивар",
-            "j.0:hasLongitude": "20.8950",
-            "j.0:hasLatitude": "41.6075",
+            "j.0:hasLongitude": "20.900200089571896",
+            "j.0:hasLatitude": "41.80690725360201",
             "j.0:hasType": "Амбуланта"
         },
         {
@@ -1267,13 +1256,13 @@
         },
         {
             "@id": "j.0:105",
-            "j.0:hasLocation": "Свети Николе ",
+            "j.0:hasLocation": "Свети Николе",
             "j.0:hasDate": "31.08.2012",
             "j.0:hasNameOfPlace": "АНИМАЛВЕТ-КИМ",
             "j.0:hasLegalEntity": "АНИМАЛВЕТ-КИМ ДООЕЛ",
             "j.0:hasAddress": "ул.Ванчо Ангелов бр.39",
-            "j.0:hasLongitude": "22.0005",
-            "j.0:hasLatitude": "41.7505",
+            "j.0:hasLongitude": "21.949470930448637",
+            "j.0:hasLatitude": "41.86658634005911",
             "j.0:hasType": "Амбуланта"
         },
         {
@@ -1294,8 +1283,8 @@
             "j.0:hasNameOfPlace": "Зоо-Медика",
             "j.0:hasLegalEntity": "Зоо-Медика ДООЕЛ",
             "j.0:hasAddress": "ул.А Кукуречани",
-            "j.0:hasLongitude": "21.349031",
-            "j.0:hasLatitude": "41.036455",
+            "j.0:hasLongitude": "21.32716772525539",
+            "j.0:hasLatitude": "41.09394116989322",
             "j.0:hasType": "Амбуланта"
         },
         {
@@ -1316,8 +1305,8 @@
             "j.0:hasNameOfPlace": "Вива Вет",
             "j.0:hasLegalEntity": "Вива Вет Гоце ДООЕЛ",
             "j.0:hasAddress": "с. Драгобраште",
-            "j.0:hasLongitude": "22.5165",
-            "j.0:hasLatitude": "41.7405",
+            "j.0:hasLongitude": "22.51174797617528",
+            "j.0:hasLatitude": "41.88472996162085",
             "j.0:hasType": "Амбуланта"
         },
         {
@@ -1327,8 +1316,8 @@
             "j.0:hasNameOfPlace": "Ветеринарна Станица Свети Николе",
             "j.0:hasLegalEntity": "Ветеринарна Станица ДОО Свети Николе",
             "j.0:hasAddress": "ул. Велко Влаховиќ бр. 182",
-            "j.0:hasLongitude": "21.9860",
-            "j.0:hasLatitude": "41.7520",
+            "j.0:hasLongitude": "21.94123889829972",
+            "j.0:hasLatitude": "41.87036221874595",
             "j.0:hasType": "Станица"
         },
         {
@@ -1338,8 +1327,8 @@
             "j.0:hasNameOfPlace": "ВЕТ  СЕРВИС ДООЕЛ БИТОЛА",
             "j.0:hasLegalEntity": "ВЕТЕРИНАРНА Амбуланта     ВЕТ  СЕРВИС ДООЕЛ БИТОЛА",
             "j.0:hasAddress": "ул. ПРЕВАЛЕЦ бр.18 Битола",
-            "j.0:hasLongitude": "21.329590",
-            "j.0:hasLatitude": "41.032330",
+            "j.0:hasLongitude": "21.34096620387169",
+            "j.0:hasLatitude": "41.03186139026431",
             "j.0:hasType": "Амбуланта"
         },
         {
@@ -1404,8 +1393,8 @@
             "j.0:hasNameOfPlace": "СТО-ВЕТ ДООЕЛ",
             "j.0:hasLegalEntity": " ДПТУ СТО-ВЕТ ДООЕЛ",
             "j.0:hasAddress": "ул. Јане Сандански бб. Демир К.",
-            "j.0:hasLongitude": "22.2590",
-            "j.0:hasLatitude": "41.4830",
+            "j.0:hasLongitude": "22.24094149245896",
+            "j.0:hasLatitude": "41.409272040283575",
             "j.0:hasType": "Амбуланта"
         },
         {
@@ -1437,8 +1426,8 @@
             "j.0:hasNameOfPlace": "БАР ВЕТ КРКЛИНО",
             "j.0:hasLegalEntity": "ДПТГМУ БАР ВЕТ увоз извоз ДООЕЛ Битола",
             "j.0:hasAddress": "Булевар 1ви мајбр.243 Битола, Битола",
-            "j.0:hasLongitude": "21.329572",
-            "j.0:hasLatitude": "41.032357",
+            "j.0:hasLongitude": "21.369572",
+            "j.0:hasLatitude": "41.012357",
             "j.0:hasType": "Амбуланта"
         },
         {
@@ -1470,8 +1459,8 @@
             "j.0:hasNameOfPlace": "АГ-ЕР ВЕТ",
             "j.0:hasLegalEntity": "АГ-ЕР ВЕТ дооел увоз-извоз",
             "j.0:hasAddress": "ул.Панче Попоски бр 2/1-1",
-            "j.0:hasLongitude": "20.9205",
-            "j.0:hasLatitude": "41.6080",
+            "j.0:hasLongitude": "20.911803691861248",
+            "j.0:hasLatitude": "41.79044611927162",
             "j.0:hasType": "Амбуланта"
         },
         {
@@ -1481,8 +1470,8 @@
             "j.0:hasNameOfPlace": "ВИКИ-МЕДИКА",
             "j.0:hasLegalEntity": "ВИКИ-МЕДИКА ДООЕЛ",
             "j.0:hasAddress": "с.Подареш",
-            "j.0:hasLongitude": "22.2215",
-            "j.0:hasLatitude": "41.4465",
+            "j.0:hasLongitude": "22.46238350693132",
+            "j.0:hasLatitude": "41.640857745135904",
             "j.0:hasType": "Амбуланта"
         },
         {
@@ -1492,8 +1481,8 @@
             "j.0:hasNameOfPlace": "Анимал - Вет",
             "j.0:hasLegalEntity": "Анимал - Вет ДООЕЛ",
             "j.0:hasAddress": "ул.Плачковица бр.221",
-            "j.0:hasLongitude": "22.2150",
-            "j.0:hasLatitude": "41.4440",
+            "j.0:hasLongitude": "22.478766204337244",
+            "j.0:hasLatitude": "41.6317323887944",
             "j.0:hasType": "Амбуланта"
         },
         {
@@ -1558,8 +1547,8 @@
             "j.0:hasNameOfPlace": "Унивет",
             "j.0:hasLegalEntity": "УНИВЕТ Јонче и др ДОО",
             "j.0:hasAddress": "ул Самоилова 2",
-            "j.0:hasLongitude": "22.2140",
-            "j.0:hasLatitude": "41.4425",
+            "j.0:hasLongitude": "22.47212505546108",
+            "j.0:hasLatitude": "41.6391495895567",
             "j.0:hasType": "Амбуланта"
         },
         {
@@ -1602,8 +1591,8 @@
             "j.0:hasNameOfPlace": "Д-р. Тасески",
             "j.0:hasLegalEntity": "Д-р Тасески ДООЕЛ",
             "j.0:hasAddress": "ул.Илинденска бр.109",
-            "j.0:hasLongitude": "21.1950",
-            "j.0:hasLatitude": "41.2475",
+            "j.0:hasLongitude": "21.246024723693722",
+            "j.0:hasLatitude": "41.370429302590225",
             "j.0:hasType": "Амбуланта"
         },
         {
@@ -1613,8 +1602,8 @@
             "j.0:hasNameOfPlace": "Ветеринарна Станица Крива Паланка",
             "j.0:hasLegalEntity": "Ветеринарна СтаницаДОО Крива Паланка",
             "j.0:hasAddress": "ул. Св.Јоаким Осоговски бр. 61",
-            "j.0:hasLongitude": "22.3545",
-            "j.0:hasLatitude": "42.0060",
+            "j.0:hasLongitude": "22.324730739475388",
+            "j.0:hasLatitude": "42.19721728281768",
             "j.0:hasType": "Станица"
         },
         {
@@ -1657,8 +1646,8 @@
             "j.0:hasNameOfPlace": "Ветеринарна Станица Виница",
             "j.0:hasLegalEntity": "Ветеринарна Станица ДООЕЛ Виница",
             "j.0:hasAddress": "ул. Илинденска 96",
-            "j.0:hasLongitude": "22.5080",
-            "j.0:hasLatitude": "41.7398",
+            "j.0:hasLongitude": "22.50363697699561",
+            "j.0:hasLatitude": "41.881758540408526",
             "j.0:hasType": "Станица"
         },
         {
@@ -1679,8 +1668,8 @@
             "j.0:hasNameOfPlace": "Дини ГМ-Вет",
             "j.0:hasLegalEntity": "Дини ГМ-ВетДОО увоз-извоз",
             "j.0:hasAddress": "ул.Драчевска бр.120",
-            "j.0:hasLongitude": "21.31071",
-            "j.0:hasLatitude": "41.56267",
+            "j.0:hasLongitude": "21.543630810477595",
+            "j.0:hasLatitude": "41.9243230716965",
             "j.0:hasType": "Амбуланта"
         },
         {
@@ -1690,8 +1679,8 @@
             "j.0:hasNameOfPlace": "ЗЗ \"Единство\" Челопек",
             "j.0:hasLegalEntity": "ЗЗ \"Единство\" Челопек",
             "j.0:hasAddress": "с.Челопек",
-            "j.0:hasLongitude": "21.7400",
-            "j.0:hasLatitude": "41.8160",
+            "j.0:hasLongitude": "21.0133477459004",
+            "j.0:hasLatitude": "41.92920297674108",
             "j.0:hasType": "Станица"
         },
         {
@@ -1745,8 +1734,8 @@
             "j.0:hasNameOfPlace": "Др.Ичков",
             "j.0:hasLegalEntity": "ДПТУ ДР.ИЧКОВ ДООЕЛ увоз-извоз",
             "j.0:hasAddress": "ул.Кукушка бр.7",
-            "j.0:hasLongitude": "22.4180",
-            "j.0:hasLatitude": "41.4480",
+            "j.0:hasLongitude": "22.576430561502615",
+            "j.0:hasLatitude": "41.20244160979965",
             "j.0:hasType": "Амбуланта"
         },
         {
@@ -1899,8 +1888,8 @@
             "j.0:hasNameOfPlace": "Пела вет Битола",
             "j.0:hasLegalEntity": "Пела вет ДООЕЛ",
             "j.0:hasAddress": "м.в. Врчва с. Крклино",
-            "j.0:hasLongitude": "21.343123",
-            "j.0:hasLatitude": "41.035852",
+            "j.0:hasLongitude": "21.32881954244493",
+            "j.0:hasLatitude": "41.0737216647242",
             "j.0:hasType": "Амбуланта"
         },
         {
@@ -1932,8 +1921,8 @@
             "j.0:hasNameOfPlace": "БАБИЧ ДЕЛ",
             "j.0:hasLegalEntity": "Ветеринарна Амбуланта БАБИЧ ДЕЛ ДООЕЛ Делчево",
             "j.0:hasAddress": "у. Благој Стоименов бр.5 Делчево",
-            "j.0:hasLongitude": "22.6700",
-            "j.0:hasLatitude": "41.7500",
+            "j.0:hasLongitude": "22.77959328339178",
+            "j.0:hasLatitude": "41.971882559106426",
             "j.0:hasType": "Амбуланта"
         },
         {
@@ -1951,11 +1940,11 @@
             "@id": "j.0:140",
             "j.0:hasLocation": "Кочани",
             "j.0:hasDate": "14,01,2014",
-            "j.0:hasNameOfPlace": "АВИЦЕНА-ВЕТ",
+            "j.0:hasNameOfPlace": "Амбуланта Д-р Јаневи",
             "j.0:hasLegalEntity": "ДПТУ АВИЦЕНА-ВЕТ ДООЕЛ увоз - извоз",
-            "j.0:hasAddress": "ул. 1-ви Мај  бр. 4 , Спанчево, Чешиново-Облешево",
-            "j.0:hasLongitude": "22.4125",
-            "j.0:hasLatitude": "41.7805",
+            "j.0:hasAddress": "ул. Страшо Ербапче бр.7, Кочани 2300",
+            "j.0:hasLongitude": "22.40741668044963",
+            "j.0:hasLatitude": "41.91291823019371",
             "j.0:hasType": "Амбуланта"
         },
         {
@@ -1971,13 +1960,13 @@
         },
         {
             "@id": "j.0:90",
-            "j.0:hasLocation": "Свети Николе",
+            "j.0:hasLocation": "Штип",
             "j.0:hasDate": "16.5.2011",
             "j.0:hasNameOfPlace": "Алфа Вет",
             "j.0:hasLegalEntity": "Алфа Вет ДООЕЛ",
-            "j.0:hasAddress": "ул.Моша Пијаде бр.5",
-            "j.0:hasLongitude": "21.9885",
-            "j.0:hasLatitude": "41.7565",
+            "j.0:hasAddress": "Борис Крајгер, Штип 2000",
+            "j.0:hasLongitude": "22.196964",
+            "j.0:hasLatitude": "41.739835",
             "j.0:hasType": "Амбуланта"
         },
         {
@@ -1998,8 +1987,8 @@
             "j.0:hasNameOfPlace": "Ветеринарна Станица Дел Вет",
             "j.0:hasLegalEntity": "Ветеринарна Станица Дел Вет ДООЕЛ",
             "j.0:hasAddress": "ул. 8 Септември бб",
-            "j.0:hasLongitude": "22.6785",
-            "j.0:hasLatitude": "41.7550",
+            "j.0:hasLongitude": "22.76319962367414",
+            "j.0:hasLatitude": "41.968500390528305",
             "j.0:hasType": "Станица"
         },
         {
@@ -2031,8 +2020,8 @@
             "j.0:hasNameOfPlace": "Пелагонија Вет ДООЕЛ",
             "j.0:hasLegalEntity": "Ветеринарна Амбуланта ПЕЛАГОНИЈА ВЕТ ДООЕЛ с. Могила",
             "j.0:hasAddress": "ул. Ѓ бр. 28 с. Могила Могила",
-            "j.0:hasLongitude": "21.302066",
-            "j.0:hasLatitude": "41.035089",
+            "j.0:hasLongitude": "21.376574164416795",
+            "j.0:hasLatitude": "41.108669657271236",
             "j.0:hasType": "Амбуланта"
         },
         {
@@ -2075,8 +2064,8 @@
             "j.0:hasNameOfPlace": "ВАЛАНДОВО-ВЕТ,ДОО",
             "j.0:hasLegalEntity": "ВАЛАНДОВО-ВЕТ,ДОО",
             "j.0:hasAddress": "ул.29 Ноември бр.2",
-            "j.0:hasLongitude": "22.4465",
-            "j.0:hasLatitude": "41.3750",
+            "j.0:hasLongitude": "22.56799940226594",
+            "j.0:hasLatitude": "41.31991335586798",
             "j.0:hasType": "Амбуланта"
         },
         {
@@ -2086,8 +2075,8 @@
             "j.0:hasNameOfPlace": "Далант Вет",
             "j.0:hasLegalEntity": "ЖИТО МАЛЕШ АД",
             "j.0:hasAddress": "с.Смојмирово",
-            "j.0:hasLongitude": "22.8700",
-            "j.0:hasLatitude": "41.6555",
+            "j.0:hasLongitude": "22.84842966099806",
+            "j.0:hasLatitude": "41.70758726815163",
             "j.0:hasType": "Станица"
         }
     ],
